@@ -1,5 +1,5 @@
 '''
-    Rig-EK 'infol' Param Decrypter
+    'infol' Param Decrypter
     Jan 22th 2017
 '''
 
