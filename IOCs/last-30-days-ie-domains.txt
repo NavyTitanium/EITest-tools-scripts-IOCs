@@ -1,4 +1,4 @@
-# last updated on: 2018-02-08 03:00:01 UTC 
+# last updated on: 2018-02-08 03:30:01 UTC 
 0rtewqbuzz.tk
 0tytrecalltoday.tk
 1009thedanes.tk
@@ -116,6 +116,7 @@ can-play.tk
 can-read-well.tk
 can-saythe.tk
 can-seerightly.bid
+can-talk.tk
 cannot-change.tk
 canonly.tk
 canusuallyjudge.bid
@@ -479,6 +480,7 @@ while-imbreathing.tk
 will-hire-you.tk
 with-my.tk
 with-what-youhave.tk
+with-whomilive.tk
 with-your-thoughts.tk
 with-yourpast.tk
 without-regrets.bid
