@@ -1,4 +1,4 @@
-# last updated on: 2018-02-11 16:00:01 UTC 
+# last updated on: 2018-02-11 16:30:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -125,6 +125,7 @@ and-communicate.tk
 and-confidence.tk
 and-flower.tk
 and-grey.tk
+and-he-always.tk
 and-hewill.tk
 and-knowledge.tk
 and-leather.tk
@@ -517,7 +518,6 @@ morespeakers.tk
 most-helping.bid
 motherand.tk
 my-guardian.tk
-myitissuefix.bid
 mymotherbest.tk
 myparents.tk
 mysurname.tk
@@ -781,6 +781,7 @@ usuallyhave.tk
 very-attentively.tk
 very-interestingbest.tk
 veryconvenient.tk
+verymuchsupport.tk
 verynice.tk
 verypopular-supp.tk
 verypopularsupp.tk
