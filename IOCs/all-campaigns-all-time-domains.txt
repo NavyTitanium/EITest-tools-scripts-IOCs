@@ -1,4 +1,4 @@
-# last updated on: 2018-02-12 19:00:01 UTC 
+# last updated on: 2018-02-12 19:30:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -432,6 +432,7 @@ imported-cane.tk
 improvethe.tk
 in-britain.tk
 in-danger.tk
+in-fact.tk
 in-general.tk
 in-helpingyou.bid
 in-mylife.tk
@@ -906,6 +907,7 @@ wasanetwork.tk
 wasatoxford.tk
 watch-tv.tk
 we-are-a.tk
+we-are-intelligent.tk
 we-arenever.tk
 we-often.tk
 wecease.tk
