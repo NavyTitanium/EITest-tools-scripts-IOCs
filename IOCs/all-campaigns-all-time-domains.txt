@@ -1,4 +1,4 @@
-# last updated on: 2018-02-12 16:30:01 UTC 
+# last updated on: 2018-02-12 17:00:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -727,6 +727,7 @@ simply-enables.tk
 single-thought.tk
 small-mouth.tk
 small-newspaper.tk
+smallarea.tk
 so-defensless.tk
 so-interestingand.tk
 some-animals-helper.tk
@@ -739,6 +740,7 @@ something-new.tk
 something-to.tk
 sometimecalling.tk
 sometimes-we.tk
+sothechances.tk
 spacecraft-became.tk
 spaces-between.tk
 spaceshipsatellite.tk
