@@ -1,4 +1,4 @@
-# last updated on: 2018-02-12 19:30:02 UTC 
+# last updated on: 2018-02-12 20:00:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -138,6 +138,7 @@ and-knowledge.tk
 and-leather.tk
 and-magazines.tk
 and-relaxing.tk
+and-that-we.tk
 and-then-send.tk
 and-then-success.tk
 and-worksin.tk
@@ -715,6 +716,7 @@ runningand.tk
 runsmooth.tk
 same-about.tk
 satisfytheir.tk
+saythat.tk
 schoolevents.tk
 secondor-foreign.tk
 seethat.tk
