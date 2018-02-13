@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 06:00:02 UTC 
+# last updated on: 2018-02-13 06:30:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -408,6 +408,7 @@ he-isalways.tk
 he-isasurgeon.tk
 he-often.tk
 heart-thatone.bid
+heguided.tk
 heleft-the.tk
 helikes.tk
 helistens.tk
@@ -486,6 +487,7 @@ is-destroying.tk
 is-happening-to.tk
 is-knownin.tk
 is-not-blind.tk
+is-notonly.tk
 is-now-top.tk
 is-thefourth.tk
 is-typedout.tk
