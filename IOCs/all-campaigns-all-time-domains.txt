@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 01:00:02 UTC 
+# last updated on: 2018-02-13 01:30:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -527,6 +527,7 @@ language-isthe.tk
 languagein.tk
 largefamily.tk
 late1960s.tk
+latelycomputers.tk
 leastonce.tk
 letyourmind.tk
 life-achieved.tk
@@ -820,6 +821,7 @@ the-universe.tk
 the-universeconspires.bid
 the-us-defense.tk
 the-wholeworld.tk
+the1990s.tk
 theafrican.tk
 thebestinterest.tk
 thebrave.tk
