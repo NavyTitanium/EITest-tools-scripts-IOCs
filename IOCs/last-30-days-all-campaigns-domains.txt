@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 03:30:02 UTC 
+# last updated on: 2018-02-13 04:00:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -130,6 +130,7 @@ alsothehead.tk
 always-full.tk
 amainframe.tk
 ameager.tk
+american-history.tk
 anaccident.tk
 and-communicate.tk
 and-confidence.tk
@@ -939,6 +940,7 @@ we-arenever.tk
 we-often.tk
 wecease.tk
 wehave-onl.tk
+wehavesupp.tk
 weknow-today.tk
 wellheis.tk
 wemight.tk
