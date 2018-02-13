@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 05:00:02 UTC 
+# last updated on: 2018-02-13 05:30:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -348,6 +348,7 @@ for-cloth.tk
 for-hours.tk
 for-memy-own.tk
 for-more.tk
+for-nearly.tk
 for-theworld.tk
 foraway.tk
 forexamplesupp.tk
@@ -939,6 +940,7 @@ we-are-intelligent.tk
 we-arenever.tk
 we-often.tk
 wecease.tk
+wedonot.tk
 wehave-onl.tk
 wehavesupp.tk
 weknow-today.tk
