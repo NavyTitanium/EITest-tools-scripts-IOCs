@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 00:30:01 UTC 
+# last updated on: 2018-02-13 01:00:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -22,6 +22,7 @@
 1st-mass-media.tk
 1st-myfriends.tk
 1st-theworldismine.tk
+1st-world-war.tk
 1stafailure.tk
 1stalfred-thegreat.tk
 1stbe-careful.tk
@@ -574,6 +575,7 @@ manyfriends.tk
 mapupil.tk
 market-gardening.tk
 marketing-deals.tk
+measure-of-baseballs.tk
 meet-some.tk
 meetalmost.tk
 memory-warms.tk
