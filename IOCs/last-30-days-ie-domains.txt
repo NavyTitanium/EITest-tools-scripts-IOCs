@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 16:00:02 UTC 
+# last updated on: 2018-02-13 16:30:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -513,6 +513,7 @@ it-seems.tk
 it-wasalarge.tk
 itadvice.bid
 itarrives.tk
+iteveryday.tk
 ithinkour.tk
 itis-smal.tk
 itis-small.tk
@@ -887,6 +888,7 @@ theradio.tk
 there-aremany.tk
 there-arenow.tk
 there-arewild.tk
+there-everything.tk
 thesamehelper.tk
 thethronenow.tk
 thetwentieth.tk
@@ -1026,6 +1028,7 @@ you-not-because.tk
 you-think-youhave.tk
 you-upinside.tk
 you-want-something.bid
+youcan-write.tk
 youdonot-need.tk
 youmay-bejust.tk
 youneed.tk
