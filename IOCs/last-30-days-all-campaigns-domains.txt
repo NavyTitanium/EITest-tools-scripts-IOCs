@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 22:00:01 UTC 
+# last updated on: 2018-02-13 22:30:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -880,6 +880,7 @@ the-universeconspires.bid
 the-us-defense.tk
 the-wholeworld.tk
 the1990s.tk
+the21century.tk
 theafrican.tk
 thebestinterest.tk
 thebrave.tk
@@ -1000,6 +1001,7 @@ watch-tv.tk
 we-are-a.tk
 we-are-intelligent.tk
 we-arenever.tk
+we-arestill.tk
 we-often.tk
 wecease.tk
 wedonot.tk
