@@ -1,4 +1,4 @@
-# last updated on: 2018-02-13 19:00:01 UTC 
+# last updated on: 2018-02-13 19:30:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -859,6 +859,7 @@ the-event.tk
 the-idea-best.tk
 the-internetis.tk
 the-nternetwas.tk
+the-onehand.tk
 the-onlyliving.tk
 the-other-now.tk
 the-universe.tk
@@ -978,6 +979,7 @@ wasafortress.tk
 wasalittle.tk
 wasanetwork.tk
 wasatoxford.tk
+waste-of.tk
 watch-tv.tk
 we-are-a.tk
 we-are-intelligent.tk
