@@ -1,4 +1,4 @@
-# last updated on: 2018-02-14 15:30:01 UTC 
+# last updated on: 2018-02-14 16:00:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -1068,6 +1068,7 @@ we-arenever.tk
 we-arenot.tk
 we-arestill.tk
 we-often.tk
+weave-progress.tk
 wecease.tk
 wedonot.tk
 wehadnt.tk
@@ -1114,6 +1115,7 @@ without-regrets.bid
 withouteffort.tk
 withoutit.tk
 womanis-more.tk
+work-physically.tk
 worked-bette.tk
 workedat.tk
 working-for.tk
