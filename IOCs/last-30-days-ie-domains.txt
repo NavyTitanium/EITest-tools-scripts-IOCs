@@ -1,4 +1,4 @@
-# last updated on: 2018-02-14 19:30:01 UTC 
+# last updated on: 2018-02-14 20:00:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -775,6 +775,7 @@ our-life-supp.tk
 our-life.tk
 our-school.tk
 our-society.tk
+oureverydaynow.tk
 own-dreams.tk
 ownqwptpersonto.bid
 ownsacomputer.tk
@@ -920,6 +921,7 @@ thanyou-ask-for.bid
 that-name.tk
 that-people.tk
 that-time.tk
+that-today.tk
 that-travelling.tk
 thatis-two.tk
 thatitis.tk
