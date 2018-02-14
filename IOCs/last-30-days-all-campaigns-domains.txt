@@ -1,4 +1,4 @@
-# last updated on: 2018-02-14 21:00:01 UTC 
+# last updated on: 2018-02-14 21:30:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -250,6 +250,7 @@ called-burhs.tk
 called-pets.tk
 calltocenterfast.bid
 calltrust.bid
+can-hardly.tk
 can-play.tk
 can-read-well.tk
 can-saythe.tk
@@ -604,6 +605,7 @@ late1960s.tk
 latelycomputers.tk
 least-perfect.tk
 leastonce.tk
+left-their.tk
 letter-but.tk
 letyourmind.tk
 libraries-photo.tk
@@ -991,6 +993,7 @@ thetwentieth.tk
 they-arenow.tk
 they-arethe.tk
 theycan.tk
+theyhave.tk
 theylive.tk
 theypoint.tk
 thingsare-infinite.tk
@@ -1128,6 +1131,7 @@ with-your-thoughts.tk
 with-yourpast.tk
 with112.tk
 within-minutes.tk
+without-cell.tk
 without-checking.tk
 without-regrets.bid
 withouteffort.tk
