@@ -1,4 +1,4 @@
-# last updated on: 2018-02-14 02:30:02 UTC 
+# last updated on: 2018-02-14 03:00:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -171,6 +171,7 @@ arepublishing.tk
 arerecovered.tk
 areshorter.tk
 aresmall.tk
+arethings.tk
 arewild.tk
 arewildand.tk
 articlesabout-supp.tk
@@ -1013,6 +1014,7 @@ watch-tv.tk
 we-are-a.tk
 we-are-intelligent.tk
 we-arenever.tk
+we-arenot.tk
 we-arestill.tk
 we-often.tk
 wecease.tk
