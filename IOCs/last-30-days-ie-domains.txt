@@ -1,4 +1,4 @@
-# last updated on: 2018-02-14 12:30:01 UTC 
+# last updated on: 2018-02-14 13:00:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -755,9 +755,11 @@ others-fail.tk
 others-like.tk
 our-greatest.tk
 our-hearts.tk
+our-jobs.tk
 our-life-supp.tk
 our-life.tk
 our-school.tk
+our-society.tk
 own-dreams.tk
 ownqwptpersonto.bid
 ownsacomputer.tk
