@@ -1,4 +1,4 @@
-# last updated on: 2018-02-14 00:00:01 UTC 
+# last updated on: 2018-02-14 00:30:01 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -662,6 +662,7 @@ nobleprofessions-help.tk
 nobleprofessions.tk
 Nomanor-woman.bid
 not-mean.tk
+not-seem.tk
 not-sure-about.tk
 notoffendedcall.tk
 notyet-succeeded.tk
@@ -896,6 +897,7 @@ thefirstsupp.tk
 theflowersto.bid
 theforestor.tk
 thegrowing.tk
+thehelpsupp.tk
 their-fur.tk
 their-minds.tk
 their-mindscannot.tk
