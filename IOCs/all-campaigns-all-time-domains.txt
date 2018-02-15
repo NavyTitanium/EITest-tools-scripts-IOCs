@@ -1,4 +1,4 @@
-# last updated on: 2018-02-15 07:00:02 UTC 
+# last updated on: 2018-02-15 07:30:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -23,6 +23,7 @@
 1st-mobilephones.tk
 1st-morepeople.tk
 1st-myfriends.tk
+1st-mymind.tk
 1st-the-assistant.tk
 1st-theworldismine.tk
 1st-world-war.tk
@@ -820,6 +821,7 @@ peoplehave.tk
 peoplesay.tk
 peoplespending.tk
 peopleto.tk
+peoplewhosupp.tk
 percent-perspiration.tk
 percentinspiration.tk
 perfect-love-is.tk
