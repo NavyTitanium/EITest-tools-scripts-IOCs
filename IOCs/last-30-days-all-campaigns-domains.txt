@@ -1,4 +1,4 @@
-# last updated on: 2018-02-15 01:30:01 UTC 
+# last updated on: 2018-02-15 02:00:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hufecalltoday.tk
@@ -802,6 +802,7 @@ oxford-was.tk
 partof.tk
 people-in.tk
 peoplecannot.tk
+peoplehave.tk
 peoplesay.tk
 peoplespending.tk
 peopleto.tk
@@ -1010,6 +1011,7 @@ theycan.tk
 theyhave.tk
 theylive.tk
 theypoint.tk
+theyprovide.tk
 thingsare-infinite.tk
 think-that.tk
 this-century.tk
