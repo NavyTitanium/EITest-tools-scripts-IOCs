@@ -1,4 +1,4 @@
-# last updated on: 2018-02-16 13:00:02 UTC 
+# last updated on: 2018-02-16 13:30:01 UTC 
 http://aiditemergency.bid/index/?FpkYQM
 http://aiditemergency.bid/index/?kXjd2Q
 http://aiditemergency.bid/index/?MCPKV8
@@ -10,6 +10,10 @@ http://calltrust.bid/index/?FpkYQM
 http://calltrust.bid/index/?kXjd2Q
 http://calltrust.bid/index/?MCPKV8
 http://cdnkerkobona.com/?sdgs=qwrqw
+http://checkalldir.bid/index/?MCPKV8
+http://www.liceobelgrano.edu.ar/ico.php?id=2d619448e10bfe7139be43cbcfb88c3b
+http://checkalldir.bid/index/?MCPKV8
+http://www.liceobelgrano.edu.ar/ico.php?id=37f3e78ed3d3e048b7f6ce314aaa0537
 http://checkalldir.bid/index/?MCPKV8
 http://www.liceobelgrano.edu.ar/ico.php?id=5913aeaafbdda61ab7fff4b85f603672
 http://checkalldir.bid/index/?MCPKV8
@@ -112,6 +116,19 @@ http://without-regrets.bid/index/?kXjd2Q
 http://without-regrets.bid/index/?MCPKV8
 http://without-regrets.bid/index/?z2bK1r
 http://wowbelieves.us/index.php
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+Date: Fri, 16 Feb 2018 13:00:02 GMT
+Date: Fri, 16 Feb 2018 13:00:04 GMT
+Date: Fri, 16 Feb 2018 13:00:06 GMT
+Date: Fri, 16 Feb 2018 13:26:01 GMT
+Date: Fri, 16 Feb 2018 13:26:02 GMT
+Date: Fri, 16 Feb 2018 13:26:04 GMT
+Date: Fri, 16 Feb 2018 13:26:05 GMT
+Date: Fri, 16 Feb 2018 13:26:06 GMT
+Expires: Thu, 21 Jul 1977 07:30:00 GMT
+HTTP/1.1 404 Not Found
 http://0asyasrggasruasmorggyggr.bid/index/?801492446045
 http://0dasasupport.tk/index/?1641501770611
 http://0dasasupport.tk/index/?801492446045
@@ -746,6 +763,7 @@ http://at-present.tk/index/?1641501770611
 http://at-present.tk/index/?801492446045
 http://at-thehospital.tk/index/?1641501770611
 http://at-thehospital.tk/index/?801492446045
+http://at-thesame.tk/?number=800-721-3515
 http://ateach-other.tk/?number=04-65-43-00-13
 http://ateach-other.tk/?number=04-65-43-00-25
 http://ateach-other.tk/?number=44-127-325-7550
@@ -3810,3 +3828,14 @@ http://yur9system.tk/?number=800-806-9809
 http://zealis-fit.tk/?number=800-721-3515
 http://zealis-fit.tk/?number=888-378-4029
 http://zealis-fit.tk/?number=888-791-0954
+Keep-Alive: timeout=3
+Last-Modified: Fri, 16 Feb 2018 13:00:02 GMT
+Last-Modified: Fri, 16 Feb 2018 13:00:04 GMT
+Last-Modified: Fri, 16 Feb 2018 13:00:06 GMT
+Last-Modified: Fri, 16 Feb 2018 13:26:01 GMT
+Last-Modified: Fri, 16 Feb 2018 13:26:02 GMT
+Last-Modified: Fri, 16 Feb 2018 13:26:04 GMT
+Last-Modified: Fri, 16 Feb 2018 13:26:05 GMT
+Last-Modified: Fri, 16 Feb 2018 13:26:06 GMT
+Pragma: no-cache
+Server: nginx/1.10.2
