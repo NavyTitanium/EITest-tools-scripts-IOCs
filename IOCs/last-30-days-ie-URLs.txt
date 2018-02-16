@@ -1,4 +1,4 @@
-# last updated on: 2018-02-16 14:00:01 UTC 
+# last updated on: 2018-02-16 14:30:01 UTC 
 http://aiditemergency.bid/index/?FpkYQM
 http://aiditemergency.bid/index/?kXjd2Q
 http://aiditemergency.bid/index/?MCPKV8
@@ -9,6 +9,10 @@ http://calltocenterfast.bid/index/?z2bK1r
 http://calltrust.bid/index/?kXjd2Q
 http://calltrust.bid/index/?MCPKV8
 http://cdnkerkobona.com/?sdgs=qwrqw
+http://checkalldir.bid/index/?d5Wyb9
+http://www.liceobelgrano.edu.ar/ico.php?id=470f8253cb017a455270bf069423a498
+http://checkalldir.bid/index/?MCPKV8
+http://www.liceobelgrano.edu.ar/ico.php?id=43b195c581f74668acba66db9f6418ea
 http://checkalldir.bid/index/?MCPKV8
 http://daytocoming.bid/index/?d5Wyb9
 http://daytocoming.bid/index/?FpkYQM
@@ -109,6 +113,17 @@ http://without-regrets.bid/index/?kXjd2Q
 http://without-regrets.bid/index/?MCPKV8
 http://without-regrets.bid/index/?z2bK1r
 http://wowbelieves.us/index.php
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+Date: Fri, 16 Feb 2018 14:26:02 GMT
+Date: Fri, 16 Feb 2018 14:26:03 GMT
+Date: Fri, 16 Feb 2018 14:29:09 GMT
+Date: Fri, 16 Feb 2018 14:29:10 GMT
+Date: Fri, 16 Feb 2018 14:29:11 GMT
+Date: Fri, 16 Feb 2018 14:29:12 GMT
+Expires: Thu, 21 Jul 1977 07:30:00 GMT
+HTTP/1.1 404 Not Found
 http://0asyasrggasruasmorggyggr.bid/index/?801492446045
 http://0dasasupport.tk/index/?1641501770611
 http://0dasasupport.tk/index/?801492446045
@@ -1808,6 +1823,7 @@ http://in-revenge-and.tk/?number=888-376-9105
 http://in-revenge-and.tk/?number=888-710-7075
 http://in-revenge-and.tk/?number=888-791-0954
 http://in-revenge-and.tk/?number=888-791-9614
+http://in-senior.tk/?number=800-721-3515
 http://in-space.tk/?number=800-758-2761
 http://in-space.tk/?number=800-801-7934
 http://in-space.tk/?number=800-806-9809
@@ -1824,6 +1840,7 @@ http://in-thezoo.tk/?number=800-806-9809
 http://in-three.tk/index/?1641501770611
 http://in-three.tk/index/?801492446045
 http://in-your-future.tk/index/?1641501770611
+http://inacity.tk/index/?801492446045
 http://inamericahe.tk/index/?1641501770611
 http://inamericahe.tk/index/?801492446045
 http://inanysituation.tk/?number=800-801-7934
@@ -3810,3 +3827,12 @@ http://yur9system.tk/?number=800-806-9809
 http://zealis-fit.tk/?number=800-721-3515
 http://zealis-fit.tk/?number=888-378-4029
 http://zealis-fit.tk/?number=888-791-0954
+Keep-Alive: timeout=3
+Last-Modified: Fri, 16 Feb 2018 14:26:02 GMT
+Last-Modified: Fri, 16 Feb 2018 14:26:03 GMT
+Last-Modified: Fri, 16 Feb 2018 14:29:09 GMT
+Last-Modified: Fri, 16 Feb 2018 14:29:10 GMT
+Last-Modified: Fri, 16 Feb 2018 14:29:11 GMT
+Last-Modified: Fri, 16 Feb 2018 14:29:12 GMT
+Pragma: no-cache
+Server: nginx/1.10.2
