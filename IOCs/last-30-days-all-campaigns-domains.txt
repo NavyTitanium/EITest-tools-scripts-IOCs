@@ -1,4 +1,4 @@
-# last updated on: 2018-02-16 06:30:01 UTC 
+# last updated on: 2018-02-16 07:00:02 UTC 
 0dasasupport.tk
 0faxabuzz.tk
 0hjdbytsystem.tk
@@ -229,6 +229,7 @@ april12.tk
 are-almost.tk
 are-in-danger-helper.tk
 are-in-danger.tk
+arebright.tk
 aredangerous.tk
 aredead.tk
 aregrown.tk
@@ -804,6 +805,7 @@ no-man-orwoman.tk
 nobleprofessions-help.tk
 nobleprofessions.tk
 Nomanor-woman.bid
+nominated-for.tk
 not-mean.tk
 not-seem.tk
 not-sure-about.tk
