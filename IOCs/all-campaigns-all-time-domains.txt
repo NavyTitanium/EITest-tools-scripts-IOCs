@@ -1,4 +1,4 @@
-# last updated on: 2018-02-27 20:30:02 UTC 
+# last updated on: 2018-02-27 21:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 023fdgsystem.tk
@@ -787,6 +787,7 @@ are-always.tk
 are-in-danger-helper.tk
 are-in-danger.tk
 arebright.tk
+areclassmates.tk
 aredangerous.tk
 aredead.tk
 aredeadto.bid
@@ -1225,6 +1226,7 @@ gers5helper.tk
 get-bored.tk
 gethelpfromus.bid
 gets-weekly.tk
+getuseful.tk
 ggryr2asruasgglr.bid
 ghesx0supp.tk
 givenus.tk
