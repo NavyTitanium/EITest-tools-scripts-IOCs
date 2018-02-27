@@ -1,4 +1,4 @@
-# last updated on: 2018-02-27 11:30:01 UTC 
+# last updated on: 2018-02-27 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 023fdgsystem.tk
@@ -90,6 +90,7 @@
 1jiryucall.tk
 1jkfnjgetbacto.tk
 1jkgetbackto.tk
+1jkkolgetbackto.tk
 1jktcall.tk
 1jktocallcenter.tk
 1jktuicall.tk
@@ -274,6 +275,7 @@
 3kojsazcalltohelp.tk
 3korcalltohelp.tk
 3koregtcallus.tk
+3korhucalltohelp.tk
 3kormgetontheline.tk
 3lkbhyhgcalltohelp.tk
 3lknjhucallus.tk
@@ -669,6 +671,7 @@ alfred-thegrea.tk
 all-holidays.tk
 all-legislation.tk
 all-mydevotion.tk
+all-physical.tk
 all-taxes.tk
 all-themen.tk
 all-thesenow.tk
@@ -1431,6 +1434,7 @@ is-theprogress.tk
 is-travelling.tk
 is-typedout.tk
 is-verybusy.tk
+isafatality.tk
 isalarge.tk
 isaportrait.tk
 isateacher.tk
