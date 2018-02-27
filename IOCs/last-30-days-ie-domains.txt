@@ -1,4 +1,4 @@
-# last updated on: 2018-02-27 04:00:01 UTC 
+# last updated on: 2018-02-27 04:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 023fdgsystem.tk
@@ -356,6 +356,7 @@
 5iotcalling.tk
 5jhsxzsahelper.tk
 5jiomhelper.tk
+5jir5giveajingl.tk
 5jircalling.tk
 5jirhuhelper.tk
 5jirnjcalling.tk
@@ -1399,6 +1400,7 @@ is-travelling.tk
 is-typedout.tk
 is-verybusy.tk
 isalarge.tk
+isaportrait.tk
 isateacher.tk
 isawonderful.tk
 isfailure.tk
@@ -1941,6 +1943,7 @@ russian-literature.tk
 said-good-bye.tk
 same-about.tk
 satisfytheir.tk
+sayingat-the.tk
 saythat-now.tk
 saythat.tk
 school-literary.tk
