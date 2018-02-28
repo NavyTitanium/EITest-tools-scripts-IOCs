@@ -1,4 +1,4 @@
-# last updated on: 2018-02-28 19:30:01 UTC 
+# last updated on: 2018-02-28 20:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -780,6 +780,7 @@ and-thehead.tk
 and-then-send.tk
 and-then-success.tk
 and-watercolour.tk
+and-wondered.tk
 and-worksin.tk
 and0serve.tk
 andacquiring.tk
@@ -888,6 +889,7 @@ beefin3.tk
 beefkidneys.tk
 beefon.tk
 been-married.tk
+been-my.tk
 beenable.tk
 beeneither.tk
 beginningof-deeds.tk
@@ -1695,6 +1697,7 @@ making-mybed.tk
 making-them.tk
 man-fallsin.tk
 managementof.tk
+manages-to.tk
 managetodeal.tk
 managing-director.tk
 manis-least.tk
