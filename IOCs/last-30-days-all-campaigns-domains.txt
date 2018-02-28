@@ -1,4 +1,4 @@
-# last updated on: 2018-02-28 21:00:01 UTC 
+# last updated on: 2018-02-28 21:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -139,6 +139,7 @@
 1st-bynature.tk
 1st-dailyroutine.tk
 1st-grosvenor.tk
+1st-help-me-and.tk
 1st-houron-medium.tk
 1st-lookedat.tk
 1st-mass-media.tk
@@ -1192,6 +1193,7 @@ fax-machine.tk
 feas1callcenter.tk
 feel-quite.tk
 felt-that.tk
+feltasif.tk
 fewer-people.tk
 find-something.tk
 fingers-were.tk
@@ -1258,6 +1260,7 @@ futurework.tk
 gain-weight.tk
 garden-when.tk
 gardenqwptwhento.bid
+gauzewings.tk
 gave-up.tk
 gaverise.tk
 generalelections.tk
@@ -1334,6 +1337,7 @@ hbrightest.tk
 he-always.tk
 he-i-easy.tk
 he-invaded.tk
+he-is-quite.tk
 he-isalways.tk
 he-isasurgeon.tk
 he-often.tk
@@ -2562,7 +2566,6 @@ wateragain.tk
 waysof-life.tk
 we-are-a.tk
 we-are-intelligent.tk
-we-arenever.tk
 we-arenot.tk
 we-aresent.tk
 we-arestill.tk
