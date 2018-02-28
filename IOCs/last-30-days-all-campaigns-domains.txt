@@ -1,4 +1,4 @@
-# last updated on: 2018-02-28 10:30:01 UTC 
+# last updated on: 2018-02-28 11:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -440,6 +440,7 @@
 612givearing.tk
 6589phone.tk
 66fjuyrphone.tk
+66jiruytgivearing.tk
 66jitgivearing.tk
 6fhjdbhphone.tk
 6gftelephone.tk
@@ -2029,7 +2030,6 @@ refe3callup.tk
 referenz.bid
 regressand.tk
 relaxand.tk
-remember-everything.tk
 remember-that.tk
 remember-well.tk
 remember-who.tk
@@ -2418,6 +2418,7 @@ topayfora.tk
 toreading.tk
 tosee.tk
 tosomany.tk
+tospendit.tk
 tostay.tk
 tostudyat.tk
 totalk-to.tk
