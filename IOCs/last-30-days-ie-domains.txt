@@ -1,4 +1,4 @@
-# last updated on: 2018-02-28 23:00:02 UTC 
+# last updated on: 2018-02-28 23:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -979,6 +979,7 @@ can-saythe.tk
 can-seerightly.bid
 can-sendand.tk
 can-talk.tk
+can-tell.tk
 cannot-change.tk
 canonly.tk
 cantexplain.tk
@@ -1619,6 +1620,7 @@ language-isthe.tk
 languagein.tk
 languages452.bid
 largefamily.tk
+lastikat-home.tk
 late1960s.tk
 latelycomputers.tk
 learn452.bid
