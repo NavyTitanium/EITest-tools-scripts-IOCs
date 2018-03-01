@@ -1,4 +1,4 @@
-# last updated on: 2018-03-01 22:00:02 UTC 
+# last updated on: 2018-03-01 22:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -883,6 +883,7 @@ basil-conscience.tk
 basil-hallward.tk
 be-aspecial.tk
 be-avirtue.tk
+be-taken.tk
 beautiful-pictures.tk
 beautiful-what.bid
 became-astar.tk
@@ -1791,6 +1792,7 @@ monks-there.tk
 monthacross.tk
 more-and.tk
 more-appreciative.tk
+moreover-while.tk
 morepeople.tk
 morespeakers.tk
 morewidely.tk
@@ -1855,6 +1857,7 @@ new-plague.tk
 new-resemblance.tk
 new-spectator.tk
 new-spheres.tk
+new-to-understand.tk
 new-tomymind.tk
 new-water-for.tk
 newand-now.tk
