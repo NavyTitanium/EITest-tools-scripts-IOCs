@@ -1,4 +1,4 @@
-# last updated on: 2018-03-01 20:00:02 UTC 
+# last updated on: 2018-03-01 20:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -1376,6 +1376,7 @@ havefilled.tk
 havegotacat.tk
 havemuch.tk
 havenot.tk
+havestudieds.tk
 havetobuy-now.tk
 having-fun.tk
 hbrightest.tk
@@ -1629,6 +1630,7 @@ its-development.tk
 its-variants.tk
 its-zenith.tk
 itsears.tk
+itsenough.tk
 itsimpossible.tk
 itwisdom.bid
 iutye4help.tk
@@ -2461,6 +2463,7 @@ therubbish-supp.tk
 thesamecalling.tk
 thesamehelper.tk
 these-earlier.tk
+thesefacts.tk
 thesitter.tk
 thesitteris.tk
 thesort.tk
