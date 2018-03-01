@@ -1,4 +1,4 @@
-# last updated on: 2018-03-01 14:30:01 UTC 
+# last updated on: 2018-03-01 15:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -800,6 +800,7 @@ andihope.tk
 andimmigration.tk
 andis-made.tk
 andistill.tk
+andit-may.tk
 andone-in.tk
 andreyheis.tk
 anduseful.tk
@@ -994,6 +995,7 @@ can-talk.tk
 can-tell.tk
 cannot-change.tk
 canonly.tk
+cansaytha.tk
 cantexplain.tk
 canusuallyjudge.bid
 careof-his.tk
@@ -1181,6 +1183,7 @@ excellentin.tk
 excitementand.tk
 excludes-the.tk
 expensiveso.tk
+explainit.tk
 exploredavery.tk
 exploring-new.tk
 expresseverything.tk
