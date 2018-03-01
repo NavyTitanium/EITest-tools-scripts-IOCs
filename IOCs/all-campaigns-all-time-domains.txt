@@ -1,4 +1,4 @@
-# last updated on: 2018-03-01 03:00:01 UTC 
+# last updated on: 2018-03-01 03:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -1407,6 +1407,7 @@ his-health.tk
 his-job.tk
 his-kingdom.tk
 his-name.tk
+his-parents.tk
 his-patients.tk
 his-spare.tk
 hiseyes.tk
@@ -1854,6 +1855,7 @@ nobleprofessions.tk
 Nomanor-woman.bid
 nominated-for.tk
 not-far-from.tk
+not-havemuch.tk
 not-life.tk
 not-mean.tk
 not-revealed.tk
