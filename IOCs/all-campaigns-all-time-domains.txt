@@ -1,4 +1,4 @@
-# last updated on: 2018-03-02 03:30:01 UTC 
+# last updated on: 2018-03-02 04:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -1090,6 +1090,7 @@ countries-and-cities.tk
 countries-mine.tk
 countryneeds.tk
 courseworks.tk
+coveredall.tk
 crayonsor-pencils.tk
 createdanetwork.tk
 createdsothat.tk
@@ -1854,6 +1855,7 @@ most-developed.tk
 most-helping.bid
 most-members.tk
 most-perfect.tk
+mostastounding.tk
 mostexpensive.tk
 mostimportant.tk
 mostof-them.tk
@@ -2017,6 +2019,7 @@ ofinformation.tk
 ofour-life.tk
 oftechnological.tk
 often-suggests.tk
+oftenaccepted.tk
 ofus-being.tk
 ofusangel.tk
 ofusangelto.bid
