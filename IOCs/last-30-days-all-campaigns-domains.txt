@@ -1,4 +1,4 @@
-# last updated on: 2018-03-02 06:30:01 UTC 
+# last updated on: 2018-03-02 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -555,6 +555,7 @@
 7kokucalltous.tk
 7kornjtelephone.tk
 7kornjvhbryphone.tk
+7koroitele6phone.tk
 7lknjghurring.tk
 7lptnjghucallnow.tk
 7mkdvgtelephone.tk
@@ -1051,6 +1052,7 @@ coloured-canvas.tk
 comeface.tk
 comesinto.tk
 commercialactivity.tk
+common-goals.tk
 commonest-thing.tk
 commonwealthoffice.tk
 communicating-with.tk
@@ -1894,7 +1896,6 @@ newimpressions.tk
 newyouknow.tk
 neyhealth.tk
 no-artist-calling.tk
-no-man-orwoman.tk
 noble-ambitions.tk
 nobleprofessions-help.tk
 nobleprofessions.tk
@@ -2236,7 +2237,6 @@ sillyhabit.tk
 simply-enables.tk
 simplyfled.tk
 sincethen.tk
-single-thought.tk
 sisterand.tk
 six-degrees.tk
 small-mouth.tk
@@ -2744,6 +2744,7 @@ which-become.tk
 which-there.tk
 which-was.tk
 while-imbreathing.tk
+whisper-which.tk
 whitetie.tk
 who-are-able.tk
 who-is-revealed.tk
