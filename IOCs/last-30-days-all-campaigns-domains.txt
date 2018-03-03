@@ -1,4 +1,4 @@
-# last updated on: 2018-03-03 13:00:01 UTC 
+# last updated on: 2018-03-03 13:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -2141,6 +2141,7 @@ peoplecan-now.tk
 peoplecannot.tk
 peoplehave.tk
 peoplehavesupp.tk
+peoplehaving.tk
 peoplesay.tk
 peoplespending.tk
 peoplethat.tk
@@ -2712,6 +2713,7 @@ unreliable-and.tk
 until-golden.tk
 until-they.tk
 up-what.tk
+us-can.tk
 us-lots.tk
 use-e-mail-to.tk
 useful-functions.tk
@@ -2895,7 +2897,6 @@ yearsone.tk
 yield-for.tk
 you-a-great.tk
 you-and-to.tk
-you-think-youhave.tk
 you-want-something.bid
 youarelucky.tk
 youcan-write.tk
