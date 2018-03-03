@@ -1,4 +1,4 @@
-# last updated on: 2018-03-03 12:30:01 UTC 
+# last updated on: 2018-03-03 13:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00ijriusystem.tk
@@ -1974,6 +1974,7 @@ now-hancock.tk
 now-havemuch.tk
 now-hide-and-seek.tk
 now-mass-media.tk
+now-thevalue.tk
 now-together.tk
 now-withouteffort.tk
 nowadaysand.tk
@@ -2820,7 +2821,6 @@ when-we-are.tk
 when-wetravel.tk
 wheneverihave.tk
 whenour.tk
-where-youare.tk
 wherei-am-going.tk
 which-become.tk
 which-there.tk
