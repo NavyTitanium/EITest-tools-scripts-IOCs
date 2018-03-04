@@ -1,4 +1,4 @@
-# last updated on: 2018-03-04 20:30:01 UTC 
+# last updated on: 2018-03-04 21:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -703,6 +703,7 @@
 8hifercalltous.tk
 8hjnjcontact.tk
 8huercalltodaz.tk
+8huetech.tk
 8iorktech.tk
 8jhdnzcontact.tk
 8jhfcontact.tk
@@ -2987,6 +2988,7 @@ was-noted.tk
 was-sitting.tk
 was-soon.tk
 was-theleast.tk
+was-tolate.tk
 was-worse.tk
 wasafortress.tk
 wasagreat.tk
