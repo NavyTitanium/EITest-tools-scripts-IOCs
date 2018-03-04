@@ -1,4 +1,4 @@
-# last updated on: 2018-03-04 11:30:01 UTC 
+# last updated on: 2018-03-04 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -94,6 +94,7 @@
 1fghercall.tk
 1fgwecall.tk
 1fopigetbackto.tk
+1ftwbcall.tk
 1furtcallcenter.tk
 1fyfu1callcenter.tk
 1gfvgdcall.tk
@@ -517,6 +518,7 @@
 5yuwgcalling.tk
 612givearing.tk
 6589phone.tk
+66dhurgivearing.tk
 66dtercallingnow.tk
 66fjuyrphone.tk
 66jiruytgivearing.tk
