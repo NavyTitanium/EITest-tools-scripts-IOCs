@@ -1,4 +1,4 @@
-# last updated on: 2018-03-04 22:30:01 UTC 
+# last updated on: 2018-03-04 23:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1607,7 +1607,6 @@ houron-medium.tk
 house-of-lords.tk
 houseordynasty.tk
 housework-was.tk
-how-closethey.tk
 how-to-new.tk
 however-does.tk
 however-there.tk
@@ -1848,7 +1847,6 @@ librariesphoto.tk
 life-achieved.tk
 life-easier.tk
 life-ofeach.tk
-lifeisignorance.tk
 lifemore.tk
 lifeoff.tk
 lifewithout.tk
@@ -2512,6 +2510,7 @@ teleduck.de
 telephoneline.tk
 tell-him.tk
 tell-mypeople.tk
+tellyouthat.tk
 temper452.bid
 tenpin-bowling.tk
 terror-came.tk
@@ -2735,6 +2734,7 @@ tokeep-supp.tk
 tolearnin.tk
 tolinumber.bid
 tolisten.tk
+tome-it.tk
 tomeet-supp.tk
 tomethat.tk
 tomyteachers.tk
