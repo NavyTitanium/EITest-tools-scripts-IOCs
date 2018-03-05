@@ -1,4 +1,4 @@
-# last updated on: 2018-03-05 12:00:02 UTC 
+# last updated on: 2018-03-05 12:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -138,6 +138,7 @@
 1kortcall.tk
 1kotcall.tk
 1kotjicallcenter.tk
+1kotnjcall.tk
 1lkbhgcallcenter.tk
 1lkfbhcallcenter.tk
 1lkfbhgcall.tk
@@ -629,6 +630,7 @@
 78hutelephone.tk
 7abhdcfccallnow.tk
 7ferttelephone.tk
+7gaqtelephone.tk
 7gutcallnow.tk
 7hgaxztelephone.tk
 7hgdbtelephone.tk
