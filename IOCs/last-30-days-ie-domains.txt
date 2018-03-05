@@ -1,4 +1,4 @@
-# last updated on: 2018-03-05 20:00:02 UTC 
+# last updated on: 2018-03-05 20:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1903,6 +1903,7 @@ its-zenith.tk
 itsears.tk
 itsenough.tk
 itsimpossible.tk
+itsown-view.tk
 itwisdom.bid
 iutye4help.tk
 iwant-to.tk
@@ -2899,6 +2900,7 @@ time-waster.tk
 time-you.tk
 timeisdevoted.tk
 timemo.tk
+timepeople.tk
 times162018.bid
 timetothink.tk
 timetotime.tk
@@ -3217,6 +3219,7 @@ your-pastuntil.tk
 your-thoughts.tk
 yoursoul-apart.tk
 youthetruth.tk
+youthin.tk
 youturn-supp.tk
 youwill-be.tk
 yur9system.tk
