@@ -1,4 +1,4 @@
-# last updated on: 2018-03-05 09:00:01 UTC 
+# last updated on: 2018-03-05 09:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1327,6 +1327,7 @@ english-biology.tk
 english-democracy.tk
 englishas-their.tk
 enough452.bid
+entirelynew.tk
 entirelysuccessful.tk
 equallyonly.tk
 erich-mariaremarque.tk
@@ -1961,6 +1962,7 @@ meet-some.tk
 meetalmost.tk
 meninany.tk
 merelythe.tk
+merelyvisible.tk
 messagesare.tk
 methan.tk
 mewandironing.tk
