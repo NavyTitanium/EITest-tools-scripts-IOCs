@@ -1,4 +1,4 @@
-# last updated on: 2018-03-05 12:30:02 UTC 
+# last updated on: 2018-03-05 13:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -356,6 +356,7 @@
 3korhucalltohelp.tk
 3koriu33callus.tk
 3kormgetontheline.tk
+3kornjcallus.tk
 3lkbhyhgcalltohelp.tk
 3lknjhucallus.tk
 3lkoucallus.tk
@@ -753,6 +754,7 @@
 8oienjdjhtech.tk
 8oiksystem.tk
 8oiriutbuzz.tk
+8oirnjbuzz.tk
 8oiroisystem.tk
 8oitoitech.tk
 8ojkobuzz.tk
