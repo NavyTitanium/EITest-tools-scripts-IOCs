@@ -1,4 +1,4 @@
-# last updated on: 2018-03-05 19:30:02 UTC 
+# last updated on: 2018-03-05 20:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1496,6 +1496,7 @@ for-students.tk
 for-theworld.tk
 for-tho5e.tk
 for-those.tk
+foralong.tk
 foraway.tk
 foreign-and-commonwealth.tk
 foreign-languages-new.tk
@@ -1842,6 +1843,7 @@ is-notcodified.tk
 is-notonly.tk
 is-now-top.tk
 is-responsiblefor.tk
+is-simple.tk
 is-the-internet.tk
 is-thefourth.tk
 is-theprogress.tk
