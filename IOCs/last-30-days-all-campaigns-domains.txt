@@ -1,4 +1,4 @@
-# last updated on: 2018-03-05 05:30:02 UTC 
+# last updated on: 2018-03-05 06:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1119,6 +1119,7 @@ butican.tk
 butidontknow.tk
 butifshe.tk
 butin-the.tk
+butin.tk
 butinanother.tk
 butis-mostly.tk
 butitisunlikely.tk
@@ -1584,6 +1585,7 @@ hetalksqwnqwpthqwsto.bid
 hewas-made.tk
 heworks.tk
 hi-main.tk
+hidden-from.tk
 hideonomo.tk
 high-profit.bid
 high-technologies.tk
@@ -2627,7 +2629,6 @@ them-waste.tk
 themajor.tk
 themajority.tk
 theman-now.tk
-thememory.tk
 themessagenow.tk
 themodern-supp.tk
 themost-popular.tk
