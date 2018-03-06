@@ -1,4 +1,4 @@
-# last updated on: 2018-03-06 02:00:01 UTC 
+# last updated on: 2018-03-06 02:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -230,7 +230,6 @@
 1stthedanes.tk
 1sttheteacher.tk
 1sttheworldismine.tk
-1stthinkabout.tk
 1sttoschool.tk
 1stwewritenow.tk
 1tuntil-they.tk
@@ -873,6 +872,7 @@ abrother.tk
 academy-awards.tk
 academy-is.tk
 access-to.tk
+accessibleto-everybody.tk
 according-tolegend.tk
 acountrysupp.tk
 acreageand.tk
@@ -978,6 +978,7 @@ andenjoyable.tk
 andicannot.tk
 andihope.tk
 andiknow.tk
+andillness.tk
 andimmigration.tk
 andimpersonal.tk
 andis-made.tk
@@ -2869,7 +2870,6 @@ understandingof.tk
 understands-me.tk
 unreliable-and.tk
 until-golden.tk
-until-they.tk
 up-what.tk
 us-can.tk
 us-lots.tk
