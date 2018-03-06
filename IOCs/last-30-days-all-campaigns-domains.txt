@@ -1,4 +1,4 @@
-# last updated on: 2018-03-06 20:00:02 UTC 
+# last updated on: 2018-03-06 20:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -780,6 +780,7 @@
 8oiroisystem.tk
 8oitoitech.tk
 8ojkobuzz.tk
+8pikircalltous.tk
 8porjusystem.tk
 8porncalltous.tk
 8rtecontact.tk
@@ -1817,6 +1818,7 @@ isnt-themain.tk
 isntasecret.tk
 isoften.tk
 isone-of-the.tk
+isone-of.tk
 istudied.tk
 it-can-be.tk
 it-canhelp.tk
