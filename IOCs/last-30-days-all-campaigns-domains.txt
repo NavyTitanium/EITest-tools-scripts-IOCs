@@ -1,4 +1,4 @@
-# last updated on: 2018-03-06 14:30:01 UTC 
+# last updated on: 2018-03-06 15:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1944,7 +1944,6 @@ love0and.tk
 lovejust.tk
 lovemycat.tk
 loversdream.tk
-lovingourselves.tk
 machines-work.tk
 madeup162018.bid
 mail-box-now.tk
@@ -2868,6 +2867,7 @@ understands-me.tk
 unreliable-and.tk
 until-golden.tk
 up-what.tk
+upfrom.tk
 us-can.tk
 us-lots.tk
 use-e-mail-to.tk
