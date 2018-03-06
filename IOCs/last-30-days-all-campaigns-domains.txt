@@ -1,4 +1,4 @@
-# last updated on: 2018-03-06 08:30:02 UTC 
+# last updated on: 2018-03-06 09:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -2130,7 +2130,6 @@ now-together.tk
 nowadaysand.tk
 nowathome.tk
 nowbecooked.tk
-nowcombinationof.tk
 nowdomesticanimals.tk
 noweachother.tk
 nowinever.tk
@@ -2240,7 +2239,6 @@ oruseful.tk
 other-cultures.tk
 other-language.tk
 others-consider.tk
-others-fail.tk
 others-like.tk
 others-need.tk
 our-futurelife.tk
