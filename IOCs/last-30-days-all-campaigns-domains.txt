@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 16:00:01 UTC 
+# last updated on: 2018-03-07 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -69,7 +69,6 @@
 0opriubuzz.tk
 0potjirsupport.tk
 0pouibuzz.tk
-0rtewqbuzz.tk
 0tetsystem.tk
 0tuircalltoday.tk
 0tyrcalltoday.tk
@@ -728,6 +727,7 @@
 8berttech.tk
 8eiurbuzz.tk
 8fjhgbcbuzz.tk
+8ftexcalltous.tk
 8hifercalltous.tk
 8hjnjcontact.tk
 8huercalltodaz.tk
@@ -2634,6 +2634,7 @@ thanyou-ask-for.bid
 that-diets.tk
 that-happiness.tk
 that-hehad.tk
+that-hewas.tk
 that-his-beauty.tk
 that-name.tk
 that-negotiators.tk
@@ -3123,6 +3124,7 @@ youneed.tk
 youngadonis.tk
 younger-sister.tk
 your-favourite.tk
+your-friend.tk
 youthin.tk
 youturn-supp.tk
 youwill-be.tk
