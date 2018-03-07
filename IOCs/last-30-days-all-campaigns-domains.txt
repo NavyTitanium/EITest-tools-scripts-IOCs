@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 22:30:01 UTC 
+# last updated on: 2018-03-07 23:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -228,7 +228,6 @@
 1stmuch-faster.tk
 1stmyfather.tk
 1stmymother.tk
-1stonewing.tk
 1stsensitive.tk
 1stthebone.tk
 1stthedanes.tk
@@ -582,6 +581,7 @@
 6hur6givearing.tk
 6hurtyephone.tk
 6hutfdcallingnow.tk
+6huuubcallingnow.tk
 6jidsncphone.tk
 6jievaphone.tk
 6jijitcallingnow.tk
@@ -1020,7 +1020,6 @@ anecessity.tk
 aneducated.tk
 anengineer.tk
 anentirely.tk
-angels-with.tk
 anglo-saxon-chronicle.tk
 animals-live.tk
 animalsand-birds.tk
@@ -2268,6 +2267,7 @@ onedayhelper.tk
 oneofmy.tk
 oneper.tk
 ones-friends.tk
+onewould.tk
 onewqwngto.bid
 onitsbrown.tk
 only-about.tk
@@ -3056,6 +3056,7 @@ who-work.tk
 wholearn.tk
 wholooks.tk
 whosesudden.tk
+whostood.tk
 widelyplayed.tk
 will-definitely.tk
 will-plays.tk
