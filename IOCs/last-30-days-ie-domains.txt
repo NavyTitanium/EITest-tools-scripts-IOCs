@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 15:30:01 UTC 
+# last updated on: 2018-03-07 16:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -197,6 +197,7 @@
 1st-myparents.tk
 1st-negotiationsare.tk
 1st-said-thepainter.tk
+1st-shesaid.tk
 1st-something-new.tk
 1st-sovain.tk
 1st-summedup.tk
@@ -664,6 +665,7 @@
 78hurcallnow.tk
 78hutelephone.tk
 7abhdcfccallnow.tk
+7dreccallnow.tk
 7ferttelephone.tk
 7gaqtelephone.tk
 7gutcallnow.tk
@@ -1647,6 +1649,7 @@ grown-to.tk
 guaranteedservice.bid
 gute2callfast.tk
 gy7telephone.tk
+had-known.tk
 hadascholarly.tk
 hadat-least.tk
 happenonlyin.tk
