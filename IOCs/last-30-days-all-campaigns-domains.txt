@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 22:00:01 UTC 
+# last updated on: 2018-03-07 22:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -496,6 +496,7 @@
 5ertsvghelper.tk
 5etrrfgycalling.tk
 5fgyercalling.tk
+5guvazcalling.tk
 5gyertcalling.tk
 5huebfghdashelper.tk
 5hueyuhelper.tk
@@ -1370,7 +1371,6 @@ each-family.tk
 each-person.tk
 each-semester.tk
 eachof-them.tk
-eachofus.tk
 eachyear.tk
 earlieron.tk
 early-years.tk
@@ -1680,6 +1680,7 @@ his-name.tk
 his-parents.tk
 his-patients.tk
 his-personality.tk
+his-servant.tk
 his-spare.tk
 hiseyes.tk
 hissinginto.tk
@@ -1846,7 +1847,6 @@ isawonderful.tk
 iseighteen.tk
 isimpossible.tk
 isindependent.tk
-isinvisibleto.bid
 isnt-themain.tk
 isntasecret.tk
 isoften.tk
