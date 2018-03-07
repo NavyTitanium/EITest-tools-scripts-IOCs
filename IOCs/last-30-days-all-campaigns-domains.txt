@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 07:00:01 UTC 
+# last updated on: 2018-03-07 07:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -895,6 +895,7 @@ access-to.tk
 accessibleto-everybody.tk
 according-tolegend.tk
 acountrysupp.tk
+acquer-leaves.tk
 acreageand.tk
 across-his.tk
 acting-career.tk
@@ -2966,6 +2967,7 @@ wasagreat.tk
 wasalittle.tk
 wasanetwork.tk
 wasanunforgettable.tk
+wasarustle.tk
 wasatoxford.tk
 wash-thebeef.tk
 washingup.tk
