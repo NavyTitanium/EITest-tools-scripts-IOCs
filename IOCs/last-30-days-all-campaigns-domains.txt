@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 05:30:01 UTC 
+# last updated on: 2018-03-07 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -197,6 +197,7 @@
 1st-said-thepainter.tk
 1st-something-new.tk
 1st-sovain.tk
+1st-summedup.tk
 1st-the-assistant.tk
 1st-their-peril.tk
 1st-themain-calling.tk
@@ -800,6 +801,7 @@
 8uyncalltous.tk
 8yuetfcalltoday.tk
 8yuircalltous.tk
+8yurbbuzz.tk
 956gfsupport.tk
 95oirmkcontact.tk
 99jirkoring.tk
