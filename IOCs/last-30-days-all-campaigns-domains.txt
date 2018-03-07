@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 12:00:01 UTC 
+# last updated on: 2018-03-07 12:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -74,7 +74,6 @@
 0tuircalltoday.tk
 0tyrcalltoday.tk
 0tyrytcalltoday.tk
-0tytrecalltoday.tk
 0uirhsupport.tk
 0uirnj2support.tk
 0uybysystem.tk
@@ -1181,6 +1180,7 @@ by2050.tk
 byboth.tk
 bycarwe.tk
 bymy-elder.tk
+bystayin.tk
 bythepainter.tk
 called-burhs.tk
 called-pets.tk
@@ -2223,7 +2223,6 @@ oftechnological.tk
 often-suggests.tk
 oftenaccepted.tk
 ofus-being.tk
-ofusangel.tk
 ofusangelto.bid
 ofuseful.tk
 ofyoung.tk
@@ -2294,6 +2293,7 @@ outof-theworld.tk
 over-me.tk
 over-twenty.tk
 over-with.tk
+own-soul.tk
 ownqwptpersonto.bid
 ownsacomputer.tk
 oxford-was.tk
