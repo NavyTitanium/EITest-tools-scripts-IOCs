@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 20:30:01 UTC 
+# last updated on: 2018-03-07 21:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -309,6 +309,7 @@
 2kojircalls.tk
 2kokjicallfast.tk
 2kokoilgetonthehorn.tk
+2koolcalls.tk
 2korlkocallfast.tk
 2kosqwacallfast.tk
 2kukrcalls.tk
@@ -1356,6 +1357,7 @@ createdanetwork.tk
 createdsothat.tk
 creatures-that.tk
 creaturesare.tk
+creaturewith.tk
 criminal-matters.tk
 crisisin.tk
 cuba-andother.tk
@@ -2210,6 +2212,7 @@ mucheasier.tk
 multi-function.tk
 must-be-aware.tk
 must-bedone.tk
+mustintroduce.tk
 my-guardian.tk
 my-lord-henry.tk
 my-relations.tk
