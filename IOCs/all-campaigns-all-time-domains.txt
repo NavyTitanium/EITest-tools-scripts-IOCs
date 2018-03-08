@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 06:30:01 UTC 
+# last updated on: 2018-03-08 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -2709,6 +2709,7 @@ scert191012345.tk
 school-literary.tk
 school-with.tk
 schoolevents.tk
+scientific-point.tk
 scotlandis.tk
 secondor-foreign.tk
 secrets-which.tk
@@ -3254,6 +3255,7 @@ want-and-stay.tk
 want-tobecome.tk
 want-tobenefit.tk
 want-towear.tk
+wantyouto.tk
 war-with.tk
 wardsasking.tk
 warmsyou.tk
