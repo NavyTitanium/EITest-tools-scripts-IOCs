@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 04:30:01 UTC 
+# last updated on: 2018-03-08 05:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1280,6 +1280,7 @@ cannot-change.tk
 cannotexpress.tk
 canonly.tk
 cansaytha.tk
+cant-bear.tk
 cantexplain.tk
 canusuallyjudge.bid
 careof-his.tk
@@ -1966,6 +1967,7 @@ isateacher.tk
 isawonderful.tk
 iseighteen.tk
 isfailure.tk
+isimmoral.tk
 isimpossible.tk
 isindependent.tk
 isinvisibleto.bid
@@ -2331,6 +2333,7 @@ now-havemuch.tk
 now-hide-and-seek.tk
 now-mass-media.tk
 now-recreate.tk
+now-that.tk
 now-there-is.tk
 now-thevalue.tk
 now-together.tk
