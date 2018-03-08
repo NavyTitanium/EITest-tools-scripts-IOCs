@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 14:30:02 UTC 
+# last updated on: 2018-03-08 15:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -231,7 +231,6 @@
 1stliketoread.tk
 1stmuch-faster.tk
 1stmyfather.tk
-1stmymother.tk
 1stof-view.tk
 1stsensitive.tk
 1stthebone.tk
@@ -667,11 +666,13 @@
 77jiruyering.tk
 77tuirhyring.tk
 7812rtelephone.tk
+781gyetelephone.tk
 781njtech.tk
 78gytrring.tk
 78hurcallnow.tk
 78hutelephone.tk
 7abhdcfccallnow.tk
+7deracallnow.tk
 7dreccallnow.tk
 7ferttelephone.tk
 7gaqtelephone.tk
@@ -1884,7 +1885,6 @@ ithinkour.tk
 itis-clear.tk
 itis-not-he.tk
 itis-smal.tk
-itis-small.tk
 itisachance.tk
 itisalso.tk
 itisameat.tk
@@ -3144,6 +3144,7 @@ youngadonis.tk
 younger-sister.tk
 your-favourite.tk
 your-friend.tk
+your-head.tk
 youthin.tk
 youtomeethim.tk
 youturn-supp.tk
