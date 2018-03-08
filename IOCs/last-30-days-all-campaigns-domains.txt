@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 03:30:02 UTC 
+# last updated on: 2018-03-08 04:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -935,6 +935,7 @@ all-physical.tk
 all-taxes.tk
 all-themen.tk
 all-thesenow.tk
+allinfluence.tk
 allkindshelper.tk
 allor-most.tk
 alloversupp.tk
@@ -1689,6 +1690,7 @@ his-patients.tk
 his-personality.tk
 his-servant.tk
 his-spare.tk
+his-sulky.tk
 hiseyes.tk
 hissinginto.tk
 hje8contact.tk
@@ -2315,7 +2317,6 @@ over-me.tk
 over-twenty.tk
 over-with.tk
 own-soul.tk
-ownqwptpersonto.bid
 ownsacomputer.tk
 oxford-was.tk
 pagesof.tk
@@ -2467,6 +2468,7 @@ roomin.tk
 roundand.tk
 royal-family.tk
 rulerserasers.tk
+runaway.tk
 running-because.tk
 runningand.tk
 runningiseasy.tk
