@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 15:00:01 UTC 
+# last updated on: 2018-03-08 15:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1851,7 +1851,6 @@ isafatality.tk
 isahardworking.tk
 isalarge.tk
 isaportrait.tk
-isateacher.tk
 isawonderful.tk
 iseighteen.tk
 isimmoral.tk
@@ -1976,6 +1975,7 @@ literature-you.tk
 literatureontaining.tk
 litresof.tk
 little-part.tk
+littlemoresupp.tk
 littleworld-supp.tk
 live-aday.tk
 live-in-the.tk
@@ -3015,7 +3015,6 @@ watching-countless.tk
 water-for15.tk
 wateragain.tk
 waysof-life.tk
-we-are-a.tk
 we-are-intelligent.tk
 we-arenot.tk
 we-aresent.tk
