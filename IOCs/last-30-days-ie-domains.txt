@@ -1,4 +1,4 @@
-# last updated on: 2018-03-07 23:30:01 UTC 
+# last updated on: 2018-03-08 00:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -817,6 +817,7 @@
 8pikircalltous.tk
 8porjusystem.tk
 8porncalltous.tk
+8revgcalltous.tk
 8rtecontact.tk
 8ryhfgcalltous.tk
 8tuiecalltous.tk
@@ -1136,6 +1137,7 @@ bashfulnessisavice.tk
 basil-conscience.tk
 basil-hallward.tk
 basil-this.tk
+basildoyou.tk
 be-appropriate.tk
 be-aspecial.tk
 be-avirtue.tk
@@ -1707,6 +1709,7 @@ havenot.tk
 havenotsupp.tk
 havestudieds.tk
 havetobuy-now.tk
+havetotalk.tk
 havetried.tk
 having-fun.tk
 hbrightest.tk
