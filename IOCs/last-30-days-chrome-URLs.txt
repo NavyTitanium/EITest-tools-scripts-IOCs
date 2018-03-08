@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 10:30:02 UTC 
+# last updated on: 2018-03-08 11:00:01 UTC 
 http://almanhukuku.ozyegin.edu.tr/indexaa.php
 http://demo.ore.edu.pl/index_10.php
 http://demo.ore.edu.pl/index_2.php
@@ -22,3 +22,4 @@ http://www.sitet.edu.bd/indexa.php
 http://www.sitet.edu.bd/indexaa.php
 http://www.umes.edu.gt/indexa.php
 http://www.umes.edu.gt/indexaa.php
+http://www.umes.edu.gt/indexi.php
