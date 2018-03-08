@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 07:30:01 UTC 
+# last updated on: 2018-03-08 08:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -230,6 +230,7 @@
 1stmuch-faster.tk
 1stmyfather.tk
 1stmymother.tk
+1stof-view.tk
 1stsensitive.tk
 1stthebone.tk
 1stthedanes.tk
@@ -906,7 +907,6 @@ accessibleto-everybody.tk
 according-tolegend.tk
 acountrysupp.tk
 acquer-leaves.tk
-acreageand.tk
 across-his.tk
 acting-career.tk
 actuallycheck.tk
@@ -967,7 +967,6 @@ and-down.tk
 and-drawing.tk
 and-feel.tk
 and-fishing.tk
-and-flower.tk
 and-genuine.tk
 and-grey.tk
 and-had.tk
@@ -1928,7 +1927,6 @@ king-claimed.tk
 kmbhfbhtech.tk
 knowalot.tk
 knowledge-about.tk
-knownin.tk
 knowyouwere.tk
 koji2callfast.tk
 kokuy4callus.tk
@@ -2051,6 +2049,7 @@ merelyvisible.tk
 mesimply.tk
 messagesare.tk
 methan.tk
+metostop.tk
 mewandironing.tk
 might-become.tk
 mightawake.tk
@@ -2513,6 +2512,7 @@ she-is-greatly.tk
 shealways.tk
 shoes-make.tk
 shopreduceri.ro
+should-not.tk
 sidesof.tk
 silentamusement.tk
 sillyhabit.tk
@@ -3129,7 +3129,6 @@ www.umes.edu.gt
 year-course.tk
 years162018.bid
 yearsone.tk
-yield-for.tk
 you-a-great.tk
 you-and-to.tk
 youarelucky.tk
