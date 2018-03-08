@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 00:30:02 UTC 
+# last updated on: 2018-03-08 01:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -7,6 +7,7 @@
 00ijriusystem.tk
 00jiruytsupport.tk
 00kikipcalltous.tk
+00qweencalltoday.tk
 00rijfsupport.tk
 00riucalltoday.tk
 023fdgsystem.tk
@@ -1075,7 +1076,6 @@ asatown.tk
 asithink.tk
 asked162018.bid
 asourselves.tk
-asqwptlongasqwtto.bid
 asyoutold.tk
 at-hisoffice.tk
 at-homesupp.tk
@@ -1471,7 +1471,6 @@ floated-past.tk
 followed-by.tk
 followingus.tk
 food-supermarket.tk
-foolaman.tk
 football-golf.tk
 for-businesspeople.tk
 for-cloth.tk
@@ -2489,6 +2488,7 @@ seethat.tk
 sensationof.tk
 separatepeople.tk
 serious-but.tk
+seriously-about.tk
 setupupdate.bid
 seven-pounds.tk
 several-days.tk
@@ -2753,6 +2753,7 @@ there-aremanysupport.tk
 there-aretwo.tk
 there-arewild.tk
 there-everything.tk
+there-is-no.tk
 there-is-nothing.tk
 there-is.tk
 therecipe.tk
@@ -3119,7 +3120,6 @@ yearsone.tk
 yield-for.tk
 you-a-great.tk
 you-and-to.tk
-you-want-something.bid
 youarelucky.tk
 youcan-write.tk
 youdo-either.tk
