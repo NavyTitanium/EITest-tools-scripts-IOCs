@@ -1,4 +1,4 @@
-# last updated on: 2018-03-09 10:00:01 UTC 
+# last updated on: 2018-03-09 10:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1071,6 +1071,7 @@ andone-in.tk
 andreyheis.tk
 andunlawful.tk
 anduseful.tk
+andyet-what.tk
 anecessity.tk
 anecho.tk
 aneducated.tk
@@ -1701,7 +1702,6 @@ his-country.tk
 his-goals.tk
 his-health.tk
 his-job.tk
-his-kingdom.tk
 his-name.tk
 his-parents.tk
 his-patients.tk
@@ -2504,7 +2504,6 @@ serious-but.tk
 seriously-about.tk
 setupupdate.bid
 seven-pounds.tk
-several-days.tk
 several-times-help.tk
 several162018.bid
 shall-not.tk
