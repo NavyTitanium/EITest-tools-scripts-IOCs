@@ -1,4 +1,4 @@
-# last updated on: 2018-03-09 15:30:01 UTC 
+# last updated on: 2018-03-09 16:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -941,7 +941,6 @@
 abishop-now.tk
 abletogive.tk
 about-space.tk
-about1072.tk
 aboutamonth.tk
 aboutit-call.tk
 abouton.tk
@@ -1312,7 +1311,6 @@ comparacement-with.tk
 competitivenegotiation.tk
 complex-because.tk
 computersinternet.tk
-conferencewas.tk
 connected-with.tk
 conservativeand.tk
 considerit-to.tk
@@ -1607,6 +1605,7 @@ grows-sick.tk
 guaranteedservice.bid
 gute2callfast.tk
 gy7telephone.tk
+had-come.tk
 had-known.tk
 hadat-least.tk
 happiness-which.tk
@@ -1707,6 +1706,7 @@ his-patients.tk
 his-personality.tk
 his-servant.tk
 his-spare.tk
+his-subtle.tk
 his-sulky.tk
 his-work.tk
 hiseyes.tk
@@ -1730,7 +1730,6 @@ how-clear.tk
 how-to-new.tk
 however-does.tk
 however-there.tk
-however-this.tk
 however-till.tk
 however-whatever.tk
 howeverawareness.tk
@@ -2098,6 +2097,7 @@ motive-inart.tk
 much-more-supp.tk
 mucheasier.tk
 multi-function.tk
+musical-voice.tk
 musicof-their.tk
 must-be-aware.tk
 must-bedone.tk
@@ -2593,7 +2593,6 @@ story-is-simply.tk
 straightin.tk
 strangeconjectures.tk
 strategy-in.tk
-strategywas.tk
 strong-face.tk
 strongas.tk
 strongest162018.bid
