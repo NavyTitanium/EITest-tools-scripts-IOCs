@@ -1,4 +1,4 @@
-# last updated on: 2018-03-08 23:30:01 UTC 
+# last updated on: 2018-03-09 00:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -508,6 +508,7 @@
 4yrvgdfggiveacall.tk
 4yurgfcallup.tk
 4yuuyttrhelp.tk
+55hucdhelper.tk
 55hurhelper.tk
 55jiebhgiveajingl.tk
 55kotngiveajingl.tk
@@ -685,6 +686,7 @@
 77eoijuring.tk
 77ertwcallnow.tk
 77ggiveajingl.tk
+77hgtelephone.tk
 77hjdbhtelephone.tk
 77hurhutelephone.tk
 77jiencallnow.tk
@@ -707,6 +709,7 @@
 7hjdbhtelephone.tk
 7hjdnjtelejphone.tk
 7hjsbgtrring.tk
+7huebcallnow.tk
 7huvbcallnow.tk
 7ijutelephone.tk
 7iorbhfring.tk
@@ -1248,7 +1251,6 @@ can-call.tk
 can-hardly.tk
 can-make.tk
 can-punish.tk
-can-read-well.tk
 can-saythe.tk
 can-seerightly.bid
 can-sendand.tk
@@ -2547,7 +2549,6 @@ solyanka-is.tk
 somany.tk
 somanysupp.tk
 some-animals-helper.tk
-some-animals.tk
 some-years.tk
 somedaybe.tk
 somelittle.tk
