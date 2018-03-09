@@ -1,4 +1,4 @@
-# last updated on: 2018-03-09 06:30:02 UTC 
+# last updated on: 2018-03-09 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -952,7 +952,6 @@ academy-awards.tk
 academy-is.tk
 access-to.tk
 accessibleto-everybody.tk
-according-tolegend.tk
 acountrysupp.tk
 acquer-leaves.tk
 across-his.tk
@@ -974,6 +973,7 @@ ago-ipassed.tk
 ago-iwent.tk
 agood-boy.tk
 aid-tocontact.tk
+aimof-life.tk
 airas.tk
 alfred-thegrea.tk
 all-legislation.tk
@@ -1075,7 +1075,6 @@ anduseful.tk
 anecessity.tk
 aneducated.tk
 anentirely.tk
-anglo-saxon-chronicle.tk
 animalsand-birds.tk
 animalsare.tk
 aninternational.tk
@@ -1096,6 +1095,7 @@ are-in-danger-helper.tk
 are-in-danger.tk
 are-inappropriate.tk
 are-true.tk
+areborrowed.tk
 arebright.tk
 areclassmates.tk
 aredeadto.bid
@@ -1166,6 +1166,7 @@ beefon.tk
 been-my.tk
 been-perfectly.tk
 been-pride.tk
+been-said.tk
 beenable.tk
 beeneither.tk
 beginning-from.tk
@@ -1534,7 +1535,6 @@ fori-used.tk
 formin-days.tk
 forms-should.tk
 fortified-town.tk
-foundedin-the.tk
 fourteen-he.tk
 freedomand.tk
 freetimenow.tk
@@ -2323,7 +2323,6 @@ over-twenty.tk
 over-with.tk
 own-soul.tk
 ownsacomputer.tk
-oxford-was.tk
 pagesof.tk
 painful-torun.tk
 paint-brush-supp.tk
