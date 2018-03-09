@@ -1,4 +1,4 @@
-# last updated on: 2018-03-09 05:30:01 UTC 
+# last updated on: 2018-03-09 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1499,7 +1499,6 @@ find-something.tk
 fingersupon.tk
 finishedan.tk
 first-language.tk
-first-mentioned.tk
 firstofall-supp.tk
 five-years.tk
 flatteryourself.tk
@@ -1559,7 +1558,6 @@ frying-pan.tk
 fryvegetables.tk
 full-length.tk
 fullofinfinite.tk
-fun-during.tk
 fun-tome.tk
 future162018.bid
 futurecareer.tk
@@ -1595,7 +1593,6 @@ good-women.tk
 good-work.tk
 goodinfluence.tk
 goshopping-support.tk
-gotapet.tk
 gotodistant.tk
 gotused.tk
 governed-within.tk
@@ -1959,6 +1956,7 @@ largefamily.tk
 lastikat-home.tk
 late1960s.tk
 latelycomputers.tk
+laws-have.tk
 learn452.bid
 learned-professions.tk
 learnt-to.tk
@@ -2197,7 +2195,6 @@ now-thevalue.tk
 now-together.tk
 nowadaysand.tk
 nowbecooked.tk
-nowdomesticanimals.tk
 nowfoodis.tk
 nowinever.tk
 nowitanywhere.tk
@@ -2815,6 +2812,7 @@ thingis-not.tk
 things-differently.tk
 things-that.tk
 things-were.tk
+thingsas-sins.tk
 think-that-now.tk
 think-that.tk
 this-book-was.tk
@@ -3123,6 +3121,7 @@ would-like.tk
 would-not.tk
 wouldmost162018.bid
 wreathsof.tk
+written-for-him.tk
 wvf191012345678.tk
 www.galachipacollege.edu.bd
 www.liceobelgrano.edu.ar
