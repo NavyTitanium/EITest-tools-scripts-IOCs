@@ -1,4 +1,4 @@
-# last updated on: 2018-03-09 22:00:01 UTC 
+# last updated on: 2018-03-09 22:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -1003,7 +1003,6 @@ and-become.tk
 and-bodies.tk
 and-books.tk
 and-communicate-supp.tk
-and-communicate.tk
 and-conscious.tk
 and-cramming.tk
 and-dangerous.tk
@@ -1144,7 +1143,6 @@ basil-hallward.tk
 basil-this.tk
 basildoyou.tk
 be-appropriate.tk
-be-aspecial.tk
 be-taken.tk
 be-used.tk
 beautiful-nature.tk
@@ -2458,6 +2456,7 @@ regressand.tk
 relations-when.tk
 relaxand.tk
 remember-well.tk
+rememberingabook.tk
 requires-great.tk
 researchand.tk
 researches.tk
