@@ -1,4 +1,4 @@
-# last updated on: 2018-03-10 03:00:01 UTC 
+# last updated on: 2018-03-10 03:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -25,6 +25,7 @@
 0fikorkosupport.tk
 0ghesystem.tk
 0ghurbuzz.tk
+0gyr00calltoday.tk
 0hjdbytsystem.tk
 0hjsaxazcalltoday.tk
 0huezzaqjsupport.tk
@@ -1264,7 +1265,6 @@ can-make.tk
 can-punish.tk
 can-seerightly.bid
 can-sendand.tk
-can-talk.tk
 can-tell.tk
 cannotexpress.tk
 cansaytha.tk
@@ -2626,7 +2626,6 @@ sugar-salt.tk
 summer-camps.tk
 supp-company-as.tk
 suppatonce.tk
-suppnoweachother.tk
 support-menow.tk
 supportyou-in.tk
 suppose-it.tk
@@ -3092,7 +3091,6 @@ with-part-time.tk
 with-some.tk
 with-them.tk
 with-therage.tk
-with-whomilive.tk
 with112.tk
 with89per.tk
 withahunger.tk
