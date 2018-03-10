@@ -1,4 +1,4 @@
-# last updated on: 2018-03-10 09:30:02 UTC 
+# last updated on: 2018-03-10 10:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -452,6 +452,7 @@
 4876callup.tk
 487utcallup.tk
 48yurjfhelp.tk
+4bumcallup.tk
 4fjhrucallcenter.tk
 4galya44help.tk
 4galyahelp.tk
@@ -937,6 +938,7 @@
 9jkfbhdcontact.tk
 9jkytcalltodaz.tk
 9jnsqxzsasystem.tk
+9joncontact.tk
 9kjnjdvgcontact.tk
 9kmfnjycalltodaz.tk
 9kocontact.tk
@@ -2413,7 +2415,6 @@ pouroutsupp.tk
 povertygrief.tk
 powerful-computer.tk
 practicedin.tk
-precious-thing.tk
 precisepsychological.tk
 predicted-that.tk
 PrepaidTopUp.bid
@@ -2685,7 +2686,6 @@ thatis-painted.tk
 thatis-two.tk
 thatis-what.tk
 thatishall.tk
-thatitis.tk
 thatiwas.tk
 thatof-viol.tk
 thatswhy.tk
@@ -2934,6 +2934,7 @@ treated-bythem.tk
 treats-them.tk
 tributeto.tk
 tries-to.tk
+truerefinement.tk
 trynowforthebest.bid
 tuition-fees.tk
 turned-half-way.tk
