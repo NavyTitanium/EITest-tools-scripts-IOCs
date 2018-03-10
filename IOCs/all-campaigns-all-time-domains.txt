@@ -1,4 +1,4 @@
-# last updated on: 2018-03-10 00:30:01 UTC 
+# last updated on: 2018-03-10 01:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -435,6 +435,7 @@
 3mkdvtercalltohelp.tk
 3mkrnjfgcallus.tk
 3ninacalltohelp.tk
+3njecalltohelp.tk
 3oigetbackto.tk
 3oigetonthehorn.tk
 3oihutcallus.tk
@@ -582,6 +583,7 @@
 5jir5giveajingl.tk
 5jircalling.tk
 5jirhuhelper.tk
+5jirncalling.tk
 5jirnjcalling.tk
 5jirucalling.tk
 5jitcalling.tk
@@ -616,6 +618,7 @@
 5lorahelper.tk
 5minutes-tech.tk
 5mkfnjvbgehelper.tk
+5njdcalling.tk
 5oirjuhelper.tk
 5okervaszhelper.tk
 5per-cent.tk

@@ -1,4 +1,4 @@
-# last updated on: 2018-03-10 00:30:01 UTC 
+# last updated on: 2018-03-10 01:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -408,6 +408,7 @@
 3mkdvtercalltohelp.tk
 3mkrnjfgcallus.tk
 3ninacalltohelp.tk
+3njecalltohelp.tk
 3oigetbackto.tk
 3oigetonthehorn.tk
 3oihutcallus.tk
@@ -553,6 +554,7 @@
 5jir5giveajingl.tk
 5jircalling.tk
 5jirhuhelper.tk
+5jirncalling.tk
 5jirnjcalling.tk
 5jirucalling.tk
 5jitcalling.tk
@@ -587,6 +589,7 @@
 5lorahelper.tk
 5minutes-tech.tk
 5mkfnjvbgehelper.tk
+5njdcalling.tk
 5oirjuhelper.tk
 5okervaszhelper.tk
 5per-cent.tk
@@ -1022,7 +1025,6 @@ and-he-always.tk
 and-helpsus.tk
 and-in-front.tk
 and-jogging.tk
-and-knowledge.tk
 and-learn.tk
 and-learning.tk
 and-less.tk
@@ -1806,7 +1808,6 @@ inacity.tk
 inacitysupp.tk
 inaddition.tk
 inamericahe.tk
-inanysituation.tk
 inatragic.tk
 indeed-the.tk
 indeedeverybody.tk
@@ -2161,7 +2162,6 @@ new-tomymind.tk
 new-water-for.tk
 newand-now.tk
 newespeciallynice.tk
-newimpressions.tk
 newinorder.tk
 newyouknow.tk
 neyhealth.tk
@@ -2564,7 +2564,6 @@ something-horrid.tk
 something-seemed.tk
 something-to.tk
 sometimecalling.tk
-sometimes-we.tk
 sometimes452.bid
 sometimesupp.tk
 sotedious.tk
