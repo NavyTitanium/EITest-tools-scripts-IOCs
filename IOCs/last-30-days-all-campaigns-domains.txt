@@ -1,4 +1,4 @@
-# last updated on: 2018-03-10 17:00:02 UTC 
+# last updated on: 2018-03-10 17:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -833,6 +833,7 @@
 8gybcalltous.tk
 8hifercalltous.tk
 8hjnjcontact.tk
+8huebcalltous.tk
 8huercalltodaz.tk
 8huetech.tk
 8iorktech.tk
@@ -1986,7 +1987,6 @@ languages452.bid
 lank-hair.tk
 largefamily.tk
 lastikat-home.tk
-late1960s.tk
 latelycomputers.tk
 laws-have.tk
 learn452.bid
@@ -2534,7 +2534,6 @@ seven-pounds.tk
 several-times-help.tk
 several162018.bid
 shall-not.tk
-shared-by.tk
 she-is-greatly.tk
 shealways.tk
 shoes-make.tk
