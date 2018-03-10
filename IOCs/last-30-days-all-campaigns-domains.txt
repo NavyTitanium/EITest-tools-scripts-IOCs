@@ -1,4 +1,4 @@
-# last updated on: 2018-03-10 11:00:01 UTC 
+# last updated on: 2018-03-10 11:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -238,6 +238,7 @@
 1steducationis.tk
 1sthewants.tk
 1stimmensely.tk
+1stinart.tk
 1stindependenceday.tk
 1stinorder.tk
 1stitisameat.tk
@@ -249,7 +250,6 @@
 1sttheteacher.tk
 1sttheworldismine.tk
 1stwewritenow.tk
-1tuntil-they.tk
 1yutgetbackto.tk
 1zxdascallcenter.tk
 20years.tk
@@ -2618,7 +2618,6 @@ studentsare.tk
 studied-drawing.tk
 studies-he.tk
 studiotowards.tk
-study-alot.tk
 studygeography.tk
 studying-hard.tk
 stylecan.tk
@@ -2853,7 +2852,6 @@ timepeople.tk
 times162018.bid
 timetothink.tk
 timetotime.tk
-timewatching.tk
 timewhen.tk
 tiredof-their.tk
 to-a-crush.tk
