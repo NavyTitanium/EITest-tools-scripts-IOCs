@@ -1,4 +1,4 @@
-# last updated on: 2018-03-10 23:00:02 UTC 
+# last updated on: 2018-03-10 23:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -247,7 +247,6 @@
 1stindependenceday.tk
 1stinorder.tk
 1stitisameat.tk
-1stmuch-faster.tk
 1stmyfather.tk
 1stof-view.tk
 1stsensitive.tk
@@ -675,6 +674,7 @@
 6jijitcallingnow.tk
 6jijiuhzcallingnow.tk
 6jikgiveacall.tk
+6jinocallingnow.tk
 6jir4givearing.tk
 6jir66callingnow.tk
 6jir6callingnow.tk
@@ -2963,7 +2963,6 @@ up-what.tk
 upfrom.tk
 us-can.tk
 us-lots.tk
-use-e-mail-to.tk
 useful-functions.tk
 useful-profession.tk
 useful-thing.tk
