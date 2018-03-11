@@ -1,4 +1,4 @@
-# last updated on: 2018-03-11 15:00:01 UTC 
+# last updated on: 2018-03-11 15:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -950,6 +950,7 @@
 8pikircalltous.tk
 8porjusystem.tk
 8porncalltous.tk
+8qdavdcalltous.tk
 8revgcalltous.tk
 8rtecontact.tk
 8ryhfgcalltous.tk
@@ -2144,7 +2145,6 @@ more-insincere.tk
 more-to.tk
 moreover-while.tk
 morepurely.tk
-morespeakers.tk
 morewidely.tk
 most-developed.tk
 most-members.tk
@@ -2538,7 +2538,6 @@ school-with.tk
 schoolevents.tk
 scientific-point.tk
 scotlandis.tk
-secondor-foreign.tk
 secretof-religion.tk
 secrets-which.tk
 seemed-to-supp.tk
