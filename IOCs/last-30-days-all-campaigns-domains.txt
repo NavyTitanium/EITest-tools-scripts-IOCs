@@ -1,4 +1,4 @@
-# last updated on: 2018-03-11 17:00:01 UTC 
+# last updated on: 2018-03-11 17:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -349,6 +349,7 @@
 2mkfnjhcallfast.tk
 2momucallfast.tk
 2nikcallfast.tk
+2nkeciucallfast.tk
 2oikjcalls.tk
 2oiklcalls.tk
 2oiroithelp.tk
@@ -1209,7 +1210,6 @@ anyrate.tk
 apartmentits.tk
 aphrase.tk
 approachand.tk
-april12.tk
 are-almost.tk
 are-alot.tk
 are-always.tk
@@ -2408,7 +2408,6 @@ peoplecannot.tk
 peoplehave.tk
 peoplehavesupp.tk
 peoplehaving.tk
-peoplesay.tk
 peoplespending.tk
 peoplethat.tk
 peopleto.tk
