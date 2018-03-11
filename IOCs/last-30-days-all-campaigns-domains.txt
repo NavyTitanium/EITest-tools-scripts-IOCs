@@ -1,4 +1,4 @@
-# last updated on: 2018-03-11 18:00:02 UTC 
+# last updated on: 2018-03-11 18:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -493,6 +493,7 @@
 4dreshelp.tk
 4ecsercallup.tk
 4euirbhelp.tk
+4evawekhelp.tk
 4fjhrucallcenter.tk
 4galya44help.tk
 4galyahelp.tk
@@ -1092,7 +1093,6 @@ adreamof.tk
 after-some.tk
 afteramerican.tk
 afterearth-mine.tk
-age-of-27.tk
 ago-ipassed.tk
 ago-iwent.tk
 agood-boy.tk
