@@ -1,4 +1,4 @@
-# last updated on: 2018-03-11 07:00:01 UTC 
+# last updated on: 2018-03-11 07:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -827,6 +827,7 @@
 7opratelephone.tk
 7oprjicallnow.tk
 7oprjuyring.tk
+7qcfaxcallnow.tk
 7redecallnow.tk
 7reretelephone.tk
 7rewccallnow.tk
@@ -1694,7 +1695,6 @@ has-nowritten.tk
 has-shelikes.tk
 has-suggested.tk
 hasadeep.tk
-hasasurname.tk
 have-a-hobby.tk
 have-alean.tk
 have-alot.tk
@@ -2119,7 +2119,6 @@ moki3calltohelp.tk
 moment-when.tk
 monarch-takes.tk
 monarch-who.tk
-monarchs-have.tk
 money-inapair.tk
 money-others.tk
 monthacross.tk
@@ -2327,7 +2326,6 @@ onewould.tk
 onewqwngto.bid
 onitsbrown.tk
 only-about.tk
-onlyfourteen.tk
 onlyhides.tk
 ontheverge.tk
 or-between.tk
