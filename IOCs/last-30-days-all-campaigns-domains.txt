@@ -1,4 +1,4 @@
-# last updated on: 2018-03-11 05:00:01 UTC 
+# last updated on: 2018-03-11 05:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -381,6 +381,7 @@
 3fuudcalltohelp.tk
 3fyercallus.tk
 3hertcalltohelp.tk
+3hjebhcallus.tk
 3hubbcallus.tk
 3hufercallus.tk
 3hurbhcallus.tk
@@ -1320,7 +1321,6 @@ can-hardly.tk
 can-make.tk
 can-punish.tk
 can-seerightly.bid
-can-sendand.tk
 can-tell.tk
 cannotexpress.tk
 cansaytha.tk
@@ -2053,7 +2053,6 @@ lotabout-different.tk
 lotof0money.tk
 love0and.tk
 loversdream.tk
-machines-work.tk
 madeup162018.bid
 mail-boxes.tk
 mailemailsupport.tk
@@ -2934,7 +2933,6 @@ trainers-because.tk
 tranquilatmosphere.tk
 transformation-from.tk
 transilvaniainteriors.com
-transmittedimmediately.tk
 travelling-is-great.tk
 travellingin.tk
 treasuryis.tk
