@@ -1,4 +1,4 @@
-# last updated on: 2018-03-11 12:00:01 UTC 
+# last updated on: 2018-03-11 12:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -283,6 +283,7 @@
 2gigtercalls.tk
 2gycvacallfast.tk
 2gyeccallfast.tk
+2gyvhcalls.tk
 2hbfuycalls.tk
 2herzcalls.tk
 2hjaszxqcalls.tk
@@ -1495,7 +1496,6 @@ each-person.tk
 each-semester.tk
 eachof-them.tk
 eachofus-supp.tk
-eachyear.tk
 earlieron.tk
 early-years.tk
 ears-than.tk
@@ -1573,11 +1573,9 @@ felt-that.tk
 feltasif.tk
 feltintensely.tk
 few-parents.tk
-fewer-people.tk
 find-something.tk
 fingersupon.tk
 finishedan.tk
-first-language.tk
 firstofall-supp.tk
 five-years.tk
 flatteryourself.tk
