@@ -1,4 +1,4 @@
-# last updated on: 2018-03-11 20:30:02 UTC 
+# last updated on: 2018-03-11 21:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -328,6 +328,7 @@
 2hubutcalls.tk
 2huebcallfast.tk
 2huecallfast.tk
+2huelcallfast.tk
 2huelkcalls.tk
 2huemcalls.tk
 2huhhcallfast.tk
@@ -846,6 +847,7 @@
 7gaqtelephone.tk
 7gutcallnow.tk
 7gywbvcallnow.tk
+7gywvccallnow.tk
 7hgaxztelephone.tk
 7hgdbtelephone.tk
 7hjdbhtelephone.tk
