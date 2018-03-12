@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 14:00:01 UTC 
+# last updated on: 2018-03-12 14:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -98,6 +98,7 @@
 0uirnj2support.tk
 0uybysystem.tk
 0verasystem.tk
+0wvascalltoday.tk
 10kmiorbhfcalltoday.tk
 10kmvnjtyusystem.tk
 111jgetbackto.tk
@@ -1372,7 +1373,6 @@ best-master-now.tk
 best-mobilephones.tk
 best-saying-that.tk
 best-sharethrough.tk
-best-theindian.tk
 best-theschool.tk
 best-things.tk
 bethe-only.tk
@@ -2333,7 +2333,6 @@ ofanidea.tk
 ofapsychological.tk
 ofatemptation.tk
 ofaterrible.tk
-ofelephantuse.tk
 ofextraordinary.tk
 offensivelanguage.tk
 ofinformation.tk
