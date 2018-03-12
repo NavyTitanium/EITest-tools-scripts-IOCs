@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 05:00:01 UTC 
+# last updated on: 2018-03-12 05:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -712,6 +712,7 @@
 66jiruytgivearing.tk
 66jitgivearing.tk
 66jkphone.tk
+69uitbcallingnow.tk
 6drwpcallingnow.tk
 6fecazphone.tk
 6feercallingnow.tk
@@ -1542,7 +1543,6 @@ drawing-nature.tk
 drawing-paper.tk
 drink-something.tk
 each-family.tk
-each-person.tk
 each-semester.tk
 eachof-them.tk
 eachofus-supp.tk
@@ -2393,7 +2393,6 @@ over-twenty.tk
 over-with.tk
 own-soul.tk
 ownas-sweet.tk
-ownsacomputer.tk
 pagesof.tk
 painful-torun.tk
 paint-brush-supp.tk
@@ -2990,7 +2989,6 @@ verydelicious-now.tk
 verygoodand.tk
 verymuchsupport.tk
 visit-museums.tk
-visits-for.tk
 viviva0buzz.tk
 vryheid.top
 wait-for-his.tk
