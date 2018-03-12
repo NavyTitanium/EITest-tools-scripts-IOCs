@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 08:30:02 UTC 
+# last updated on: 2018-03-12 09:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -392,6 +392,7 @@
 2ygetfcalls.tk
 2ytvycalls.tk
 32bhdpcallus.tk
+32huecalltohelp.tk
 32jircalltohelp.tk
 32logyccallus.tk
 333jirpgetontheline.tk
@@ -620,6 +621,7 @@
 56tyevgjhelper.tk
 58jurbnhelper.tk
 58ty6calling.tk
+5bhepcalling.tk
 5cfazhelper.tk
 5cfazzcalling.tk
 5erferhelper.tk
@@ -635,6 +637,7 @@
 5gywbdhelper.tk
 5huebccalling.tk
 5huebfghdashelper.tk
+5huebgdyhelper.tk
 5huenbcalling.tk
 5huenbdhelper.tk
 5huevcalling.tk
@@ -1956,7 +1959,6 @@ internet-an-be.tk
 internetis-the.tk
 into-account.tk
 intothelads.tk
-invent-tomake.tk
 irelandassembly.tk
 is-childish.tk
 is-destroying.tk
@@ -2443,7 +2445,6 @@ persons-with.tk
 philanthropynow.tk
 phonebytheway.tk
 phonesis.tk
-physicalactivity.tk
 pictured-to.tk
 picturedto.tk
 pictures-dealing.tk
