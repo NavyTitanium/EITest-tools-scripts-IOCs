@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 17:30:01 UTC 
+# last updated on: 2018-03-12 18:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -138,6 +138,7 @@
 1hjencall.tk
 1hjocallcenter.tk
 1hoto1call.tk
+1huenjgetbackto.tk
 1hugysupp.tk
 1hurcallcenter.tk
 1hurmcall.tk
@@ -500,7 +501,6 @@
 3poljcalltohelp.tk
 3ponjcallus.tk
 3ponjrcalltohelp.tk
-3potycallus.tk
 3rtevvcalltohelp.tk
 3svetacalltohelp.tk
 3uhsaqcallus.tk
@@ -544,6 +544,7 @@
 4hjdgyrhelp.tk
 4huasscallup.tk
 4huebvcallup.tk
+4huebvhelp.tk
 4huendcallup.tk
 4huevgcallup.tk
 4hurbhgcallup.tk
@@ -1110,6 +1111,7 @@
 9jkytcalltodaz.tk
 9jnsqxzsasystem.tk
 9joncontact.tk
+9jorcalltous.tk
 9kjnjdvgcontact.tk
 9kmfnjycalltodaz.tk
 9kocontact.tk
@@ -2047,7 +2049,6 @@ iwishi.tk
 januaryi.tk
 japaneseplayer.tk
 jer3calltohelp.tk
-jhiuty4help.tk
 jier00system.tk
 jiertw0buzz.tk
 jijy3kcallup.tk
