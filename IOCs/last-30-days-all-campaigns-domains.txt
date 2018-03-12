@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 04:00:01 UTC 
+# last updated on: 2018-03-12 04:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -501,6 +501,7 @@
 45kornhelp.tk
 45rihdlhelp.tk
 45uirnjhelp.tk
+45yurvgdcallup.tk
 4876callup.tk
 487utcallup.tk
 48yurjfhelp.tk
@@ -2147,7 +2148,6 @@ metryno.tk
 mewandironing.tk
 might-become.tk
 mightawake.tk
-million-visits.tk
 mind-tobe.tk
 minutes-he.tk
 mixed-feeling.tk
@@ -2344,7 +2344,6 @@ once-or.tk
 onceaweek.tk
 one-andahalf.tk
 one-area.tk
-one-in-four.tk
 one-is-dealing.tk
 one-of-the-now.tk
 one-ofthem.tk
@@ -2715,7 +2714,6 @@ thatalook.tk
 thatand-they.tk
 thatipaint.tk
 thatis-painted.tk
-thatis-two.tk
 thatis-what.tk
 thatishall.tk
 thatiwas.tk
