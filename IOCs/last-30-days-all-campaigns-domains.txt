@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 23:00:01 UTC 
+# last updated on: 2018-03-12 23:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -524,6 +524,7 @@
 458hueytrhelp.tk
 45giveacall.tk
 45kornhelp.tk
+45oihurbhcallup.tk
 45rihdlhelp.tk
 45uirnjhelp.tk
 45yurvgdcallup.tk
@@ -807,7 +808,6 @@
 6kmfjnvhphone.tk
 6koenjfcallingnow.tk
 6koevgscallingnow.tk
-6koicallingnow.tk
 6kophone.tk
 6koricallingnow.tk
 6korjcallingnow.tk
@@ -1900,12 +1900,10 @@ however-till.tk
 however-whatever.tk
 howeverawareness.tk
 hugefeet.tk
-huhr5calling.tk
 human-capital.tk
 human-faces.tk
 human-personality.tk
 humanities452.bid
-hure6phone.tk
 hut8contact.tk
 i-usually-call.tk
 i-usually.tk
