@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 03:00:02 UTC 
+# last updated on: 2018-03-12 03:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -311,6 +311,7 @@
 22tiurcallfast.tk
 234iocallfast.tk
 235uycallfast.tk
+23rijcalls.tk
 289getonthehorn.tk
 2assaqcalls.tk
 2belacalls.tk

@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 03:00:02 UTC 
+# last updated on: 2018-03-12 03:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -252,7 +252,6 @@
 1stahotel.tk
 1stanytime.tk
 1stareproblems.tk
-1stcomputer-games.tk
 1stcourses.tk
 1stdeepin.tk
 1steducationis.tk
@@ -282,6 +281,7 @@
 22tiurcallfast.tk
 234iocallfast.tk
 235uycallfast.tk
+23rijcalls.tk
 289getonthehorn.tk
 2assaqcalls.tk
 2belacalls.tk
@@ -2987,7 +2987,6 @@ verycreative.tk
 verydelicious-now.tk
 verygoodand.tk
 verymuchsupport.tk
-verypopular-supp.tk
 visit-museums.tk
 visits-for.tk
 viviva0buzz.tk
@@ -3094,7 +3093,6 @@ with-myhobby.tk
 with-part-time.tk
 with-some.tk
 with-therage.tk
-with112.tk
 with89per.tk
 withahunger.tk
 withalot.tk
