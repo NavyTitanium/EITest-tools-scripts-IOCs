@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 07:00:02 UTC 
+# last updated on: 2018-03-12 07:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -33,6 +33,7 @@
 0fikorkosupport.tk
 0ghesystem.tk
 0ghurbuzz.tk
+0gyeccalltoday.tk
 0gyr00calltoday.tk
 0hdpbcalltoday.tk
 0hjdbytsystem.tk
@@ -1892,7 +1893,6 @@ importantnot.tk
 importantthing.tk
 impression-that.tk
 imprison-within.tk
-improvethe.tk
 in-0finding.tk
 in-4lifehe.tk
 in-common.tk
@@ -2061,7 +2061,6 @@ learn452.bid
 learned-professions.tk
 learnt-to.tk
 least-perfect.tk
-leastonce.tk
 left-their.tk
 leftschool162018.bid
 leisuretimesupp.tk
@@ -2168,7 +2167,6 @@ monarch-takes.tk
 monarch-who.tk
 money-inapair.tk
 money-others.tk
-monthacross.tk
 moodsand.tk
 more-appreciative.tk
 more-insincere.tk
