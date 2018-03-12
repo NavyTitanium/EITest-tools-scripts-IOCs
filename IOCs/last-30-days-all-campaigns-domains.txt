@@ -1,4 +1,4 @@
-# last updated on: 2018-03-12 06:30:01 UTC 
+# last updated on: 2018-03-12 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -404,6 +404,7 @@
 356getontheline.tk
 356hurbcalltohelp.tk
 356kocallus.tk
+3bhdzcallus.tk
 3dodoigetontheline.tk
 3ejhrcallus.tk
 3ertscallus.tk
@@ -416,6 +417,7 @@
 3hjebhcallus.tk
 3hubbcallus.tk
 3hufercallus.tk
+3huffcalltohelp.tk
 3hurbhcallus.tk
 3hutjicallus.tk
 3hutrredjcallus.tk
@@ -1011,6 +1013,7 @@
 8yuetfcalltoday.tk
 8yuircalltous.tk
 8yurbbuzz.tk
+915kjvcalltodaz.tk
 956gfsupport.tk
 958ftehgsbuzz.tk
 95oirmkcontact.tk
@@ -2425,7 +2428,6 @@ peoplehave.tk
 peoplehavesupp.tk
 peoplehaving.tk
 peoplethat.tk
-peopleto.tk
 peoplewhom.tk
 peoplewhosupp.tk
 perfecthuman.tk
