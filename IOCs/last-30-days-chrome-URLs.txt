@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 16:00:02 UTC 
+# last updated on: 2018-03-13 16:30:01 UTC 
 http://almanhukuku.ozyegin.edu.tr/indexaa.php
 http://byod.mcclellandcollege.vic.edu.au/indexi.php
 http://demo.ore.edu.pl/index_10.php
@@ -11,7 +11,6 @@ http://shopreduceri.ro/indexa.php
 http://shopreduceri.ro/index_2.php
 http://shopreduceri.ro/index_3.php
 http://teleduck.de/index_10.php
-http://teleduck.de/index_2.php
 http://teleduck.de/index_20.php
 http://teleduck.de/index_3.php
 http://www.galachipacollege.edu.bd/indexa.php
