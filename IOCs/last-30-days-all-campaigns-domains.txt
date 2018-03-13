@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 03:00:02 UTC 
+# last updated on: 2018-03-13 03:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -322,6 +322,7 @@
 2huelcallfast.tk
 2huelkcalls.tk
 2huemcalls.tk
+2huencallfast.tk
 2huepcallfast.tk
 2huhhcallfast.tk
 2hujgycallfast.tk
@@ -541,7 +542,6 @@
 4fjhrucallcenter.tk
 4galya44help.tk
 4galyahelp.tk
-4gerecalling.tk
 4ghaxzsqhelp.tk
 4guhuhelp.tk
 4gyfrhelp.tk
@@ -589,7 +589,6 @@
 4kmjngiveacall.tk
 4koebhcallup.tk
 4kohgvvgfdhelp.tk
-4kohutrhelp.tk
 4kohyrthelp.tk
 4koriu44callup.tk
 4korjujuhyhelp.tk
