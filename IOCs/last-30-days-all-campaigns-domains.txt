@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 16:30:01 UTC 
+# last updated on: 2018-03-13 17:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -49,6 +49,7 @@
 0hurcalltoday.tk
 0hursupport.tk
 0huryucalltoday.tk
+0huxazcalltoday.tk
 0hyebcfa5calltoday.tk
 0ioruisystem.tk
 0iurjsupport.tk
@@ -491,6 +492,7 @@
 3koriu33callus.tk
 3kormgetontheline.tk
 3kornjcallus.tk
+3koruygcallus.tk
 3lkbhyhgcalltohelp.tk
 3lknjhucallus.tk
 3lkoucallus.tk
@@ -1003,6 +1005,7 @@
 8ftepcalltous.tk
 8ftexcalltous.tk
 8gybcalltous.tk
+8gycazcalltous.tk
 8gyebcalltous.tk
 8gyebvccalltous.tk
 8hifercalltous.tk
@@ -1833,7 +1836,6 @@ havetotalk.tk
 havetried.tk
 hbrightest.tk
 he-always.tk
-he-i-easy.tk
 he-is-quite.tk
 he-isasurgeon.tk
 he-or-shejust.tk
