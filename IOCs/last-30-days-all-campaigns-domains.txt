@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 20:00:01 UTC 
+# last updated on: 2018-03-13 20:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1787,7 +1787,6 @@ good-advice.tk
 good-books.tk
 good-company.tk
 good-running.tk
-good-usinesspeople.tk
 good-women.tk
 good-work.tk
 goodinfluence.tk
@@ -1895,6 +1894,7 @@ himself-with.tk
 his-characters.tk
 his-country.tk
 his-goals.tk
+his-hand.tk
 his-name.tk
 his-parents.tk
 his-personality.tk
@@ -2192,7 +2192,6 @@ metryno.tk
 mewandironing.tk
 might-become.tk
 mightawake.tk
-mind-tobe.tk
 minutes-he.tk
 mixed-feeling.tk
 mobilephones-support.tk
@@ -2995,7 +2994,6 @@ very-important-supp.tk
 very-important.tk
 verycomfortable.tk
 verycostly.tk
-verycreative.tk
 verydelicious-now.tk
 verygoodand.tk
 visit-museums.tk
