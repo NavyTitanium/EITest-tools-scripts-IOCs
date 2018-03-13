@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 08:00:02 UTC 
+# last updated on: 2018-03-13 08:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -504,7 +504,6 @@
 3oircalltohelp.tk
 3oirjutcallus.tk
 3oitjicallus.tk
-3okhurcallus.tk
 3oklgetontheline.tk
 3optkocallus.tk
 3pojircalltohelp.tk
@@ -622,7 +621,6 @@
 4ryvpcallup.tk
 4shuencallup.tk
 4tebvax4help.tk
-4uhicallup.tk
 4uiegiveacall.tk
 4uirnjcallup.tk
 4ujrthucallup.tk
@@ -990,6 +988,7 @@
 8hifercalltous.tk
 8hjnjcontact.tk
 8huebcalltous.tk
+8huebgfcalltous.tk
 8huetech.tk
 8ioesystem.tk
 8iorkbuzz.tk
@@ -2060,7 +2059,6 @@ iwasonly.tk
 iwishi.tk
 januaryi.tk
 japaneseplayer.tk
-jiokrte4help.tk
 jobs-because.tk
 judiciarypower.tk
 june-andi.tk
