@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 07:00:01 UTC 
+# last updated on: 2018-03-13 07:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -132,7 +132,6 @@
 1ghjcall.tk
 1gjcallcenter.tk
 1gyekcall.tk
-1gygecall.tk
 1hgdcallcenter.tk
 1hijjcallcenter.tk
 1hjaxcallcenter.tk
@@ -657,6 +656,7 @@
 5bhepcalling.tk
 5cfazhelper.tk
 5cfazzcalling.tk
+5drwpucalling.tk
 5erferhelper.tk
 5ersvgcalling.tk
 5ertsvghelper.tk
@@ -1781,7 +1781,6 @@ growing-pale.tk
 grown-to.tk
 grows-sick.tk
 guaranteedservice.bid
-gute2callfast.tk
 had-come.tk
 had-known.tk
 hadat-least.tk
