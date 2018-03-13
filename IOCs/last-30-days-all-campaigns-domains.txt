@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 07:30:02 UTC 
+# last updated on: 2018-03-13 08:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -303,7 +303,6 @@
 2getcallfast.tk
 2ghdgycalls.tk
 2ghsecalls.tk
-2gigtercalls.tk
 2gycvacallfast.tk
 2gyeccallfast.tk
 2gyevccallfast.tk
@@ -553,6 +552,7 @@
 4gyfrhelp.tk
 4gyftycallup.tk
 4gyrbhdcallup.tk
+4gywpcallup.tk
 4hjdgyrhelp.tk
 4huasscallup.tk
 4huebvcallup.tk
@@ -911,6 +911,7 @@
 7jihugcallnow.tk
 7jikrphone.tk
 7jir7telephone.tk
+7jirbcallnow.tk
 7jirhu2ring.tk
 7jirnjhygytcallnow.tk
 7jirtcallnow.tk
@@ -1098,6 +1099,7 @@
 9hjeposystem.tk
 9huaspcalltodaz.tk
 9huecalltodaz.tk
+9huencontact.tk
 9huhucalltodaz.tk
 9huhue45bcalltodaz.tk
 9hurevgsupp.tk
@@ -2058,7 +2060,6 @@ iwasonly.tk
 iwishi.tk
 januaryi.tk
 japaneseplayer.tk
-jer3calltohelp.tk
 jiokrte4help.tk
 jobs-because.tk
 judiciarypower.tk
