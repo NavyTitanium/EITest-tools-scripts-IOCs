@@ -1,4 +1,4 @@
-# last updated on: 2018-03-13 11:00:01 UTC 
+# last updated on: 2018-03-13 11:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00guesystem.tk
@@ -45,7 +45,6 @@
 0huecscalltoday.tk
 0huezzaqjsupport.tk
 0hufdzsa0calltoday.tk
-0hufecalltoday.tk
 0hur0system.tk
 0hurcalltoday.tk
 0hursupport.tk
@@ -570,6 +569,7 @@
 4ijhytrrecallup.tk
 4ikjuhcallup.tk
 4iogyrbhelp.tk
+4iojiuphelp.tk
 4ior4giveacall.tk
 4iorkfhelp.tk
 4iorkogiveacall.tk
@@ -1148,7 +1148,6 @@
 9koroicontact.tk
 9korui2supp.tk
 9koucalltodaz.tk
-9koutcalltodaz.tk
 9lkfnjcontact.tk
 9loksupp.tk
 9lopkcontact.tk
@@ -2995,7 +2994,6 @@ verydelicious-now.tk
 verygoodand.tk
 verymuchsupport.tk
 visit-museums.tk
-viviva0buzz.tk
 vryheid.top
 wait-for-his.tk
 waiteranswer.bid
