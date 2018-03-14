@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 09:30:01 UTC 
+# last updated on: 2018-03-14 10:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -164,6 +164,7 @@
 1jienjcall.tk
 1jihgcallcenter.tk
 1jijihcallcenter.tk
+1jipokocall.tk
 1jirkgetbackto.tk
 1jirkjcall.tk
 1jiryucall.tk
@@ -562,6 +563,7 @@
 45yurvgdcallup.tk
 4876callup.tk
 487utcallup.tk
+48rubdcallup.tk
 48uiebhdhelp.tk
 48yuevgdhelp.tk
 48yurjfhelp.tk
@@ -893,6 +895,7 @@
 6tanyaphone.tk
 6tiorgivearing.tk
 6tuircallingnow.tk
+6tycgetontheline.tk
 6tyegphone.tk
 6tyigivearing.tk
 6tytfcallingnow.tk
@@ -1310,7 +1313,6 @@ and-learn.tk
 and-learning.tk
 and-less.tk
 and-let-them.tk
-and-magazines.tk
 and-mind.tk
 and-money.tk
 and-northern.tk
@@ -1394,7 +1396,6 @@ aresuch.tk
 arethetreasury.tk
 arethings.tk
 arre1ative1y.tk
-articlesabout-supp.tk
 artists-have.tk
 artof-painting.tk
 as-bulimia.tk
