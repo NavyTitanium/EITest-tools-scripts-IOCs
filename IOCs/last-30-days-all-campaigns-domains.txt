@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 01:00:01 UTC 
+# last updated on: 2018-03-14 01:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1590,7 +1590,6 @@ curious-way.tk
 curledup.tk
 dailywork.tk
 dare-say.tk
-dayhetakes.tk
 daysandnights.tk
 daysit-can.tk
 deal-of-pleasant.tk
@@ -1970,7 +1969,6 @@ in-fact-best.tk
 in-fact.tk
 in-facton.tk
 in-fresh.tk
-in-general.tk
 in-good.tk
 in-helpingyou.bid
 in-his-low.tk
@@ -2893,6 +2891,7 @@ timepeople.tk
 times162018.bid
 timetotime.tk
 timewhen.tk
+tinyblossoms.tk
 tiredof-their.tk
 to-a-crush.tk
 to-any-one.tk
