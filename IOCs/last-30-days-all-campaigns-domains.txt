@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 20:00:01 UTC 
+# last updated on: 2018-03-14 20:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1351,7 +1351,6 @@ and-ribbons.tk
 and-some.tk
 and-sunbathed.tk
 and-that-he.tk
-and-that-we.tk
 and-theface.tk
 and-thegenera.tk
 and-thehead.tk
@@ -1747,6 +1746,7 @@ firstofall-supp.tk
 five-years.tk
 flatteryourself.tk
 floated-past.tk
+flung-himself.tk
 flushingat.tk
 followingus.tk
 food-supermarket.tk
@@ -2118,7 +2118,6 @@ just-touch.tk
 just-turn.tk
 keepson.tk
 kmbhfbhtech.tk
-knowalot.tk
 knowledge-about.tk
 knowyouwere.tk
 kolokcallcenter.tk
@@ -3058,7 +3057,6 @@ wehavent-got.tk
 wehavesupp.tk
 wellas-computers.tk
 wellas-society.tk
-wemight.tk
 weneedand.tk
 went-sailing.tk
 wepoor.tk
