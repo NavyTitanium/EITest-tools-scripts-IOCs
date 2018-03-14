@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 08:30:01 UTC 
+# last updated on: 2018-03-14 09:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -42,6 +42,7 @@
 0gycasystem.tk
 0gyeccalltoday.tk
 0gyr00calltoday.tk
+0gyverccalltoday.tk
 0hdpbcalltoday.tk
 0hjdbytsystem.tk
 0hjsaxazcalltoday.tk
@@ -306,6 +307,7 @@
 234iocallfast.tk
 235uycallfast.tk
 23rijcalls.tk
+245ioecalls.tk
 26ftecallfast.tk
 289getonthehorn.tk
 2belacalls.tk
@@ -720,6 +722,7 @@
 5iotcalling.tk
 5jhsxzsahelper.tk
 5jiemhelper.tk
+5jigetonthehorn.tk
 5jikijgiveajingl.tk
 5jinncalling.tk
 5jir56helper.tk
@@ -2425,7 +2428,6 @@ our-life-supp.tk
 our-life.tk
 our-modern-supp.tk
 our-modern.tk
-our-school.tk
 our-society.tk
 our-societysuper.tk
 our-world-support.tk
