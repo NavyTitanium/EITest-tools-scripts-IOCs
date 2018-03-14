@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 06:30:02 UTC 
+# last updated on: 2018-03-14 07:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -254,7 +254,6 @@
 1st-morepeople.tk
 1st-mybody.tk
 1st-myear.tk
-1st-myfriends.tk
 1st-mymind.tk
 1st-myparents-now.tk
 1st-myparents.tk
@@ -524,6 +523,7 @@
 3oigetbackto.tk
 3oigetonthehorn.tk
 3oihutcallus.tk
+3oinjtech.tk
 3oircalltohelp.tk
 3oirjutcallus.tk
 3oitjicallus.tk
@@ -1047,6 +1047,7 @@
 8iorktech.tk
 8jhdnzcontact.tk
 8jhfcontact.tk
+8jibvcalltous.tk
 8jidbgcontact.tk
 8jiebbuzz.tk
 8jikcalltous.tk
@@ -3071,6 +3072,7 @@ whatis-happiness.tk
 whatsoever-to.tk
 when-things.tk
 when-we-are.tk
+when-we-calling.tk
 when-wetravel.tk
 wheneverihave.tk
 whenour.tk
