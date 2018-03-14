@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 00:30:01 UTC 
+# last updated on: 2018-03-14 01:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -308,6 +308,7 @@
 26ftecallfast.tk
 289getonthehorn.tk
 2belacalls.tk
+2bjcalls.tk
 2dodiucalls.tk
 2ebhrcallfast.tk
 2fazcallfast.tk
@@ -991,6 +992,7 @@
 7ruhycallnow.tk
 7ryehcallnow.tk
 7trygfcallnow.tk
+7typhone.tk
 7uhnbdghering.tk
 7uihcallnow.tk
 7uirjfhuyaring.tk
@@ -1268,7 +1270,6 @@ always-missed.tk
 always-tries.tk
 amazedat-my.tk
 amazement-through.tk
-ameager.tk
 american-history.tk
 among-men.tk
 amongstus.tk
@@ -1545,7 +1546,6 @@ comes-from.tk
 comesinto.tk
 comesonly.tk
 comingintothe.tk
-commercialactivity.tk
 common-goals.tk
 commonest-thing.tk
 commonwealthoffice.tk
@@ -1790,6 +1790,7 @@ gigantic-tiaras.tk
 girl-too.tk
 givenus.tk
 gladyoudidnt.tk
+globe0of.tk
 go-in-for.tk
 golden-globe.tk
 golden-medal.tk
