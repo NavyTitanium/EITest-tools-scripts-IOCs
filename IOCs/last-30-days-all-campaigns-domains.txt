@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 14:00:02 UTC 
+# last updated on: 2018-03-14 14:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -477,6 +477,7 @@
 3iutigetontheline.tk
 3jibcallus.tk
 3jiccalls.tk
+3jidpcalltohelp.tk
 3jiebhicallus.tk
 3jiencalltohelp.tk
 3jifdregetontheline.tk
@@ -1392,7 +1393,6 @@ are-almost.tk
 are-alot.tk
 are-always.tk
 are-in-danger-helper.tk
-are-in-danger.tk
 are-inappropriate.tk
 are-true.tk
 areborrowed.tk
@@ -2181,7 +2181,6 @@ manisnow.tk
 mannerinart.tk
 mannerismof.tk
 manqwsqwptleastto.bid
-many-animals.tk
 manypeoplemine.tk
 manywriters.tk
 markoreven.tk
