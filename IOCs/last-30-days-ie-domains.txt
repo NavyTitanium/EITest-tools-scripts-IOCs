@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 03:30:02 UTC 
+# last updated on: 2018-03-14 04:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -41,6 +41,7 @@
 0fikorkosupport.tk
 0ghesystem.tk
 0ghurbuzz.tk
+0gycasystem.tk
 0gyeccalltoday.tk
 0gyr00calltoday.tk
 0hdpbcalltoday.tk
@@ -824,6 +825,7 @@
 5mkfnjvbgehelper.tk
 5njdcalling.tk
 5nurmpocalling.tk
+5oikfcalling.tk
 5oirjuhelper.tk
 5okervaszhelper.tk
 5per-cent.tk
@@ -3424,6 +3426,7 @@ that-time.tk
 that-today.tk
 that-travelling.tk
 that-washing.tk
+that-wetry.tk
 that-will.tk
 thatadvice.tk
 thatalook.tk
