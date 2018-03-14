@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 07:30:01 UTC 
+# last updated on: 2018-03-14 08:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -642,6 +642,7 @@
 4okruicallup.tk
 4okruithelp.tk
 4okyghuythelp.tk
+4opgetbackto.tk
 4ophutcallup.tk
 4oprkgiveacall.tk
 4pohurcallup.tk
@@ -1160,6 +1161,7 @@
 9hurevgsupp.tk
 9hurmcalltodaz.tk
 9hury99contact.tk
+9huvccalltodaz.tk
 9huwbgtcalltodaz.tk
 9iorcontact.tk
 9iorjicontact.tk
@@ -1496,6 +1498,7 @@ byboth.tk
 bycarwe.tk
 bymy-elder.tk
 byod.mcclellandcollege.vic.edu.au
+bysome.tk
 bystayin.tk
 bythepainter.tk
 came-and.tk
@@ -2618,7 +2621,6 @@ sitteriwon.tk
 six-degrees.tk
 sketch-from.tk
 slightlylower.tk
-small-newspaper.tk
 smallalthough.tk
 smallarea.tk
 smith-has.tk
