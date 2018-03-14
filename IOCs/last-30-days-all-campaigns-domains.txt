@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 16:00:01 UTC 
+# last updated on: 2018-03-14 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1708,7 +1708,6 @@ excitementand.tk
 excludes-the.tk
 expensiveso.tk
 explainit.tk
-exploredavery.tk
 exploring-new.tk
 expresseverything.tk
 eyebrowsand.tk
@@ -2538,6 +2537,7 @@ prove-anything-now.tk
 provoke-arange.tk
 public-that.tk
 punctualand.tk
+put-his-hand.tk
 quality-of.tk
 quartersof.tk
 quickteamforyou.bid
@@ -2793,7 +2793,6 @@ thehelpsupp.tk
 theinternettor.tk
 their-bedrooms.tk
 their-children.tk
-their-fur.tk
 their-names.tk
 their-precious.tk
 theirideas.tk
@@ -2842,6 +2841,7 @@ thesitteris.tk
 thesort.tk
 thespecial-helper.tk
 thespecial-supp.tk
+thestillness.tk
 thesuccessful.tk
 thetablenow.tk
 thetenth.tk
