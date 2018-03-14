@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 09:00:02 UTC 
+# last updated on: 2018-03-14 09:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -290,7 +290,6 @@
 1stsensitive.tk
 1stthebone.tk
 1sttheteacher.tk
-1stwewritenow.tk
 1uircallcenter.tk
 1yuenjcall.tk
 1yutgetbackto.tk
@@ -441,6 +440,7 @@
 356getontheline.tk
 356hurbcalltohelp.tk
 356kocallus.tk
+358uiebcallus.tk
 3bhdzcallus.tk
 3dfwza3calltohelp.tk
 3dodoigetontheline.tk
@@ -2543,7 +2543,6 @@ raisingof.tk
 rather-thin.tk
 reaches.bid
 read-justonce.tk
-read-newspapers.tk
 real-satisfaction.tk
 realityto.tk
 realized162018.bid
@@ -2818,7 +2817,6 @@ thenit-began.tk
 thenits-very.tk
 thepictures.tk
 theplants.tk
-theradio.tk
 there-arefew.tk
 there-aremanysupport.tk
 there-aretwo.tk
