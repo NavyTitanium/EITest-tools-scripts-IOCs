@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 02:00:02 UTC 
+# last updated on: 2018-03-14 02:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1926,7 +1926,6 @@ holidays-travelling.tk
 honest452.bid
 hopesand-dreams.tk
 horriblyfreckled.tk
-hospital-patients.tk
 hospitaland.tk
 houron-medium.tk
 house-of-lords.tk
@@ -2731,6 +2730,7 @@ that-hewas.tk
 that-his-beauty.tk
 that-negotiators.tk
 that-running.tk
+that-strange.tk
 that-thework.tk
 that-today.tk
 that-washing.tk
@@ -3022,7 +3022,6 @@ was-theleast.tk
 was-tolate.tk
 was-worse.tk
 wasagreat.tk
-wasalittle.tk
 wasalways.tk
 wasamazed.tk
 wasanunforgettable.tk
