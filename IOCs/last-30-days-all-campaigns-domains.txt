@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 05:00:01 UTC 
+# last updated on: 2018-03-14 05:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1859,7 +1859,6 @@ havetried.tk
 hbrightest.tk
 he-always.tk
 he-is-quite.tk
-he-isasurgeon.tk
 he-or-shejust.tk
 he-suddenly.tk
 healthand.tk
@@ -2339,6 +2338,7 @@ occupation-following.tk
 of-chirruping.tk
 of-different.tk
 of-friends.tk
+of-high.tk
 of-joythat.tk
 of-men.tk
 of-myfavourite.tk
@@ -3014,7 +3014,6 @@ want-and-stay.tk
 want-tobenefit.tk
 want-towear.tk
 wantyouto.tk
-wardsasking.tk
 was-dimly.tk
 was-five.tk
 was-mymotive.tk
@@ -3098,7 +3097,6 @@ will-plays.tk
 will-receive.tk
 with-both.tk
 with-feeling.tk
-with-him.tk
 with-longing.tk
 with-longstanding.tk
 with-myhobby.tk
