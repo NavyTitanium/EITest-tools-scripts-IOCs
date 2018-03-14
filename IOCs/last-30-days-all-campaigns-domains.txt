@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 19:00:02 UTC 
+# last updated on: 2018-03-14 19:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1988,7 +1988,6 @@ in-0finding.tk
 in-4lifehe.tk
 in-common.tk
 in-fact-best.tk
-in-fact.tk
 in-facton.tk
 in-fresh.tk
 in-good.tk
@@ -2396,6 +2395,7 @@ old-gentleman.tk
 on-cold-winter.tk
 on-studying.tk
 on-sundays.tk
+on-theplatform.tk
 on-travelling.tk
 once-or-twice.tk
 once-or.tk
@@ -3039,7 +3039,6 @@ watching-countless.tk
 water-for15.tk
 wateragain.tk
 waysof-life.tk
-we-are-intelligent.tk
 we-arenot.tk
 we-aresent.tk
 we-arestill.tk
