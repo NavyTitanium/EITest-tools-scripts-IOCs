@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 19:30:02 UTC 
+# last updated on: 2018-03-14 20:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -247,6 +247,7 @@
 1okocall.tk
 1okoipickup.tk
 1okolocallcenter.tk
+1olkocall.tk
 1opgetbackto.tk
 1opjcallcenter.tk
 1opkocall.tk
@@ -983,6 +984,7 @@
 6oprnjphone.tk
 6popcallingnow.tk
 6porlphone.tk
+6puihphone.tk
 6qvescallingnow.tk
 6rijfpone.tk
 6rtgdcallingnow.tk
@@ -3266,6 +3268,7 @@ respect-my.tk
 responsibilitybecause.tk
 responsiblefor.tk
 restriction-in-foods.tk
+resumed-his-pose.tk
 reveals-himself.tk
 rich-dividends.tk
 richer-than.tk
