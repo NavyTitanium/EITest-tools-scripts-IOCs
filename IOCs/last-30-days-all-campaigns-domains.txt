@@ -1,4 +1,4 @@
-# last updated on: 2018-03-14 07:00:01 UTC 
+# last updated on: 2018-03-14 07:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1382,8 +1382,8 @@ areclassmates.tk
 aredeadto.bid
 areharmful.tk
 arepeople.tk
-arepublishing.tk
 aresomuch.tk
+arestirred.tk
 aresuch.tk
 arethetreasury.tk
 arethings.tk
@@ -2132,7 +2132,6 @@ lifeoff.tk
 lifewithout.tk
 likepeople.tk
 likesurrendering.tk
-liketo.tk
 liketofind.tk
 likewatering.tk
 linger-there.tk
@@ -2991,7 +2990,6 @@ us-have.tk
 us-lots.tk
 usafraid.tk
 useful-functions.tk
-useful-profession.tk
 useful-thing.tk
 usefulas.tk
 usoccupied.tk
