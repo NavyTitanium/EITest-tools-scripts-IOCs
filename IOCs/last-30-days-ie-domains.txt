@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 08:30:02 UTC 
+# last updated on: 2018-03-15 09:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -419,6 +419,7 @@
 2jibbcallfast.tk
 2jibgcallfast.tk
 2jicallfast.tk
+2jidkgcallfast.tk
 2jiejihcallfast.tk
 2jikicallfast.tk
 2jikiygetonthehorn.tk
@@ -1730,6 +1731,7 @@ both-to.tk
 both-types.tk
 boymygrandfather.tk
 brain-some.tk
+brainand.tk
 bravest-man.tk
 bread-milk.tk
 break-themonotony.tk
@@ -2942,6 +2944,7 @@ notescape.tk
 notoffendedcall.tk
 notyet-succeeded.tk
 now-basil-hallward.tk
+now-first-time.tk
 now-goes-without.tk
 now-hancock.tk
 now-havemuch.tk
