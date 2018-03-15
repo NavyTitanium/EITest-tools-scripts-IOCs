@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 01:00:02 UTC 
+# last updated on: 2018-03-15 01:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -278,7 +278,6 @@
 1st-theworld.tk
 1st-tomymind.tk
 1st-wemeet.tk
-1st-world-war.tk
 1st-young-man.tk
 1stahotel.tk
 1stand-when.tk
@@ -2139,7 +2138,6 @@ language-are.tk
 languages452.bid
 lank-hair.tk
 lastikat-home.tk
-latelycomputers.tk
 laws-have.tk
 learn452.bid
 learned-professions.tk
@@ -2683,6 +2681,7 @@ statewith.tk
 stay-in-shape.tk
 sticks-etc.tk
 stood-there.tk
+stopped-painting.tk
 story-is-simply.tk
 straightin.tk
 strangeconjectures.tk
@@ -2780,7 +2779,6 @@ the-truth.tk
 the-united-kingdom.tk
 the-universeconspires.bid
 the-useof.tk
-the1990s.tk
 the20century.tk
 the21century.tk
 thebell.tk
