@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 22:00:02 UTC 
+# last updated on: 2018-03-15 22:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2800,7 +2800,6 @@ the-united-kingdom.tk
 the-universeconspires.bid
 the-useof.tk
 the20century.tk
-the21century.tk
 thebell.tk
 thebest-way.tk
 thebestproduct.bid
@@ -2985,7 +2984,6 @@ traditional-russian-soup.tk
 trainers-because.tk
 tranquilatmosphere.tk
 transformation-from.tk
-transilvaniainteriors.com
 travelling-is-great.tk
 travellingin.tk
 treasuryis.tk
@@ -3061,7 +3059,6 @@ wateragain.tk
 waysof-life.tk
 we-arenot.tk
 we-aresent.tk
-we-arestill.tk
 we-enjoy.tk
 weave-progress.tk
 wecan-stop.tk
@@ -3083,6 +3080,7 @@ weswam.tk
 what-thegods.tk
 what-was.tk
 whatever-comes.tk
+whatever-they.tk
 whatihave.tk
 whatis-happiness.tk
 whatsoever-to.tk
