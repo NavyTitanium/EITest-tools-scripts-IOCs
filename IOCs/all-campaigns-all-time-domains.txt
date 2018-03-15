@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 11:30:01 UTC 
+# last updated on: 2018-03-15 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -811,6 +811,7 @@
 5huenbcalling.tk
 5huenbdhelper.tk
 5huevcalling.tk
+5huevgshelper.tk
 5hueyuhelper.tk
 5hur55calling.tk
 5hur5giveajingl.tk
@@ -1428,6 +1429,7 @@ afoxawol.tk
 after-some.tk
 afterabout.tk
 afteramerican.tk
+afteratime.tk
 aftereach.tk
 afterearth-mine.tk
 against-suffering.tk
@@ -3968,6 +3970,7 @@ was-noted.tk
 was-painting.tk
 was-sitting.tk
 was-soon.tk
+was-speaking.tk
 was-theleast.tk
 was-tolate.tk
 was-worse.tk
