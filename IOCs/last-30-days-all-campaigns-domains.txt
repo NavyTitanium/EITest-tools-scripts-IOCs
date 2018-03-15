@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 15:00:01 UTC 
+# last updated on: 2018-03-15 15:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -263,7 +263,6 @@
 1st-mobilephones.tk
 1st-modern-life.tk
 1st-mood.tk
-1st-morepeople.tk
 1st-mybody.tk
 1st-myear.tk
 1st-mymind.tk
@@ -1519,6 +1518,7 @@ best-saying-that.tk
 best-sharethrough.tk
 best-theschool.tk
 best-things.tk
+bestdevice.bid
 betweenyou.tk
 biting-the.tk
 bodyand.tk
@@ -1582,7 +1582,6 @@ cdnkerkobona.com
 cent-performing.tk
 cent-sharing.tk
 centof-women.tk
-centurymore.tk
 certainanswer.tk
 certainlyharry.tk
 certainlythe.tk
@@ -2877,6 +2876,7 @@ they-are-exhausted.tk
 they-are-young.tk
 they-entered.tk
 theyfind.tk
+theyhad.tk
 theyhave.tk
 theykeep.tk
 theyneed.tk
@@ -2959,7 +2959,6 @@ tomyteachers.tk
 too-large.tk
 took-metoturkey.tk
 toovulgar.tk
-topayfora.tk
 toread.tk
 toreading.tk
 torealize.tk

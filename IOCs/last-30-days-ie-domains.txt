@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 15:00:01 UTC 
+# last updated on: 2018-03-15 15:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1718,6 +1718,7 @@ best-theschool.tk
 best-things.tk
 best-timewith.tk
 bestanywoman.tk
+bestdevice.bid
 besteachother.tk
 besthavegot.tk
 bestsomepeople.tk
@@ -3718,6 +3719,7 @@ they-arethe.tk
 they-entered.tk
 theycan.tk
 theyfind.tk
+theyhad.tk
 theyhave.tk
 theykeep.tk
 theylive.tk
