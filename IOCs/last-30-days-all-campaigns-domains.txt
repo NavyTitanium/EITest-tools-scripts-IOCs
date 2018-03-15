@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 18:00:01 UTC 
+# last updated on: 2018-03-15 18:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2336,7 +2336,6 @@ newand-now.tk
 newespeciallynice.tk
 newinorder.tk
 newyouknow.tk
-neyhealth.tk
 no-artist-calling.tk
 noble-ambitions.tk
 nominated-for.tk
@@ -2805,6 +2804,7 @@ thebestproduct.bid
 thecollegenow.tk
 thecountrycall.tk
 thediet-call.tk
+thefull-reality.tk
 thefuture-of.tk
 theglobal-supp.tk
 thegovernmen.tk
@@ -3015,7 +3015,6 @@ us-can.tk
 us-have.tk
 us-lots.tk
 usafraid.tk
-useful-thing.tk
 usefulas.tk
 usoccupied.tk
 variations-with.tk
@@ -3027,7 +3026,6 @@ very-important.tk
 verycomfortable.tk
 verycostly.tk
 verydelicious-now.tk
-verygoodand.tk
 visit-museums.tk
 vryheid.top
 wait-for-his.tk
