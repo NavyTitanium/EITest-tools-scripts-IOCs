@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 10:00:02 UTC 
+# last updated on: 2018-03-15 10:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2035,6 +2035,7 @@ in-thedrama.tk
 in-theleast.tk
 in-theplain.tk
 in-thestudio.tk
+in-wonder.tk
 in1993with.tk
 inacity.tk
 inacitysupp.tk
@@ -2174,7 +2175,6 @@ litresof.tk
 little-part.tk
 littlemoresupp.tk
 littleworld-supp.tk
-live-aday.tk
 live-in-the.tk
 lives-with.tk
 livesand.tk
