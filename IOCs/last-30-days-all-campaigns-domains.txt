@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 07:00:01 UTC 
+# last updated on: 2018-03-15 07:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1640,7 +1640,6 @@ culturesin.tk
 curious-dream.tk
 curious-way.tk
 curledup.tk
-dailywork.tk
 dare-say.tk
 dashof.tk
 daysandnights.tk
@@ -1949,7 +1948,6 @@ himin.tk
 himself-the.tk
 himself-with.tk
 his-characters.tk
-his-country.tk
 his-goals.tk
 his-hand.tk
 his-name.tk
@@ -1960,6 +1958,7 @@ his-spare.tk
 his-subtle.tk
 his-sulky.tk
 his-work.tk
+hiseyes-new.tk
 hiseyes.tk
 hissinginto.tk
 hobbies-make.tk
