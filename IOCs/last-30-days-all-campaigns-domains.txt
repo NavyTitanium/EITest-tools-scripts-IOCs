@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 05:00:02 UTC 
+# last updated on: 2018-03-15 05:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1685,6 +1685,7 @@ dont-consider.tk
 dont-know.tk
 dorian-gray-new.tk
 dowith.tk
+down-he.tk
 draw-from.tk
 drawing-brings.tk
 drawing-nature.tk
@@ -1775,7 +1776,6 @@ food-supermarket.tk
 for-businesspeople.tk
 for-me-and.tk
 for-myself-now.tk
-for-nearly.tk
 for-nearlyten.tk
 for-people-now.tk
 for-short.tk
@@ -2380,7 +2380,6 @@ of-the-artist.tk
 of-the-internet-helper.tk
 of-the-ivy.tk
 of-thecompany.tk
-of-thecountry.tk
 of-thefirm.tk
 of-thehand.tk
 of-thehousework.tk
@@ -3056,7 +3055,6 @@ weave-progress.tk
 wecan-stop.tk
 wecan-travel.tk
 wedine.tk
-wedonot.tk
 wehad.tk
 wehadnt.tk
 wehave-all.tk
