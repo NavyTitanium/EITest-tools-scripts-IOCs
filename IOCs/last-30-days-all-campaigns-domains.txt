@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 23:00:02 UTC 
+# last updated on: 2018-03-15 23:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1558,7 +1558,6 @@ butidontknow.tk
 butifshe.tk
 butin.tk
 butinanother.tk
-butour-life.tk
 butqwptwqwthonlqwpto.bid
 butwhy-not.tk
 buysome.tk
@@ -2228,7 +2227,6 @@ maynot-necessarily.tk
 me-apiece.tk
 me-introduce.tk
 me-once.tk
-mealourselves.tk
 meaningof.tk
 meansof-transport.tk
 meanwhilethe.tk
@@ -2744,6 +2742,7 @@ symboldo.tk
 takingout.tk
 talentsand.tk
 tastenational.tk
+taught-me.tk
 teacherin.tk
 teachers452.bid
 technologies-give.tk
