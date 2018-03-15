@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 22:30:01 UTC 
+# last updated on: 2018-03-15 23:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -996,6 +996,7 @@
 7hueb78callnow.tk
 7huebcallnow.tk
 7huebvtelephone.tk
+7huevfphone.tk
 7huvbcallnow.tk
 7ijutelephone.tk
 7iorbhfring.tk
@@ -1641,7 +1642,6 @@ consumptionoverall.tk
 continuedlord.tk
 contradictiveprocess.tk
 cooking-supp.tk
-cookingour.tk
 cooksitand.tk
 could-hear.tk
 countries-and-cities.tk
@@ -1903,7 +1903,6 @@ happy-and-never.tk
 hard-situations.tk
 hardworking452.bid
 has-become.tk
-has-begun.tk
 has-not-been.tk
 has-nothing.tk
 has-nowritten.tk
@@ -2525,6 +2524,7 @@ phonebytheway.tk
 phonesis.tk
 pictured-to.tk
 picturedto.tk
+picturehas.tk
 pictures-dealing.tk
 pictures-that.tk
 picturesand.tk
@@ -2644,6 +2644,7 @@ shopreduceri.ro
 should-not.tk
 sidesof.tk
 siegeto.tk
+signs-for.tk
 silentamusement.tk
 sillyhabit.tk
 simplyfled.tk
