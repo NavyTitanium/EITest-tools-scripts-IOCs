@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 20:00:02 UTC 
+# last updated on: 2018-03-15 20:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1759,6 +1759,7 @@ eyes-met.tk
 face-and.tk
 facedanew.tk
 facethat.tk
+facewould.tk
 facing-the.tk
 fact-that-now.tk
 fact-that.tk
@@ -2033,7 +2034,6 @@ in-0finding.tk
 in-4lifehe.tk
 in-common.tk
 in-fact-best.tk
-in-facton.tk
 in-fresh.tk
 in-good.tk
 in-helpingyou.bid
@@ -2306,7 +2306,6 @@ natureperfectly.tk
 near-torichness.tk
 need-to-adhere.tk
 needs-nutrients.tk
-negativefunctions.tk
 negotiations-recommend.tk
 negotiationsare.tk
 negotiationsindirect.tk
