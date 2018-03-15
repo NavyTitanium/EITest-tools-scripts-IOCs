@@ -1,4 +1,4 @@
-# last updated on: 2018-03-15 16:00:02 UTC 
+# last updated on: 2018-03-15 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1967,6 +1967,7 @@ his-characters.tk
 his-goals.tk
 his-hand.tk
 his-name.tk
+his-nature.tk
 his-parents.tk
 his-personality.tk
 his-servant.tk
@@ -2119,7 +2120,6 @@ it-to-you.tk
 it-will.tk
 itanywhere.tk
 iteasier.tk
-iteveryday.tk
 itforamoment.tk
 ithinkof.tk
 itis-clear.tk
@@ -2844,7 +2844,6 @@ theplants.tk
 there-arefew.tk
 there-aremanysupport.tk
 there-aretwo.tk
-there-everything.tk
 there-is-no.tk
 there-is-nothing.tk
 there-is.tk
