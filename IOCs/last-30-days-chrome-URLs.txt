@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 14:30:01 UTC 
+# last updated on: 2018-03-16 15:00:02 UTC 
 http://almanhukuku.ozyegin.edu.tr/indexaa.php
 http://byod.mcclellandcollege.vic.edu.au/indexi.php
 http://demo.ore.edu.pl/index_10.php
@@ -26,3 +26,4 @@ http://www.sitet.edu.bd/indexaa.php
 http://www.umes.edu.gt/indexa.php
 http://www.umes.edu.gt/indexaa.php
 http://www.umes.edu.gt/indexi.php
+http://www.umes.edu.gt/page2.php
