@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 02:30:02 UTC 
+# last updated on: 2018-03-16 03:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1464,7 +1464,6 @@ aresomuch.tk
 arestirred.tk
 aresuch.tk
 arethetreasury.tk
-arethings.tk
 arm-chair.tk
 arre1ative1y.tk
 artists-have.tk
@@ -1933,6 +1932,7 @@ heart-beating.tk
 heart-thatone.bid
 hebecomes.tk
 hecried-new.tk
+hecried.tk
 hedoesnt-neglect.tk
 hefeared.tk
 hegone.tk
@@ -2023,6 +2023,7 @@ if-hehad.tk
 ifidid.tk
 ifyou-arenot.tk
 ifyourent.tk
+ihjycallcenter.tk
 ijust-need.tk
 illimet.tk
 imaginationand-creativity.tk
@@ -2739,6 +2740,7 @@ sweepand.tk
 symboldo.tk
 takingout.tk
 talentsand.tk
+talk-likethat.tk
 tastenational.tk
 taught-me.tk
 teacherin.tk

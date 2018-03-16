@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 02:30:02 UTC 
+# last updated on: 2018-03-16 03:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2346,6 +2346,7 @@ heart-beating.tk
 heart-thatone.bid
 hebecomes.tk
 hecried-new.tk
+hecried.tk
 hedoesnt-neglect.tk
 hefeared.tk
 hegone.tk
@@ -2473,6 +2474,7 @@ ifidid.tk
 ifyou-arenot.tk
 ifyoudonot.tk
 ifyourent.tk
+ihjycallcenter.tk
 ijust-need.tk
 ilikethis-sup.tk
 illimet.tk
@@ -3585,6 +3587,7 @@ symboldo.tk
 takes-care.tk
 takingout.tk
 talentsand.tk
+talk-likethat.tk
 taskis.tk
 tastenational.tk
 taught-me.tk
