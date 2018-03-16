@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 13:00:02 UTC 
+# last updated on: 2018-03-16 13:30:01 UTC 
 http://anygood.bid/index/?d5Wyb9
 http://anygood.bid/index/?FpkYQM
 http://anygood.bid/index/?kXjd2Q
@@ -57,8 +57,6 @@ http://marktposition.bid/index/?FpkYQM
 http://marktposition.bid/index/?kXjd2Q
 http://marktposition.bid/index/?MCPKV8
 http://marktposition.bid/index/?z2bK1r
-http://quickteamforyou.bid/index/?kXjd2Q
-http://quickteamforyou.bid/index/?MCPKV8
 http://reaches.bid/index/?d5Wyb9
 http://reaches.bid/index/?FpkYQM
 http://reaches.bid/index/?MCPKV8
@@ -105,6 +103,7 @@ http://fyp.citytech.cuny.edu/page2.php
 http://iaems.edu.eg/indexa.php
 http://iaems.edu.eg/indexaa.php
 http://iaems.edu.eg/indexi.php
+http://iaems.edu.eg/page2.php
 http://shopreduceri.ro/indexa.php
 http://shopreduceri.ro/index_2.php
 http://shopreduceri.ro/index_3.php
@@ -1910,6 +1909,7 @@ http://8yurbbuzz.tk/?number=04-65-43-00-13
 http://8yurbbuzz.tk/?number=800-721-3515
 http://8yurbbuzz.tk/?number=800-803-1089
 http://8yuvgdcalltous.tk/index/?801492446045
+http://914huscalltodaz.tk/index/?801492446045
 http://915kjvcalltodaz.tk/?number=01787-540-044
 http://915kjvcalltodaz.tk/?number=04-65-43-00-13
 http://915kjvcalltodaz.tk/?number=800-803-1466
@@ -2621,8 +2621,6 @@ http://constitutionit.tk/?number=01787-540-044
 http://constitutionit.tk/?number=800-721-3515
 http://constitutionit.tk/?number=800-803-1741
 http://continuedlord.tk/?number=800-721-3515
-http://contradictiveprocess.tk/index/?1641501770611
-http://contradictiveprocess.tk/index/?801492446045
 http://cooking-supp.tk/index/?801492446045
 http://cooksitand.tk/?number=04-65-43-00-14
 http://cooksitand.tk/?number=800-721-3515
@@ -3702,9 +3700,6 @@ http://motive-inart.tk/?number=04-65-43-00-13
 http://motive-inart.tk/?number=800-721-3515
 http://motive-inart.tk/?number=800-803-1089
 http://much-more-supp.tk/index/?801492446045
-http://mucheasier.tk/?number=04-65-43-00-24
-http://mucheasier.tk/?number=800-721-3515
-http://mucheasier.tk/?number=800-806-9809
 http://multi-function.tk/index/?1641501770611
 http://multi-function.tk/index/?801492446045
 http://musical-voice.tk/?number=800-721-3515
@@ -4122,6 +4117,9 @@ http://pictures-dealing.tk/?number=800-721-3515
 http://pictures-that.tk/?number=800-721-3515
 http://picturesand.tk/?number=800-721-3515
 http://picturesand.tk/?number=877-224-1837
+http://piece-of-work.tk/?number=01787-540-044
+http://piece-of-work.tk/?number=04-65-43-00-13
+http://piece-of-work.tk/?number=800-803-1466
 http://placed-his.tk/index/?801492446045
 http://placesand.tk/index/?801492446045
 http://plastic-form.tk/?number=08-7150-1741
