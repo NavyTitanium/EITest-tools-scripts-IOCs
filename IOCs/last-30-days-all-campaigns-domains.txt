@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 23:00:02 UTC 
+# last updated on: 2018-03-16 23:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1486,7 +1486,6 @@ answered-the-artist.tk
 anunpardonable.tk
 anybody-even.tk
 anygood.bid
-anyplacenow.tk
 anyrate.tk
 apartmentits.tk
 aphrase.tk
@@ -2719,7 +2718,6 @@ startedup.tk
 state-is-the.tk
 statewith.tk
 stay-in-shape.tk
-sticks-etc.tk
 stood-there.tk
 stood-therenow.tk
 stopped-painting.tk
@@ -3038,6 +3036,7 @@ walkedup.tk
 walkingacross.tk
 want-and-stay.tk
 want-tobenefit.tk
+wantit-supp.tk
 wantyouto.tk
 was-dimly.tk
 was-five.tk
