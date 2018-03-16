@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 03:00:01 UTC 
+# last updated on: 2018-03-16 03:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1795,7 +1795,6 @@ floated-past.tk
 flower-seemed.tk
 flung-himself.tk
 flushingat.tk
-followingus.tk
 food-supermarket.tk
 for-businesspeople.tk
 for-me-and.tk
@@ -1894,6 +1893,7 @@ grows-sick.tk
 guaranteedservice.bid
 had-come.tk
 had-known.tk
+had-such.tk
 hadat-least.tk
 hadevenin.tk
 hallwardpainted.tk
@@ -2939,7 +2939,6 @@ todayhe.tk
 todaymax.bid
 todaymodern.tk
 todaymost.tk
-todaywe.tk
 todevelop-call.tk
 todevelop-support.tk
 todevelop.tk
@@ -3057,7 +3056,6 @@ watching-countless.tk
 water-for15.tk
 wateragain.tk
 waysof-life.tk
-we-arenot.tk
 we-aresent.tk
 we-enjoy.tk
 weave-progress.tk
