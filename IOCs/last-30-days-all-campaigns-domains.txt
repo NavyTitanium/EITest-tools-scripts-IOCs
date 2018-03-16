@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 11:00:01 UTC 
+# last updated on: 2018-03-16 11:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1775,7 +1775,6 @@ face-and.tk
 facedanew.tk
 facethat.tk
 facewould.tk
-facing-the.tk
 fact-that-now.tk
 fact-that.tk
 factor-must.tk
@@ -1803,6 +1802,7 @@ five-years.tk
 flashedacross.tk
 flatteryourself.tk
 flewaway.tk
+flinging-himself.tk
 floated-past.tk
 flower-seemed.tk
 flung-himself.tk
@@ -2560,7 +2560,6 @@ producedand.tk
 profession-natalie.tk
 profession162018.bid
 programmes-containing.tk
-progressitself.tk
 progressive-ideas.tk
 proper-knowledge.tk
 proportion-who.tk
@@ -3066,7 +3065,6 @@ wecan-stop.tk
 wecan-travel.tk
 wedine.tk
 wehad.tk
-wehave-all.tk
 wehavent-got.tk
 wellas-computers.tk
 welledinto.tk
