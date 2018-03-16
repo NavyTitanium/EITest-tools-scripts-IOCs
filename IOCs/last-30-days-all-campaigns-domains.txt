@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 12:18:06 UTC 
+# last updated on: 2018-03-16 12:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1752,7 +1752,6 @@ especially-in.tk
 ethical-sympathies.tk
 ethical-sympathy.tk
 even-more-new.tk
-even-more.tk
 even-things.tk
 evening-coat.tk
 evermorbid.tk
@@ -2118,7 +2117,6 @@ is-notidentical.tk
 is-responsiblefor.tk
 is-simple.tk
 is-the-internet.tk
-is-theprogress.tk
 is-travelling.tk
 isafatality.tk
 isafraidof.tk
