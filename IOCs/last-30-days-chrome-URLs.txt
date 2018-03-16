@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 12:30:02 UTC 
+# last updated on: 2018-03-16 13:00:02 UTC 
 http://almanhukuku.ozyegin.edu.tr/indexaa.php
 http://byod.mcclellandcollege.vic.edu.au/indexi.php
 http://demo.ore.edu.pl/index_10.php
@@ -17,6 +17,7 @@ http://teleduck.de/index_3.php
 http://www.galachipacollege.edu.bd/indexa.php
 http://www.galachipacollege.edu.bd/indexaa.php
 http://www.lamission.edu/indexi.php
+http://www.lamission.edu/page2.php
 http://www.liceobelgrano.edu.ar/indexa.php
 http://www.liceobelgrano.edu.ar/index_10.php
 http://www.sitet.edu.bd/indexa.php
