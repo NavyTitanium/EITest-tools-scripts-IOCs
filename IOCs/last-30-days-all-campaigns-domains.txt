@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 15:00:02 UTC 
+# last updated on: 2018-03-16 15:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1388,6 +1388,7 @@ and-become.tk
 and-bodies.tk
 and-books.tk
 and-caught.tk
+and-colour.tk
 and-communicate-supp.tk
 and-conscious.tk
 and-cramming.tk
@@ -2445,7 +2446,6 @@ once-or-twice.tk
 once-or.tk
 onceaweek.tk
 one-andahalf.tk
-one-area.tk
 one-is-dealing.tk
 one-of-the-now.tk
 one-ofthem.tk
@@ -3067,7 +3067,6 @@ wecan-stop.tk
 wecan-travel.tk
 wedine.tk
 wehad.tk
-wehavent-got.tk
 wellas-computers.tk
 welledinto.tk
 went-sailing.tk
