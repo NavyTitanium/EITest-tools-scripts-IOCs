@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 01:30:01 UTC 
+# last updated on: 2018-03-16 02:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -33,6 +33,7 @@
 0dasasupport.tk
 0dasqcalltoday.tk
 0daucalltoday.tk
+0degertsystem.tk
 0dexycalltoday.tk
 0dgvsacfsystem.tk
 0dgyecalltoday.tk
@@ -1528,6 +1529,7 @@ and-quite.tk
 and-red-faced.tk
 and-relaxing.tk
 and-ribbons.tk
+and-smiled.tk
 and-some.tk
 and-stooping.tk
 and-sunbathed.tk
@@ -3906,6 +3908,7 @@ trivial-things.tk
 truerefinement.tk
 tuition-fees.tk
 turned-half-way.tk
+turned-pale.tk
 turned-to.tk
 tv-setsas.tk
 twice-aweek.tk
