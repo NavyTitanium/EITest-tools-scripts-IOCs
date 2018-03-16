@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 00:00:02 UTC 
+# last updated on: 2018-03-16 00:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2348,7 +2348,6 @@ not-life.tk
 not-quite.tk
 not-revealed.tk
 not-savages.tk
-not-seem.tk
 not-send.tk
 notavery.tk
 notescape.tk
@@ -2813,7 +2812,6 @@ thegovernment.tk
 thegravel.tk
 thegreen-now.tk
 theheadof.tk
-thehelpsupp.tk
 theinternettor.tk
 their-bedrooms.tk
 their-children.tk
@@ -3089,6 +3087,7 @@ when-we-are.tk
 when-we-calling.tk
 when-wetravel.tk
 wheneverihave.tk
+whenifind.tk
 whenour.tk
 wherei-am-going.tk
 which-was.tk
