@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 02:00:02 UTC 
+# last updated on: 2018-03-16 02:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1364,6 +1364,7 @@ analyses-bu.tk
 and-become.tk
 and-bodies.tk
 and-books.tk
+and-caught.tk
 and-communicate-supp.tk
 and-conscious.tk
 and-cramming.tk
@@ -2009,7 +2010,6 @@ however-whatever.tk
 howeverawareness.tk
 hugebrushes.tk
 hugefeet.tk
-human-capital.tk
 human-faces.tk
 human-personality.tk
 humanities452.bid
@@ -2797,7 +2797,6 @@ the-truth.tk
 the-united-kingdom.tk
 the-universeconspires.bid
 the-useof.tk
-the20century.tk
 thebell.tk
 thebest-way.tk
 thebestproduct.bid
