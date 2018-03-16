@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 09:00:01 UTC 
+# last updated on: 2018-03-16 09:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2181,7 +2181,6 @@ lays-sudden.tk
 learn452.bid
 learned-professions.tk
 learnt-to.tk
-least-perfect.tk
 left-their.tk
 leftschool162018.bid
 leisuretimesupp.tk
@@ -2273,7 +2272,6 @@ moreover-while.tk
 morepurely.tk
 morewidely.tk
 most-members.tk
-most-perfect.tk
 mostastounding.tk
 mostexpensive.tk
 mostof-them.tk
@@ -2465,7 +2463,6 @@ others-need.tk
 our-friendship.tk
 our-futurelife.tk
 our-jobs.tk
-our-life-supp.tk
 our-modern-supp.tk
 our-modern.tk
 our-society.tk
@@ -3070,6 +3067,7 @@ wehave-all.tk
 wehavent-got.tk
 wellas-computers.tk
 wellas-society.tk
+welledinto.tk
 weneedand.tk
 went-sailing.tk
 wepoor.tk
