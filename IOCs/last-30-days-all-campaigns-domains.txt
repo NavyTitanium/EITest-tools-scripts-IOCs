@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 07:30:01 UTC 
+# last updated on: 2018-03-16 08:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -588,6 +588,7 @@
 45rbhrtohelp.tk
 45rihdlhelp.tk
 45rnjd45help.tk
+45tobhfcallup.tk
 45uirnjhelp.tk
 45wevgaspohelp.tk
 45yebhdcallup.tk
@@ -839,6 +840,7 @@
 64uibhfcallingnow.tk
 6568jir6phone.tk
 6589phone.tk
+65lptelephone.tk
 65sxascallingnow.tk
 66bhfycallingnow.tk
 66dhurgivearing.tk
@@ -1652,7 +1654,6 @@ cooksitand.tk
 could-change.tk
 could-hear.tk
 countries-and-cities.tk
-countries-mine.tk
 course-ihave.tk
 courseworks.tk
 coveredall.tk
@@ -2830,7 +2831,6 @@ theliberal-supp.tk
 thelids.tk
 thelife-of.tk
 thelower-chamber.tk
-thelowest.tk
 them-because.tk
 them-tocome.tk
 them-waste.tk
@@ -3107,6 +3107,7 @@ wholooks.tk
 whosesudden.tk
 whostood.tk
 will-definitely.tk
+will-mock.tk
 will-plays.tk
 will-receive.tk
 with-both.tk
