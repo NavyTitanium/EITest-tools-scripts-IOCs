@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 19:00:01 UTC 
+# last updated on: 2018-03-16 19:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1558,7 +1558,6 @@ besides-modern.tk
 besides-running.tk
 besidesi.tk
 best-master-now.tk
-best-mobilephones.tk
 best-saying-that.tk
 best-sharethrough.tk
 best-theschool.tk
@@ -1857,6 +1856,7 @@ from-home.tk
 from-me-and.tk
 from-strength.tk
 from-thedeal.tk
+from-thepillow.tk
 from-which.tk
 fruitsand.tk
 frying-pan.tk
@@ -1942,7 +1942,6 @@ have-alean.tk
 have-alot.tk
 have-asked.tk
 havealot.tk
-havebecome.tk
 havediabetes.tk
 havedone.tk
 havemademe.tk
@@ -2141,7 +2140,6 @@ isimmoral.tk
 isimpossible.tk
 isindependent.tk
 isnt-themain.tk
-isntasecret.tk
 isone-of.tk
 istudied.tk
 it-can-be.tk
