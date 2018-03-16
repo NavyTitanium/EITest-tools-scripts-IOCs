@@ -1,4 +1,4 @@
-# last updated on: 2018-03-16 20:00:02 UTC 
+# last updated on: 2018-03-16 20:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1800,7 +1800,6 @@ fashionableto.tk
 fats-carbohydrates.tk
 favouritesubjects.tk
 feature-of.tk
-feel-quite.tk
 fell-from.tk
 felt-that.tk
 feltasif.tk
@@ -2219,7 +2218,6 @@ littlemoresupp.tk
 littleworld-supp.tk
 lives-with.tk
 livesand-supp.tk
-livesand.tk
 lookatyourself.tk
 looking-him.tk
 lookingat.tk
@@ -2375,6 +2373,7 @@ not-quite.tk
 not-revealed.tk
 not-savages.tk
 not-send.tk
+not-squabble.tk
 notavery.tk
 notescape.tk
 notinfluenced.tk
