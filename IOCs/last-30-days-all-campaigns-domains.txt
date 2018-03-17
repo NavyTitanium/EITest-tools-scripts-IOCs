@@ -1,4 +1,4 @@
-# last updated on: 2018-03-17 11:30:02 UTC 
+# last updated on: 2018-03-17 12:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -76,6 +76,7 @@
 0jieog0calltoday.tk
 0jinisystem.tk
 0jir0support.tk
+0jirpsystem.tk
 0jiuhcalltoday.tk
 0jkdbhazcalltoday.tk
 0jkdbhticalltoday.tk
@@ -523,7 +524,6 @@
 3jkrnjfgcalltohelp.tk
 3jkwbhfcallus.tk
 3joebcalltohelp.tk
-3kjcaqcalltohelp.tk
 3kloigcallus.tk
 3klrbhfycallus.tk
 3kodcalltohelp.tk
@@ -578,7 +578,6 @@
 3ponjrcalltohelp.tk
 3rtevvcalltohelp.tk
 3svetacalltohelp.tk
-3uhsaqcallus.tk
 3uirbhcallus.tk
 3yubfcallus.tk
 3yurhcalltohelp.tk
@@ -1530,6 +1529,7 @@ artof-painting.tk
 as-bulimia.tk
 as-though.tk
 as-we-like.tk
+ashedacros.tk
 asif-hehad.tk
 asithink.tk
 asked162018.bid
@@ -2363,6 +2363,7 @@ new-resemblance.tk
 new-spectator.tk
 new-spheres.tk
 new-stronglybelieve.tk
+new-subsequent.tk
 new-to-understand.tk
 new-tomymind.tk
 new-watched-him.tk
