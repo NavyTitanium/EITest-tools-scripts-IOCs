@@ -1,4 +1,4 @@
-# last updated on: 2018-03-17 06:00:01 UTC 
+# last updated on: 2018-03-17 06:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1657,7 +1657,6 @@ cheerful452.bid
 child-living.tk
 choresare.tk
 citizensof.tk
-claim-that.tk
 claimed-todo.tk
 classesat-college.tk
 classesmy.tk
@@ -1897,6 +1896,7 @@ gauzewings.tk
 gaverise.tk
 general-policy.tk
 generalelections.tk
+georgianurn.tk
 german-writer.tk
 germanybetween.tk
 get-bored.tk
@@ -2148,7 +2148,6 @@ is-notcodified.tk
 is-notidentical.tk
 is-responsiblefor.tk
 is-simple.tk
-is-the-internet.tk
 is-travelling.tk
 isafatality.tk
 isafraidof.tk
@@ -2826,7 +2825,6 @@ thecountrycall.tk
 thediet-call.tk
 thefull-reality.tk
 thefuture-of.tk
-theglobal-supp.tk
 thegovernmen.tk
 thegovernment.tk
 thegravel.tk
