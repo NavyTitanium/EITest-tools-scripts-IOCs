@@ -1,4 +1,4 @@
-# last updated on: 2018-03-17 21:30:01 UTC 
+# last updated on: 2018-03-17 22:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -657,7 +657,6 @@
 4jirbs3callup.tk
 4jirkji45help.tk
 4jiuhgiveacall.tk
-4jkfuhrythelp.tk
 4joebhhelp.tk
 4jokopobuzz.tk
 4kjfnjhhdfterrehelp.tk
@@ -674,7 +673,6 @@
 4kornjcallup.tk
 4kornjhcallup.tk
 4lkerwcallup.tk
-4lkfnjvhcallup.tk
 4lkorhcallup.tk
 4lksaxzeqhelp.tk
 4lokoicallup.tk
@@ -1389,6 +1387,7 @@ always-tries.tk
 always-what.tk
 amazedat-my.tk
 amazement-through.tk
+amethystand.tk
 among-men.tk
 amongstus.tk
 analyses-bu.tk
@@ -1964,6 +1963,7 @@ healthand.tk
 heart-beating.tk
 heart-thatone.bid
 hebecomes.tk
+heconsidered.tk
 hecried-new.tk
 hecried.tk
 hedoesnt-neglect.tk
@@ -3099,6 +3099,7 @@ wholearn.tk
 wholooks.tk
 whosesudden.tk
 whostood.tk
+whowouldnow.tk
 will-definitely.tk
 will-destroy.tk
 will-mock.tk
