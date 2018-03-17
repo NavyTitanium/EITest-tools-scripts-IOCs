@@ -1,4 +1,4 @@
-# last updated on: 2018-03-17 16:30:01 UTC 
+# last updated on: 2018-03-17 16:56:27 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -453,7 +453,6 @@
 32huecalltohelp.tk
 32jircalltohelp.tk
 32kovcalltohelp.tk
-32logyccallus.tk
 32okhggetontheline.tk
 333jirpgetontheline.tk
 33gyrbcalltohelp.tk
@@ -556,7 +555,6 @@
 3lpmkjucallus.tk
 3lpoirjuihelper.tk
 3mkbhtcalltohelp.tk
-3mkdvtercalltohelp.tk
 3mkrnjfgcallus.tk
 3nijcallus.tk
 3ninacalltohelp.tk
@@ -807,6 +805,7 @@
 5kjvbhrtfthelper.tk
 5klrofring.tk
 5kodassszahelper.tk
+5koebhdhelper.tk
 5kofahelper.tk
 5kofbhrcalling.tk
 5koferx55calling.tk
@@ -1578,6 +1577,7 @@ best-things.tk
 bestdevice.bid
 better-let-me.tk
 betweenyou.tk
+bewrinkled.tk
 biting-the.tk
 bodyand.tk
 boil-the.tk
@@ -3081,6 +3081,7 @@ when-wetravel.tk
 wheneverihave.tk
 whenhis.tk
 whenifind.tk
+whenonehas.tk
 whenour.tk
 wherei-am-going.tk
 which-was.tk
