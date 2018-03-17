@@ -1,4 +1,4 @@
-# last updated on: 2018-03-17 07:00:01 UTC 
+# last updated on: 2018-03-17 07:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -276,7 +276,6 @@
 1st-mood.tk
 1st-mybody.tk
 1st-myear.tk
-1st-mymind.tk
 1st-myparents-now.tk
 1st-myparents.tk
 1st-negotiationsare.tk
@@ -1657,6 +1656,7 @@ cheap-hobby.tk
 checkalldir.bid
 cheerful452.bid
 child-living.tk
+chinadishes.tk
 choresare.tk
 citizensof.tk
 claimed-todo.tk
@@ -2534,7 +2534,6 @@ peoplehavesupp.tk
 peoplehaving.tk
 peoplethat.tk
 peoplewhom.tk
-peoplewhosupp.tk
 perfectlyhideous.tk
 perfectlywell.tk
 periodf.tk
