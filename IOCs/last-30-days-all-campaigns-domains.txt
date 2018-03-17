@@ -1,4 +1,4 @@
-# last updated on: 2018-03-17 02:00:01 UTC 
+# last updated on: 2018-03-17 02:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1363,7 +1363,6 @@ abouton.tk
 above-all.tk
 academy-awards.tk
 academy-is.tk
-access-to.tk
 accessibleto-everybody.tk
 acquer-leaves.tk
 across-his.tk
@@ -1394,6 +1393,7 @@ allinfluence.tk
 allkindshelper.tk
 allor-most.tk
 allover-the-supp.tk
+allow-people.tk
 almanhukuku.ozyegin.edu.tr
 also-amember.tk
 alsogo.tk
@@ -2713,7 +2713,6 @@ standother.tk
 starred-in.tk
 start-because.tk
 started-drawing.tk
-started-to.tk
 startedup.tk
 state-is-the.tk
 statewith.tk
@@ -2893,7 +2892,6 @@ theyhad.tk
 theykeep.tk
 theyneed.tk
 theyneednow.tk
-theyprovide.tk
 theyspend.tk
 theywatch.tk
 theywere.tk
