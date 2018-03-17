@@ -1,4 +1,4 @@
-# last updated on: 2018-03-17 05:00:01 UTC 
+# last updated on: 2018-03-17 05:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1445,6 +1445,7 @@ and-perfect.tk
 and-quite.tk
 and-red-faced.tk
 and-ribbons.tk
+and-saucers.tk
 and-smiled.tk
 and-some.tk
 and-stooping.tk
@@ -2119,7 +2120,6 @@ influenced-bycool.tk
 initial-bargaining.tk
 inour.tk
 instantrecharge.bid
-instrumentsand.tk
 intellectual-quizzes.tk
 intellectual-will.tk
 intend-to.tk
@@ -2360,7 +2360,6 @@ new-marriedwomen.tk
 new-mode.tk
 new-of-friends.tk
 new-people.tk
-new-plague.tk
 new-resemblance.tk
 new-spectator.tk
 new-spheres.tk
@@ -2463,7 +2462,6 @@ onceaweek.tk
 one-andahalf.tk
 one-is-dealing.tk
 one-of-the-now.tk
-one-ofthem.tk
 one-thing.tk
 onecompany.tk
 onecould.tk
