@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 22:00:02 UTC 
+# last updated on: 2018-03-18 22:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -127,6 +127,7 @@
 11d6ce0c.com
 11hurkcallcenter.tk
 12hjcallcenter.tk
+12huencall.tk
 12yuhgcall.tk
 145callcenter.tk
 156getbackto.tk
@@ -386,7 +387,6 @@
 2jirmk45getonthehorn.tk
 2jkhjglgetonthehorn.tk
 2jkiocalls.tk
-2jktiecalls.tk
 2kjfbhcalls.tk
 2kjfnjcalls.tk
 2kjigetonthehorn.tk
@@ -2635,7 +2635,6 @@ saynothing.tk
 says-that.tk
 scenesof.tk
 scert191012345.tk
-school-with.tk
 scientific-point.tk
 scotlandis.tk
 secretof-religion.tk
