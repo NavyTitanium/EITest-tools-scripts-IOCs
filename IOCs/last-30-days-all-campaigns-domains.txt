@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 09:00:01 UTC 
+# last updated on: 2018-03-18 09:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -452,6 +452,7 @@
 32jircalltohelp.tk
 32kovcalltohelp.tk
 32okhggetontheline.tk
+32yuwvccallus.tk
 333jirpgetontheline.tk
 33gyrbcalltohelp.tk
 33hurcalltohelp.tk
@@ -1590,7 +1591,6 @@ buticertainly.tk
 butidontknow.tk
 butifshe.tk
 butin.tk
-butqwptwqwthonlqwpto.bid
 butwhy-not.tk
 buysome.tk
 by-apoor.tk
