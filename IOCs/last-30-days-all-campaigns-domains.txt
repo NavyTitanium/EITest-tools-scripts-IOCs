@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 06:30:01 UTC 
+# last updated on: 2018-03-18 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1482,7 +1482,6 @@ are-always.tk
 are-inappropriate.tk
 are-true.tk
 areborrowed.tk
-arebright.tk
 areclassmates.tk
 aredeadto.bid
 areharmful.tk
@@ -1737,6 +1736,7 @@ draw-from.tk
 drawing-brings.tk
 drawing-nature.tk
 drawing-paper.tk
+dreadful-but.tk
 dress-clothes.tk
 drink-something.tk
 each-semester.tk
@@ -2361,7 +2361,6 @@ newinorder.tk
 newyouknow.tk
 no-artist-calling.tk
 noble-ambitions.tk
-nominated-for.tk
 none-of.tk
 not-catching.tk
 not-far-from.tk
@@ -2406,6 +2405,7 @@ of-different.tk
 of-friends.tk
 of-high.tk
 of-his-birth.tk
+of-his-meals.tk
 of-joythat.tk
 of-men.tk
 of-myfavourite.tk
@@ -2493,6 +2493,7 @@ over-me.tk
 over-twenty.tk
 over-with.tk
 own-boldness.tk
+own-portrait.tk
 own-soul.tk
 ownas-sweet.tk
 pagesof.tk
