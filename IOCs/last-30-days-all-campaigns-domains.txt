@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 02:00:02 UTC 
+# last updated on: 2018-03-18 02:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1490,6 +1490,7 @@ arethetreasury.tk
 arm-chair.tk
 arre1ative1y.tk
 artists-have.tk
+artof-doing.tk
 artof-painting.tk
 as-bulimia.tk
 as-though.tk
@@ -1976,7 +1977,6 @@ help-detesting.tk
 help-her.tk
 help-them-supp.tk
 helpful452.bid
-helpofnow.tk
 helpus-calling.tk
 her-character.tk
 her-for.tk
@@ -2917,7 +2917,6 @@ ticketsor-book.tk
 tidying-my.tk
 time-in-my.tk
 time-uselessly.tk
-time-waster.tk
 time-you.tk
 timeisdevoted.tk
 timepeople.tk
