@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 06:00:02 UTC 
+# last updated on: 2018-03-18 06:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1427,6 +1427,7 @@ and-thehead.tk
 and-thehissing.tk
 and-then-for.tk
 and-thepassions.tk
+and-took-mosy.tk
 and-tramping.tk
 and-vivid.tk
 and-watercolour.tk
@@ -1974,7 +1975,6 @@ hefeltas.tk
 hegone.tk
 hehad-never.tk
 hehad-two.tk
-hehas-been.tk
 heknew-the.tk
 heldevery.tk
 helikes-to.tk
@@ -2009,7 +2009,6 @@ him-when.tk
 himin.tk
 himself-the.tk
 himself-with.tk
-his-characters.tk
 his-goals.tk
 his-hand.tk
 his-name.tk
