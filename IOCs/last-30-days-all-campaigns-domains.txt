@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 05:30:02 UTC 
+# last updated on: 2018-03-18 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1400,6 +1400,7 @@ and-frowning.tk
 and-genuine.tk
 and-had.tk
 and-helpsus.tk
+and-horrible.tk
 and-in-front.tk
 and-jogging.tk
 and-learn.tk
@@ -1807,6 +1808,7 @@ fingersupon.tk
 finishedan.tk
 firstofall-supp.tk
 five-years.tk
+fixedupon.tk
 flashedacross.tk
 flatteryourself.tk
 flewaway.tk
@@ -2079,7 +2081,6 @@ in-fresh.tk
 in-good.tk
 in-helpingyou.bid
 in-his-low.tk
-in-hollywood.tk
 in-long.tk
 in-myworks.tk
 in-practice.tk
@@ -2413,7 +2414,6 @@ of-sadness.tk
 of-separation.tk
 of-some.tk
 of-style-new.tk
-of-talents.tk
 of-tears.tk
 of-the-artist.tk
 of-the-ivy.tk
@@ -3037,6 +3037,7 @@ wantit-supp.tk
 wantyouto.tk
 was-dimly.tk
 was-five.tk
+was-less-trouble.tk
 was-mymotive.tk
 was-painting.tk
 was-sitting.tk
@@ -3117,7 +3118,6 @@ with-strawberries.tk
 with-therage.tk
 with89per.tk
 withahunger.tk
-withalot.tk
 withonly.tk
 without-travelling.tk
 withyour-rugged.tk

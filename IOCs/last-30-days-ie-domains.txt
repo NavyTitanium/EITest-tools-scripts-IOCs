@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 05:30:02 UTC 
+# last updated on: 2018-03-18 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1597,6 +1597,7 @@ and-had.tk
 and-he-always.tk
 and-helpsus.tk
 and-hewill.tk
+and-horrible.tk
 and-in-front.tk
 and-jogging.tk
 and-knowledge.tk
@@ -2235,6 +2236,7 @@ first-language.tk
 first-mentioned.tk
 firstofall-supp.tk
 five-years.tk
+fixedupon.tk
 flashedacross.tk
 flatteryourself.tk
 flewaway.tk
@@ -4183,6 +4185,7 @@ wardsasking.tk
 warmsyou.tk
 was-dimly.tk
 was-five.tk
+was-less-trouble.tk
 was-mymotive.tk
 was-noted.tk
 was-painting.tk
