@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 07:30:01 UTC 
+# last updated on: 2018-03-18 08:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1513,7 +1513,6 @@ athis-club.tk
 atoxford.tk
 auctionstarting.bid
 audibleto.tk
-awardsand.tk
 awaywith.tk
 aweek.tk
 balans.shahterworld.org
@@ -1524,6 +1523,7 @@ basil-this.tk
 basildoyou.tk
 be-acaprice.tk
 be-appropriate.tk
+be-older.tk
 be-taken.tk
 be-used.tk
 beautiful-nature.tk
@@ -2496,6 +2496,7 @@ own-portrait.tk
 own-soul.tk
 ownas-sweet.tk
 pagesof.tk
+paid-some.tk
 painful-torun.tk
 paint-brush-supp.tk
 painter-who.tk
@@ -2650,6 +2651,7 @@ service-in.tk
 setitdown.tk
 seven-pounds.tk
 several162018.bid
+shall-grow.tk
 shall-nevercall.tk
 shall-not.tk
 she-is-greatly.tk
@@ -3104,7 +3106,6 @@ will-destroy.tk
 will-give-you.tk
 will-mock.tk
 will-not-letit.tk
-will-plays.tk
 will-receive.tk
 with-both.tk
 with-feeling.tk
