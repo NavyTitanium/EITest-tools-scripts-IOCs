@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 03:00:01 UTC 
+# last updated on: 2018-03-18 03:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1968,6 +1968,7 @@ hefeared.tk
 hefeltas.tk
 hegone.tk
 hehad-never.tk
+hehad-two.tk
 hehas-been.tk
 heknew-the.tk
 heldevery.tk
@@ -2753,7 +2754,6 @@ suppatonce.tk
 supportyou-in.tk
 suppose-it.tk
 surethat.tk
-surfing-different.tk
 surveyshowed.tk
 sweepand.tk
 symboldo.tk
@@ -2939,7 +2939,6 @@ tobedone.tk
 tobehappy.tk
 tocallme.tk
 tochange.tk
-toconclude.tk
 toconfuse.tk
 todaydrawing.tk
 todayhe.tk
@@ -3096,7 +3095,6 @@ who-are-able.tk
 who-expresses.tk
 who-is-revealed.tk
 who-isit-who.tk
-who-want.tk
 wholearn.tk
 wholooks.tk
 whosesudden.tk
@@ -3138,7 +3136,6 @@ world-would.tk
 worldn.tk
 worth-having.tk
 worth-reading.tk
-would-like.tk
 would-not.tk
 wouldbe.tk
 wouldmost162018.bid
