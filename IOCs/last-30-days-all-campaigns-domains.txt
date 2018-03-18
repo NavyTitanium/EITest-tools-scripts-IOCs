@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 23:00:01 UTC 
+# last updated on: 2018-03-18 23:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -454,6 +454,7 @@
 32jievccalltohelp.tk
 32jircalltohelp.tk
 32kovcalltohelp.tk
+32kovcallus.tk
 32okhggetontheline.tk
 32yuwvccallus.tk
 333jirpgetontheline.tk
@@ -679,7 +680,6 @@
 4korjujuhyhelp.tk
 4korn44callup.tk
 4kornjcallup.tk
-4kornjhcallup.tk
 4lkerwcallup.tk
 4lkorhcallup.tk
 4lksaxzeqhelp.tk
@@ -2416,7 +2416,6 @@ of-joythat.tk
 of-men.tk
 of-myfavourite.tk
 of-myself.tk
-of-sadness.tk
 of-separation.tk
 of-some.tk
 of-style-new.tk
