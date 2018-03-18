@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 04:00:02 UTC 
+# last updated on: 2018-03-18 04:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1580,6 +1580,7 @@ but-canvas.tk
 but-had-retired.tk
 but-he.tk
 but-myfriends.tk
+but-preferred.tk
 but-thenin.tk
 but-they.tk
 buticertainly.tk
@@ -2078,7 +2079,6 @@ in-helpingyou.bid
 in-his-low.tk
 in-hollywood.tk
 in-long.tk
-in-my-opinion.tk
 in-myworks.tk
 in-practice.tk
 in-senior.tk
@@ -2121,7 +2121,6 @@ irelandassembly.tk
 is-childish.tk
 is-herefor.tk
 is-his-name.tk
-is-justan.tk
 is-much.tk
 is-my-own.tk
 is-not-merely.tk
@@ -2540,7 +2539,6 @@ phonebytheway.tk
 pictured-to.tk
 picturedto.tk
 picturehas.tk
-pictures-dealing.tk
 pictures-that.tk
 picturesand.tk
 piece-of-work.tk
