@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 12:30:01 UTC 
+# last updated on: 2018-03-18 13:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -271,7 +271,6 @@
 1st-mybody.tk
 1st-myear.tk
 1st-myparents-now.tk
-1st-myparents.tk
 1st-negotiationsare.tk
 1st-said-thepainter.tk
 1st-shesaid.tk
@@ -311,6 +310,7 @@
 1yutgetbackto.tk
 1yuvgcallcenter.tk
 1yuwhcall.tk
+1yuwjcallcenter.tk
 1zxdascallcenter.tk
 222fnjgetonthehorn.tk
 22hurcallfast.tk
@@ -1621,6 +1621,7 @@ cansaytha.tk
 cant-bear.tk
 cantexplain.tk
 capricious-moment.tk
+carefor-call.tk
 catch-thegleam.tk
 caught-by.tk
 cdnkerkobona.com
@@ -1894,6 +1895,7 @@ getuseful.tk
 ggryr2asruasgglr.bid
 gigantic-tiaras.tk
 girl-too.tk
+give-everything.tk
 givenus.tk
 gives-something.tk
 gladyoudidnt.tk
@@ -2148,7 +2150,6 @@ isimpossible.tk
 isindependent.tk
 isnt-themain.tk
 isone-of.tk
-istudied.tk
 it-canhelp.tk
 it-has-forbidden.tk
 it-makesus.tk
@@ -2391,7 +2392,6 @@ now-tellyou.tk
 now-that.tk
 now-there-is.tk
 now-thevalue.tk
-now-together.tk
 nowadaysand.tk
 nowbecooked.tk
 nowengagement.tk
