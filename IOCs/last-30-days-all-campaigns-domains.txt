@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 00:00:02 UTC 
+# last updated on: 2018-03-18 00:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1272,7 +1272,6 @@
 9jihercalltodaz.tk
 9jikocontact.tk
 9jir99calltodaz.tk
-9jirbgfcalltodaz.tk
 9jircalltodaz.tk
 9jiricontact.tk
 9jirncalltodaz.tk
@@ -1302,7 +1301,6 @@
 9loksupp.tk
 9lopkcontact.tk
 9mkdbsdcalltodaz.tk
-9mkfhbvcontact.tk
 9njcbhsystem.tk
 9njdlcalltodaz.tk
 9njuhycontact.tk
@@ -2821,6 +2819,7 @@ thedescription.tk
 thediet-call.tk
 thefull-reality.tk
 thefuture-of.tk
+thegoodenglish.tk
 thegovernmen.tk
 thegovernment.tk
 thegravel.tk
