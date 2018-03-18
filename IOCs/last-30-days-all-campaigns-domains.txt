@@ -1,4 +1,4 @@
-# last updated on: 2018-03-18 01:00:02 UTC 
+# last updated on: 2018-03-18 01:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2427,7 +2427,6 @@ ofaterrible.tk
 ofextraordinary.tk
 offensivelanguage.tk
 offered-the-embassy.tk
-ofinformation.tk
 ofour-life.tk
 oftechnological.tk
 oftenaccepted.tk
@@ -2731,6 +2730,7 @@ studentsare.tk
 studied-drawing.tk
 studies-he.tk
 studiotowards.tk
+study-of-the.tk
 studygeography.tk
 studying-hard.tk
 stylecan.tk
@@ -2913,7 +2913,6 @@ thoughtand.tk
 ticketsor-book.tk
 tidying-my.tk
 time-in-my.tk
-time-saver.tk
 time-uselessly.tk
 time-waster.tk
 time-you.tk
