@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 06:00:02 UTC 
+# last updated on: 2018-03-19 06:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -184,7 +184,6 @@
 1jkkolgetbackto.tk
 1jktcall.tk
 1jktocallcenter.tk
-1jktuicall.tk
 1jnaxzcall.tk
 1jnhbcallcenter.tk
 1joucall.tk
@@ -1033,7 +1032,6 @@
 7jiektelephone.tk
 7jientelepone.tk
 7jieyucallnow.tk
-7jikrphone.tk
 7jir7telephone.tk
 7jirbcallnow.tk
 7jirhu2ring.tk
@@ -2351,6 +2349,7 @@ new-watched-him.tk
 new-water-for.tk
 newand-now.tk
 newespeciallynice.tk
+newexcept-when.tk
 newinorder.tk
 newyouknow.tk
 no-artist-calling.tk
