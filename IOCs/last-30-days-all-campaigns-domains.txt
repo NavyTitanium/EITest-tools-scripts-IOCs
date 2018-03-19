@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 12:00:02 UTC 
+# last updated on: 2018-03-19 12:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -183,7 +183,6 @@
 1jktcall.tk
 1jktocallcenter.tk
 1jnaxzcall.tk
-1jnhbcallcenter.tk
 1joucall.tk
 1k12logetbackto.tk
 1kiocallcenter.tk
@@ -625,7 +624,6 @@
 4hurgicallup.tk
 4hurnjf4callup.tk
 4ibhrhelp.tk
-4ijhytrrecallup.tk
 4ikfijk45help.tk
 4ioenjfyhhelp.tk
 4iogyrbhelp.tk
@@ -781,7 +779,6 @@
 5jitcalling.tk
 5jivas5helper.tk
 5jiwbhghelper.tk
-5jkdsasscalling.tk
 5jkedvgcalling.tk
 5jotyrhelper.tk
 5klrofring.tk
@@ -1423,6 +1420,7 @@ andafter.tk
 andamong.tk
 andancient-sights.tk
 andanorexia.tk
+andaterror.tk
 andclosing.tk
 andelderly.tk
 andenjoyable.tk
