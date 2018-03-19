@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 11:30:01 UTC 
+# last updated on: 2018-03-19 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1859,6 +1859,7 @@ been-pride.tk
 been-said.tk
 beenable.tk
 beeneither.tk
+before-either.tk
 beforephone.tk
 beginning-from.tk
 beginningof-deeds.tk
@@ -3680,6 +3681,7 @@ several162018.bid
 shall-grow.tk
 shall-nevercall.tk
 shall-not.tk
+shall-stay.tk
 shared-by.tk
 sharp-teeth.tk
 she-is-greatly.tk
@@ -4401,6 +4403,7 @@ who-is-revealed.tk
 who-isit-who.tk
 who-want.tk
 who-work.tk
+whobullied.tk
 wholearn.tk
 wholeworld-su.tk
 wholooks.tk
