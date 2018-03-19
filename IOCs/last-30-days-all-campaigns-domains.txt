@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 13:00:02 UTC 
+# last updated on: 2018-03-19 13:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -201,6 +201,7 @@
 1kolyacallcenter.tk
 1koncallcenter.tk
 1koolcall.tk
+1kooomcall.tk
 1kortcall.tk
 1kotcall.tk
 1kotjicallcenter.tk
@@ -515,7 +516,6 @@
 3koghucalltohelp.tk
 3kohucallus.tk
 3kohuoicallus.tk
-3kojicalltohelp.tk
 3kojigetontheline.tk
 3kojjcalltohelp.tk
 3konicallus.tk
@@ -1028,7 +1028,6 @@
 7kikitelephone.tk
 7kirtcallnow.tk
 7kjnjtelephone.tk
-7kogtgsacallnow.tk
 7kornjtelephone.tk
 7koroitele6phone.tk
 7korvgring.tk
