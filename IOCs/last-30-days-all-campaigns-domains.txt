@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 07:30:01 UTC 
+# last updated on: 2018-03-19 08:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -355,7 +355,6 @@
 2huencallfast.tk
 2huepcallfast.tk
 2huhhcallfast.tk
-2hujgycallfast.tk
 2hunbcalls.tk
 2hurlcalls.tk
 2iohuycalls.tk
@@ -926,7 +925,6 @@
 6lkkoicallingnow.tk
 6lknjphone.tk
 6logtgivearing.tk
-6lpjfvgccallingnow.tk
 6lproigivearing.tk
 6modkocallingnow.tk
 6moipkasruingnmowggr.bid
@@ -1742,6 +1740,7 @@ drawing-paper.tk
 dreadful-but.tk
 dress-clothes.tk
 drink-something.tk
+during-which.tk
 each-semester.tk
 eachof-them.tk
 eachofus-supp.tk
@@ -2200,6 +2199,7 @@ lifemore.tk
 lifted-his.tk
 likepeople.tk
 likesurrendering.tk
+likethat-before.tk
 liketo-ask.tk
 liketofind.tk
 likewatering.tk
@@ -2495,6 +2495,7 @@ pagesof.tk
 paid-some.tk
 painful-torun.tk
 paint-brush-supp.tk
+painter-bit.tk
 painter-who.tk
 painterappeared.tk
 painting-table.tk
