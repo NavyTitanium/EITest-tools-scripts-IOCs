@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 04:00:02 UTC 
+# last updated on: 2018-03-19 04:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -210,7 +210,6 @@
 1kotcall.tk
 1kotjicallcenter.tk
 1kotnjcall.tk
-1lkbhgcallcenter.tk
 1lkfbhgcall.tk
 1lkgjkcallcenter.tk
 1lkmgetbackto.tk
@@ -462,6 +461,7 @@
 33jirgetontheline.tk
 33jirngetontheline.tk
 33koriucalltohelp.tk
+33saqwcalltohelp.tk
 33uitncallus.tk
 356callus.tk
 356getontheline.tk
@@ -640,7 +640,6 @@
 4ibhrhelp.tk
 4ijhytrrecallup.tk
 4ikfijk45help.tk
-4ikjuhcallup.tk
 4ioenjfyhhelp.tk
 4iogyrbhelp.tk
 4iojiuphelp.tk
@@ -807,7 +806,6 @@
 5kofbhrcalling.tk
 5koferx55calling.tk
 5kofhuythelper.tk
-5kohygcalling.tk
 5kor55calling.tk
 5kor5callfast.tk
 5korgiveajingl.tk
