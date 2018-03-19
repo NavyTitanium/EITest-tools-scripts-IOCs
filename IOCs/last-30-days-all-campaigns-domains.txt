@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 02:30:01 UTC 
+# last updated on: 2018-03-19 03:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -23,6 +23,7 @@
 012hupickup.tk
 01enjsystem.tk
 01huevgsupport.tk
+021juqcalltoday.tk
 023fdgsystem.tk
 023ijsystem.tk
 02ghyusystem.tk
@@ -371,7 +372,6 @@
 2iurtcalls.tk
 2jhdfercallfast.tk
 2jhfnjcalls.tk
-2jhndcalls.tk
 2jib23calls.tk
 2jibbcallfast.tk
 2jibgcallfast.tk
@@ -1170,7 +1170,6 @@
 8kiecrcalltous.tk
 8kjdnjhbuzz.tk
 8kjfnjvbhbuzz.tk
-8kjiubhbuzz.tk
 8kjnjsystem.tk
 8kjrnjfcalltous.tk
 8kjscfacontact.tk
@@ -1406,6 +1405,7 @@ and-down.tk
 and-drawing.tk
 and-feel.tk
 and-fishing.tk
+and-framed.tk
 and-frowning.tk
 and-genuine.tk
 and-had.tk
@@ -1428,6 +1428,7 @@ and-ribbons.tk
 and-saucers.tk
 and-smiled.tk
 and-some.tk
+and-sowill.tk
 and-stooping.tk
 and-sunbathed.tk
 and-that-he.tk
