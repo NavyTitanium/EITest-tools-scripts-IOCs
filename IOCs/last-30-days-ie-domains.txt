@@ -1,4 +1,4 @@
-# last updated on: 2018-03-19 17:30:01 UTC 
+# last updated on: 2018-03-19 18:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -77,6 +77,7 @@
 0iurnbuzz.tk
 0jhdvgsystem.tk
 0jhvgdbuzz.tk
+0jibicalltoday.tk
 0jibrcalltodaz.tk
 0jidbbsystem.tk
 0jieblcalltoday.tk
@@ -542,10 +543,12 @@
 2yuebucallfast.tk
 2yuenpcalls.tk
 2yurpsupport.tk
+2yutytcalls.tk
 2yuxccallfast.tk
 32bhdpcallus.tk
 32huecalltohelp.tk
 32huvcallus.tk
+32jidacalltohelp.tk
 32jievccalltohelp.tk
 32jircalltohelp.tk
 32kovcalltohelp.tk
