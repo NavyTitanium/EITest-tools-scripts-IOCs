@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 02:30:01 UTC 
+# last updated on: 2018-03-20 03:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -133,7 +133,6 @@
 1biucall.tk
 1busine55-communication.tk
 1dapacall.tk
-1fgwecall.tk
 1foiacallcenter.tk
 1fopigetbackto.tk
 1ftwbcall.tk
@@ -411,6 +410,7 @@
 2sdicalls.tk
 2tiurcallfast.tk
 2tuiyurcalls.tk
+2tyd2calls.tk
 2tyersupport.tk
 2tyrbhcalls.tk
 2uhercallfast.tk
@@ -791,7 +791,6 @@
 5kotyhelper.tk
 5lorahelper.tk
 5minutes-tech.tk
-5mkfnjvbgehelper.tk
 5njdcalling.tk
 5nurmpocalling.tk
 5oikfcalling.tk
@@ -1077,6 +1076,7 @@
 89durucalltous.tk
 89huebzzcalltous.tk
 89huwmcvcalltous.tk
+89ohuenjbuzz.tk
 89ponjuibuzz.tk
 89yuebuzz.tk
 8berttech.tk
@@ -2916,6 +2916,7 @@ tinyblossoms.tk
 tiredof-their.tk
 to-a-crush.tk
 to-any-one.tk
+to-ask-me.tk
 to-itself.tk
 to-schools-to.tk
 to-theserious.tk
