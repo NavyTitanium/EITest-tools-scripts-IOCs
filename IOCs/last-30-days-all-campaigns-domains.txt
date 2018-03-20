@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 02:00:02 UTC 
+# last updated on: 2018-03-20 02:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -51,7 +51,6 @@
 0gyr00calltoday.tk
 0gyverccalltoday.tk
 0hdpbcalltoday.tk
-0hjsaxazcalltoday.tk
 0hu012system.tk
 0huecscalltoday.tk
 0huepasscalltoday.tk
@@ -648,7 +647,6 @@
 4jiuhgiveacall.tk
 4joebhhelp.tk
 4jokopobuzz.tk
-4kjfnjhhdfterrehelp.tk
 4kjfnjvbhhelp.tk
 4klorhelp.tk
 4kmjngiveacall.tk
@@ -2842,6 +2840,7 @@ thenits-very.tk
 thenyoucan.tk
 thepictures.tk
 theplants.tk
+thequeenused.tk
 there-arefew.tk
 there-aremanysupport.tk
 there-aretwo.tk
