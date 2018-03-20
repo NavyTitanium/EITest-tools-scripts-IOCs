@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 21:00:02 UTC 
+# last updated on: 2018-03-20 21:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -632,7 +632,6 @@
 4iutkgiveacall.tk
 4jibgcalltohelp.tk
 4jiddhelp.tk
-4jiebghelp.tk
 4jienbdcallup.tk
 4jifcallup.tk
 4jifyrgiveacall.tk
@@ -886,8 +885,8 @@
 6jit6callingnow.tk
 6jitphone.tk
 6jkdnjcbphone.tk
-6jkuiogivearing.tk
 6johiphone.tk
+6kibi6callingnow.tk
 6kocbphone.tk
 6kophone.tk
 6koricallingnow.tk
@@ -1028,6 +1027,7 @@
 7rbhfiring.tk
 7redecallnow.tk
 7reretelephone.tk
+7revtelephone.tk
 7rewccallnow.tk
 7ruhycallnow.tk
 7trygfcallnow.tk
