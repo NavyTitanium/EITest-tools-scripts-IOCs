@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 18:30:02 UTC 
+# last updated on: 2018-03-20 19:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -46,7 +46,6 @@
 0fikorkosupport.tk
 0fusucalltoday.tk
 0ghesystem.tk
-0ghurbuzz.tk
 0gycasystem.tk
 0gyeccalltoday.tk
 0gyr00calltoday.tk
@@ -508,6 +507,7 @@
 3jirncallus.tk
 3jirnjiocallus.tk
 3jiryucalltohelp.tk
+3jivtcallus.tk
 3jkebcallus.tk
 3jkwbhfcallus.tk
 3joebcalltohelp.tk
@@ -666,6 +666,7 @@
 4opgetbackto.tk
 4ophutcallup.tk
 4oprkgiveacall.tk
+4pobokhelp.tk
 4pohurcallup.tk
 4polcallup.tk
 4polokothelp.tk
@@ -1142,7 +1143,6 @@
 8porncalltous.tk
 8qdavdcalltous.tk
 8revgcalltous.tk
-8ryhfgcalltous.tk
 8saxcalltous.tk
 8tuiecalltous.tk
 8tyuecalltous.tk
@@ -3003,6 +3003,7 @@ us-have.tk
 usafraid.tk
 usefulas.tk
 usoccupied.tk
+valois-byclovis.tk
 variations-with.tk
 vegetables-calling.tk
 vera55helper.tk
