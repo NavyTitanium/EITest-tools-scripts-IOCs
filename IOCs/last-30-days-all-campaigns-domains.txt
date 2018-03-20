@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 00:30:01 UTC 
+# last updated on: 2018-03-20 01:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -75,6 +75,7 @@
 0jidbbsystem.tk
 0jieblcalltoday.tk
 0jieog0calltoday.tk
+0jificalltoday.tk
 0jinisystem.tk
 0jir0support.tk
 0jirpsystem.tk
@@ -213,7 +214,6 @@
 1lpocallcenter.tk
 1ludacallcenter.tk
 1mkgnjcall.tk
-1mnfhycallcenter.tk
 1nmjicall.tk
 1oijicallcenter.tk
 1oikgycall.tk
@@ -821,6 +821,7 @@
 612givearing.tk
 64gywcvgivearing.tk
 64ijsicallingnow.tk
+64jiephone.tk
 64uibhfcallingnow.tk
 6568jir6phone.tk
 6589phone.tk
@@ -1017,7 +1018,6 @@
 7jiryutelephone.tk
 7jiwecallingnow.tk
 7jkdnjydcallnow.tk
-7jketrecallnow.tk
 7jkrbytcallnow.tk
 7jntelephone.tk
 7kikitelephone.tk
@@ -2139,6 +2139,7 @@ its-monstrous.tk
 itsenough.tk
 itsimpossible.tk
 itsown-view.tk
+iwas-there.tk
 iwasonly.tk
 iwishi.tk
 japanesetable.tk
