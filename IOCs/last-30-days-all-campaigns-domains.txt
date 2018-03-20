@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 10:00:01 UTC 
+# last updated on: 2018-03-20 10:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -69,7 +69,6 @@
 0ioruisystem.tk
 0iurjsupport.tk
 0iurnbuzz.tk
-0jhdvgsystem.tk
 0jibicalltoday.tk
 0jibrcalltodaz.tk
 0jidbbsystem.tk
@@ -80,7 +79,6 @@
 0jir0support.tk
 0jirpsystem.tk
 0jiuhcalltoday.tk
-0jkdbhticalltoday.tk
 0jkebhcalltoday.tk
 0jkri10system.tk
 0kjfnuysupport.tk
@@ -2395,6 +2393,7 @@ of-tv-programmes.tk
 of-work-todo.tk
 ofanidea.tk
 ofannoyance.tk
+ofanoldand.tk
 ofapsychological.tk
 ofatemptation.tk
 ofaterrible.tk
