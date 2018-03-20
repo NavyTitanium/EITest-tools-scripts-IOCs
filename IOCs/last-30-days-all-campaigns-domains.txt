@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 13:00:02 UTC 
+# last updated on: 2018-03-20 13:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1297,7 +1297,6 @@ adreamof.tk
 after-some.tk
 afterabout.tk
 afteratime.tk
-afterearth-mine.tk
 ago-iwent.tk
 agood-boy.tk
 aimof-life.tk
@@ -2059,7 +2058,6 @@ in-thepicture.tk
 in-theplain.tk
 in-thestudio.tk
 in-wonder.tk
-in1993with.tk
 inacitysupp.tk
 inaddition.tk
 inatragic.tk
@@ -2182,6 +2180,7 @@ littlemoresupp.tk
 littleworld-supp.tk
 lives-with.tk
 livesand-supp.tk
+long-fringed.tk
 looking-him.tk
 lookingat.tk
 lord-henry.tk
@@ -2192,7 +2191,6 @@ loveless-man.tk
 loversdream.tk
 madestaccato.tk
 madeup162018.bid
-major-role.tk
 making-mybed.tk
 making-them.tk
 maladiesof.tk
