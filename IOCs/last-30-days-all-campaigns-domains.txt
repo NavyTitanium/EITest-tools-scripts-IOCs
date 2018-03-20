@@ -1,4 +1,4 @@
-# last updated on: 2018-03-20 15:00:01 UTC 
+# last updated on: 2018-03-20 15:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -195,7 +195,6 @@
 1koncallcenter.tk
 1koolcall.tk
 1kooomcall.tk
-1kortcall.tk
 1kotcall.tk
 1kotnjcall.tk
 1lkgjkcallcenter.tk
@@ -1390,7 +1389,6 @@ and0serve.tk
 and10per.tk
 andacquiring.tk
 andacts.tk
-andafter.tk
 andamong.tk
 andancient-sights.tk
 andanorexia.tk
@@ -2212,7 +2210,6 @@ marvellous-bold.tk
 marvelloustous.tk
 maynot-necessarily.tk
 me-apiece.tk
-me-introduce.tk
 me-once.tk
 meaningof.tk
 meansof-transport.tk
@@ -2694,6 +2691,7 @@ statewith.tk
 stay-in-shape.tk
 stood-there.tk
 stood-therenow.tk
+stooda.tk
 stopped-painting.tk
 story-is-simply.tk
 straightin.tk
@@ -2765,7 +2763,6 @@ that-thework.tk
 that-was-set.tk
 that-washing.tk
 that-wetry.tk
-that-will.tk
 thatadvice.tk
 thatalook.tk
 thatand-they.tk
@@ -2860,7 +2857,6 @@ thespecial-supp.tk
 thestillness.tk
 thesuccessful.tk
 thetablenow.tk
-thetenth.tk
 thetwocall.tk
 thetwomen.tk
 thetwosupp.tk
