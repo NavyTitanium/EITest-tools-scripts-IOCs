@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 06:30:02 UTC 
+# last updated on: 2018-03-21 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -192,7 +192,6 @@
 1kotcall.tk
 1kotnjcall.tk
 1lkgjkcallcenter.tk
-1lkmgetbackto.tk
 1lko11getbackto.tk
 1lkocallcenter.tk
 1lkoicall.tk
@@ -253,7 +252,6 @@
 1st-negotiationsare.tk
 1st-said-thepainter.tk
 1st-shesaid.tk
-1st-something-new.tk
 1st-sovain.tk
 1st-summedup.tk
 1st-their-peril.tk
@@ -876,6 +874,7 @@
 6jirtelephone.tk
 6jit6callingnow.tk
 6jitphone.tk
+6joboncallingnow.tk
 6johiphone.tk
 6kibi6callingnow.tk
 6kocbphone.tk
@@ -917,6 +916,7 @@
 6xarcallingnow.tk
 6zsaeqcallingnow.tk
 71dezxcallnow.tk
+71fgtelephone.tk
 7245wdraiuring.tk
 73huevgdaphone.tk
 748tcallnow.tk
