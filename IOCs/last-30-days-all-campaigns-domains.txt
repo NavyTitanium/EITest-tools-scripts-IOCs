@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 02:30:01 UTC 
+# last updated on: 2018-03-21 03:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -382,6 +382,7 @@
 2kukrcalls.tk
 2lkoi22calls.tk
 2lobicallfast.tk
+2lomocalls.tk
 2lopcalls.tk
 2nijcallfast.tk
 2nikcallfast.tk
@@ -424,6 +425,7 @@
 2yuvacalls.tk
 2yuxccallfast.tk
 31huvzcalltohelp.tk
+31kobycalltohelp.tk
 32bhdpcallus.tk
 32hudazcallus.tk
 32huecalltohelp.tk
@@ -773,7 +775,6 @@
 5kor5callfast.tk
 5korgiveajingl.tk
 5korgytgiveajingl.tk
-5korngiveajingl.tk
 5kornjjhelper.tk
 5kotuicalling.tk
 5kotyhelper.tk
@@ -1020,7 +1021,6 @@
 7revtelephone.tk
 7rewccallnow.tk
 7ruhycallnow.tk
-7trygfcallnow.tk
 7typhone.tk
 7uhnbdghering.tk
 7uihcallnow.tk
