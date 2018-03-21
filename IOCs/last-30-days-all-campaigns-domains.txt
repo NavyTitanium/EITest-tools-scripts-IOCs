@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 09:00:02 UTC 
+# last updated on: 2018-03-21 09:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -277,7 +277,6 @@
 1stitisameat.tk
 1stof-theportrait.tk
 1stof-view.tk
-1stsensitive.tk
 1stthebone.tk
 1sttheteacher.tk
 1tyyrtcall.tk
@@ -1996,7 +1995,6 @@ human-faces.tk
 human-personality.tk
 i-am-growing.tk
 i-usually-call.tk
-i-usually.tk
 iaems.edu.eg
 idontwant.tk
 if-hehad.tk
