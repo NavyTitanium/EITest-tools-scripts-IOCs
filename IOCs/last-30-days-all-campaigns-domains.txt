@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 20:30:02 UTC 
+# last updated on: 2018-03-21 21:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -774,7 +774,6 @@
 5kotuicalling.tk
 5kotyhelper.tk
 5lorahelper.tk
-5minutes-tech.tk
 5njdcalling.tk
 5nurmpocalling.tk
 5oikfcalling.tk
@@ -1794,7 +1793,6 @@ from-thediplomatic.tk
 from-thepillow.tk
 from-which.tk
 fruitsand.tk
-frying-pan.tk
 full-length.tk
 fullofinfinite.tk
 fullreality.tk
@@ -1942,6 +1940,7 @@ hewatched.tk
 hewrotehis.tk
 hidden-from.tk
 hideous-fires.tk
+hideous-treacherous.tk
 high-profit.bid
 him-tome.tk
 him-when.tk
@@ -2440,6 +2439,7 @@ parliamentarydemocracy.tk
 part-that.tk
 part-with.tk
 parted-lips.tk
+partedin.tk
 particular452.bid
 partiesin.tk
 partof-mylife.tk
