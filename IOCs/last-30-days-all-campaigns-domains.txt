@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 18:00:02 UTC 
+# last updated on: 2018-03-21 18:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -241,7 +241,6 @@
 1st-grosvenor.tk
 1st-hehad-been.tk
 1st-help-me-and.tk
-1st-houron-medium.tk
 1st-light-hair.tk
 1st-long-time.tk
 1st-lookedat.tk
@@ -2821,7 +2820,6 @@ thetwocall.tk
 thetwomen.tk
 thetwosupp.tk
 thetyranny.tk
-thewater.tk
 thewindow.tk
 theworld-new.tk
 they-are-exhausted.tk
