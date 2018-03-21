@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 00:30:01 UTC 
+# last updated on: 2018-03-21 01:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -52,6 +52,7 @@
 0fusucalltoday.tk
 0ghesystem.tk
 0ghurbuzz.tk
+0gyacalltoday.tk
 0gycasystem.tk
 0gyeccalltoday.tk
 0gyr00calltoday.tk
@@ -270,6 +271,7 @@
 1lohucall.tk
 1lohucallcenter.tk
 1lomocall.tk
+1lomoncallcenter.tk
 1lopjcallcenter.tk
 1lpocallcenter.tk
 1ludacallcenter.tk
