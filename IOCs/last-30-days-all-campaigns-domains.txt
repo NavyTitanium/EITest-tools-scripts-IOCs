@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 11:30:02 UTC 
+# last updated on: 2018-03-21 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1392,6 +1392,7 @@ andit-may.tk
 andit-means.tk
 andreturn.tk
 andreyheis.tk
+andugly.tk
 andunlawful.tk
 anduseful.tk
 andyet-what.tk
@@ -2379,7 +2380,6 @@ ofyoung.tk
 ofyourselfin.tk
 oilinto.tk
 old-gentleman.tk
-on-cold-winter.tk
 on-not-being.tk
 on-studying.tk
 on-sundays.tk
@@ -2848,7 +2848,6 @@ theyneednow.tk
 theyspend.tk
 theywatch.tk
 theywere.tk
-thickand-spicy.tk
 thingis-not.tk
 things-differently.tk
 things-that.tk
@@ -2887,6 +2886,7 @@ to-yield.tk
 toatruculent.tk
 tobe-approved.tk
 tobe-improved.tk
+tobe-in-travail.tk
 tobedone.tk
 tobehappy.tk
 tocallme.tk
