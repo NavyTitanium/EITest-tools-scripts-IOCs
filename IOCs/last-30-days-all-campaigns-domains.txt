@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 19:00:02 UTC 
+# last updated on: 2018-03-21 19:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1794,7 +1794,6 @@ from-thepillow.tk
 from-which.tk
 fruitsand.tk
 frying-pan.tk
-fryvegetables.tk
 full-length.tk
 fullofinfinite.tk
 fullreality.tk
@@ -2767,7 +2766,6 @@ their-bedrooms.tk
 their-children.tk
 their-names.tk
 theirideas.tk
-thekidneys.tk
 thelabour.tk
 theliberal-supp.tk
 thelids.tk
