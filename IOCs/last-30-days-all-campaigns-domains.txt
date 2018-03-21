@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 22:00:02 UTC 
+# last updated on: 2018-03-21 22:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -227,7 +227,6 @@
 1porjicall.tk
 1riucall.tk
 1rucallcenter.tk
-1s-now-teveryday.tk
 1ssascall.tk
 1st-best-way.tk
 1st-bestwork.tk
@@ -2992,7 +2991,6 @@ wasamazed.tk
 wasanunforgettable.tk
 wasarustle.tk
 wasatory.tk
-washingup.tk
 wasin-them.tk
 watched-him.tk
 waysof-life.tk
