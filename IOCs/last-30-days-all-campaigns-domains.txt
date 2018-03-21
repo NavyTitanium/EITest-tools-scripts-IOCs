@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 16:00:02 UTC 
+# last updated on: 2018-03-21 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1293,7 +1293,6 @@ all-taxes.tk
 all-theselby.tk
 all-thesurprise.tk
 allinfluence.tk
-allkindshelper.tk
 allor-most.tk
 allover-the-supp.tk
 allow-people.tk
@@ -1978,7 +1977,6 @@ holidays-travelling.tk
 honest452.bid
 hopesand-dreams.tk
 horriblyfreckled.tk
-houron-medium.tk
 house-of-lords.tk
 housework-was.tk
 how-charming.tk
