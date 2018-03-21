@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 12:00:02 UTC 
+# last updated on: 2018-03-21 12:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1631,7 +1631,6 @@ dare-say.tk
 dashof.tk
 day-of-june.tk
 daysandnights.tk
-daysit-can.tk
 deal-of-pleasant.tk
 dear-fellow.tk
 deepenedinto.tk
@@ -2097,7 +2096,6 @@ ithinkof.tk
 itis-clear.tk
 itis-not-he.tk
 itisachance.tk
-itisameat.tk
 itmaybe.tk
 itrytoshow.tk
 its-monstrous.tk
