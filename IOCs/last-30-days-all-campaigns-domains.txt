@@ -1,4 +1,4 @@
-# last updated on: 2018-03-21 06:00:02 UTC 
+# last updated on: 2018-03-21 06:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -758,7 +758,6 @@
 5jir56helper.tk
 5jir5giveajingl.tk
 5jircalling.tk
-5jirhuhelper.tk
 5jirncalling.tk
 5jirnjcalling.tk
 5jirucalling.tk
@@ -1300,7 +1299,6 @@ although-that.tk
 always-been.tk
 always-looked.tk
 always-missed.tk
-always-tries.tk
 always-what.tk
 amazedat-my.tk
 amazement-through.tk
