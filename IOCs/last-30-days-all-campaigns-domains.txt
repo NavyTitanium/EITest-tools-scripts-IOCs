@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 13:00:02 UTC 
+# last updated on: 2018-03-22 13:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1780,7 +1780,6 @@ freshimpulse.tk
 fridayevening.tk
 friend-called.tk
 friendasyou.tk
-friendshipof.tk
 friendsis-natalie.tk
 from-different.tk
 from-facts.tk
@@ -2306,7 +2305,6 @@ nowengagement.tk
 nowfoodis.tk
 nowinever.tk
 nowitanywhere.tk
-nowits-very.tk
 ntelligent-person.tk
 nutritionists-deny.tk
 occasionallywhen.tk
