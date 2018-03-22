@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 16:00:02 UTC 
+# last updated on: 2018-03-22 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1319,7 +1319,6 @@ and-colour.tk
 and-communicate-supp.tk
 and-conscious.tk
 and-cramming.tk
-and-dangerous.tk
 and-down.tk
 and-drawing.tk
 and-feel.tk
@@ -2764,7 +2763,6 @@ thenyoucan.tk
 thepictures.tk
 thequeenused.tk
 there-arefew.tk
-there-aremanysupport.tk
 there-aretwo.tk
 there-is-no.tk
 there-is-nothing.tk
