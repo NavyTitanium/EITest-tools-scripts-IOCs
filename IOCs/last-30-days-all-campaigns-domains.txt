@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 22:00:02 UTC 
+# last updated on: 2018-03-22 22:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1875,7 +1875,6 @@ he-always.tk
 he-is-quite.tk
 he-or-shejust.tk
 he-suddenly.tk
-healthand.tk
 heart-beating.tk
 heart-thatone.bid
 hebecomes.tk
@@ -2706,7 +2705,6 @@ the-trade-name.tk
 the-truth.tk
 the-united-kingdom.tk
 the-universeconspires.bid
-the-useof.tk
 thebell.tk
 thebest-way.tk
 thebestproduct.bid
