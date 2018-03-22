@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 14:30:02 UTC 
+# last updated on: 2018-03-22 15:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3397,6 +3397,7 @@ now-first-time.tk
 now-goes-without.tk
 now-hancock.tk
 now-havemuch.tk
+now-hemurmured.tk
 now-hide-and-seek.tk
 now-hiseyes.tk
 now-mass-media.tk
@@ -3559,6 +3560,7 @@ only-about.tk
 onlyfourteen.tk
 onlyhad.tk
 onlyhides.tk
+onlyhis-wife.tk
 onlything.tk
 ontheverge.tk
 onyour-work.tk

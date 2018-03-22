@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 14:30:02 UTC 
+# last updated on: 2018-03-22 15:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1502,7 +1502,6 @@ betweenyou.tk
 bevarnished.tk
 bewrinkled.tk
 biting-the.tk
-bodyand.tk
 bornin-pain.tk
 both-to.tk
 boy-left.tk
@@ -2288,6 +2287,7 @@ now-face-and.tk
 now-first-time.tk
 now-goes-without.tk
 now-havemuch.tk
+now-hemurmured.tk
 now-hiseyes.tk
 now-mass-media.tk
 now-recreate.tk
@@ -2371,6 +2371,7 @@ onewould.tk
 onitsbrown.tk
 only-about.tk
 onlyhides.tk
+onlyhis-wife.tk
 ontheverge.tk
 onyour-work.tk
 opskin.bid
@@ -3038,7 +3039,6 @@ woodland-the.tk
 words-had.tk
 words452.bid
 world-is-full.tk
-world-wars.tk
 world-would.tk
 worldn.tk
 worth-having.tk
