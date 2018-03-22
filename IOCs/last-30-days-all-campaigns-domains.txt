@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 08:00:02 UTC 
+# last updated on: 2018-03-22 08:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1826,7 +1826,6 @@ go-in-for.tk
 golden-head.tk
 gonethere.tk
 good-advice.tk
-good-books.tk
 good-company.tk
 good-looks-support.tk
 good-running.tk
@@ -2932,7 +2931,6 @@ uponasmall.tk
 us-can.tk
 us-have.tk
 usafraid.tk
-usefulas.tk
 usoccupied.tk
 valois-byclovis.tk
 vera55helper.tk
