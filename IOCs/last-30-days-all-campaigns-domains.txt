@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 05:00:01 UTC 
+# last updated on: 2018-03-22 05:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1793,7 +1793,6 @@ from-thedeal.tk
 from-thediplomatic.tk
 from-thepillow.tk
 from-which.tk
-fruitsand.tk
 full-length.tk
 fullofinfinite.tk
 fullreality.tk
@@ -2367,7 +2366,6 @@ on-sundays.tk
 on-thedivan.tk
 on-theplatform.tk
 onatiny.tk
-once-or.tk
 onceaweek.tk
 oncewhen.tk
 one-is-dealing.tk
@@ -2800,7 +2798,6 @@ thespecial-helper.tk
 thespecial-supp.tk
 thestillness.tk
 thesuccessful.tk
-thetablenow.tk
 thetwocall.tk
 thetwomen.tk
 thetwosupp.tk
@@ -2942,7 +2939,6 @@ usafraid.tk
 usefulas.tk
 usoccupied.tk
 valois-byclovis.tk
-vegetables-calling.tk
 vera55helper.tk
 very-important-supp.tk
 very-important.tk
