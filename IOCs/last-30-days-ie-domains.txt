@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 01:30:02 UTC 
+# last updated on: 2018-03-22 02:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1848,6 +1848,7 @@ animalsare.tk
 aninteresting.tk
 aninternational.tk
 aninvestment.tk
+anoldand.tk
 anothers-could-fill.tk
 answer162018.bid
 answered-the-artist.tk
@@ -4525,6 +4526,7 @@ wecan-travel.tk
 wecease.tk
 wedine.tk
 wedonot.tk
+weeksof.tk
 wehad.tk
 wehadnt.tk
 wehave-all.tk
