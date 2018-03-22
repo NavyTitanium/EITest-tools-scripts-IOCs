@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 20:30:01 UTC 
+# last updated on: 2018-03-22 21:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2743,6 +2743,7 @@ himself-when.tk
 himself-with.tk
 his-characters.tk
 his-country.tk
+his-feet.tk
 his-fingers.tk
 his-goals.tk
 his-hand.tk
@@ -3601,6 +3602,7 @@ our-societysuper.tk
 our-three.tk
 our-world-support.tk
 oureverydaynow.tk
+ourphotographs.tk
 ourselves-deeper.tk
 ourselvesin.tk
 out-people.tk
