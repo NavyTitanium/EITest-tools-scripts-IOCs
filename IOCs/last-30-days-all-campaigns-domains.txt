@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 05:30:01 UTC 
+# last updated on: 2018-03-22 06:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1410,6 +1410,7 @@ apackof.tk
 apartmentits.tk
 aphrase.tk
 approachand.tk
+apricot-coloured.tk
 aquarterof.tk
 are-alot.tk
 are-always.tk
@@ -2138,6 +2139,7 @@ liketofind.tk
 likewithyourself.tk
 linger-there.tk
 lips-withits.tk
+listless-fingers.tk
 literature-you.tk
 literatureontaining.tk
 little-part.tk
@@ -2366,7 +2368,6 @@ on-sundays.tk
 on-thedivan.tk
 on-theplatform.tk
 onatiny.tk
-onceaweek.tk
 oncewhen.tk
 one-is-dealing.tk
 one-thing.tk
@@ -2919,7 +2920,6 @@ turned-half-way.tk
 turned-pale.tk
 turned-to.tk
 tv-setsas.tk
-twice-aweek.tk
 twofriends.tk
 twoglobe-shaped.tk
 twolegislative.tk
