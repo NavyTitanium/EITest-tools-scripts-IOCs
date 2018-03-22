@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 18:30:01 UTC 
+# last updated on: 2018-03-22 19:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1667,7 +1667,6 @@ dress-clothes.tk
 drink-something.tk
 during-which.tk
 each-semester.tk
-eachof-them.tk
 eachofus-supp.tk
 earlieron.tk
 easy-and.tk
@@ -1892,6 +1891,7 @@ hedoesnt-neglect.tk
 hedoing-there.tk
 hefeared.tk
 hefeltas.tk
+heglanced.tk
 hegone.tk
 hehad-never.tk
 hehad-two.tk
@@ -2228,7 +2228,6 @@ national-party.tk
 natureperfectly.tk
 naturequiver.tk
 near-torichness.tk
-need-to-adhere.tk
 needs-nutrients.tk
 negotiations-recommend.tk
 negotiationsare.tk
@@ -3064,6 +3063,7 @@ youletany.tk
 youmight.tk
 youmust-let.tk
 youngadonis.tk
+youquite.tk
 your-forehead.tk
 your-friend.tk
 your-head.tk
