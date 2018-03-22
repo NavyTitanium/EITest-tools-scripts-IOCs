@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 19:00:02 UTC 
+# last updated on: 2018-03-22 19:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1700,7 +1700,6 @@ everything-call.tk
 everything-for.tk
 examination-time.tk
 excitementand.tk
-excludes-the.tk
 expensiveso.tk
 explainit.tk
 expresseverything.tk
@@ -2775,7 +2774,6 @@ thesitter.tk
 thesitteris.tk
 thesort.tk
 thespecial-helper.tk
-thespecial-supp.tk
 thestillness.tk
 thesuccessful.tk
 thethief.tk
