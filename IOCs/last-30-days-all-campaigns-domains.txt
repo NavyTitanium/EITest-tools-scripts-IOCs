@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 03:30:01 UTC 
+# last updated on: 2018-03-22 04:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2107,7 +2107,6 @@ jikigcalls.tk
 jobs-because.tk
 joycame.tk
 judiciarypower.tk
-just-sometimes.tk
 just-toremind.tk
 just-touch.tk
 just-turn.tk
@@ -2584,6 +2583,7 @@ she-is-greatly.tk
 shealways.tk
 shoes-make.tk
 shopreduceri.ro
+short-by.tk
 should-liketo.tk
 should-not.tk
 sidesof.tk
@@ -2676,6 +2676,7 @@ suchabore.tk
 sufferterribly.tk
 sugar-salt.tk
 summer-camps.tk
+supaninteresting.tk
 suppatonce.tk
 supportyou-in.tk
 suppose-it.tk
