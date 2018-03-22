@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 19:30:01 UTC 
+# last updated on: 2018-03-22 20:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1341,6 +1341,7 @@ and-poured.tk
 and-quite.tk
 and-red-faced.tk
 and-ribbons.tk
+and-roseto.tk
 and-saucers.tk
 and-smiled.tk
 and-some.tk
@@ -2124,7 +2125,6 @@ likewithyourself.tk
 linger-there.tk
 lips-withits.tk
 listless-fingers.tk
-literature-you.tk
 literatureontaining.tk
 little-part.tk
 littlemoresupp.tk
@@ -2576,7 +2576,6 @@ sketch-from.tk
 slightlylower.tk
 smokethat.tk
 socharacteristic.tk
-sociable452.bid
 sociableperson.tk
 sociallife.tk
 societyfrom.tk
@@ -2953,6 +2952,7 @@ wecan-stop.tk
 wecan-travel.tk
 wedine.tk
 weeksof.tk
+well-by.tk
 wellas-computers.tk
 welledinto.tk
 went-sailing.tk
