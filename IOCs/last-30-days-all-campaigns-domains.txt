@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 09:00:01 UTC 
+# last updated on: 2018-03-22 09:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1810,7 +1810,6 @@ gaverise.tk
 general-policy.tk
 generalelections.tk
 georgianurn.tk
-german-writer.tk
 germanybetween.tk
 get-bored.tk
 gets-weekly.tk
@@ -2504,7 +2503,6 @@ rather-nice.tk
 rather-thin.tk
 rattle-of-cups.tk
 reaches.bid
-read-justonce.tk
 real-satisfaction.tk
 realityto.tk
 realized162018.bid
@@ -2784,7 +2782,6 @@ therewould.tk
 theright-time.tk
 theroom-now.tk
 theroomand.tk
-thesamecalling.tk
 thesamesupp.tk
 these-are-supp.tk
 thesefacts.tk
