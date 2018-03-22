@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 23:00:01 UTC 
+# last updated on: 2018-03-22 23:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1463,7 +1463,6 @@ beautiful-nature.tk
 beautiful-pictures.tk
 because-i.tk
 becausehe.tk
-becausethe.tk
 becauseto.tk
 becausewhile.tk
 been-laid.tk
@@ -2773,7 +2772,6 @@ thetyranny.tk
 thetyrannysupp.tk
 thewindow.tk
 theworld-new.tk
-they-are-exhausted.tk
 they-are-young.tk
 they-entered.tk
 theyfind.tk
