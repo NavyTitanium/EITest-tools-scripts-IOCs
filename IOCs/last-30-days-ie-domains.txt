@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 21:30:02 UTC 
+# last updated on: 2018-03-22 22:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -4573,6 +4573,7 @@ well-by.tk
 wellas-computers.tk
 wellas-society.tk
 welledinto.tk
+welleighteen.tk
 wellheis.tk
 wemight.tk
 weneedand.tk
@@ -4752,6 +4753,7 @@ your-thoughts.tk
 yoursoul-apart.tk
 youthetruth.tk
 youthin.tk
+youthought.tk
 youtomeethim.tk
 youturn-supp.tk
 youwill-be.tk
