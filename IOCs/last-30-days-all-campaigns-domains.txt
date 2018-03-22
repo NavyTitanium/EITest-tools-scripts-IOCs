@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 00:00:02 UTC 
+# last updated on: 2018-03-22 00:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1450,7 +1450,6 @@ auctionstarting.bid
 audibleto.tk
 awaybydeath.tk
 awaywith.tk
-aweek.tk
 balans.shahterworld.org
 basil-conscience.tk
 basil-hallward.tk
@@ -1571,7 +1570,6 @@ choresare.tk
 citizensof.tk
 claimed-todo.tk
 classesat-college.tk
-cleaning-my.tk
 clear-logical.tk
 cloud-shadows.tk
 coal-black-hair.tk
