@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 06:00:01 UTC 
+# last updated on: 2018-03-22 06:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2215,7 +2215,6 @@ mostof-them.tk
 mostof.tk
 mostoften.tk
 mother-snatched.tk
-motherasks.tk
 motionless-with.tk
 motionlessand.tk
 motive-inart.tk
@@ -2364,7 +2363,6 @@ ofyourselfin.tk
 old-gentleman.tk
 on-not-being.tk
 on-studying.tk
-on-sundays.tk
 on-thedivan.tk
 on-theplatform.tk
 onatiny.tk
