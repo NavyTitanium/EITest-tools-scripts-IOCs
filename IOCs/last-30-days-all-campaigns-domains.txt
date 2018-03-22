@@ -1,4 +1,4 @@
-# last updated on: 2018-03-22 17:30:01 UTC 
+# last updated on: 2018-03-22 18:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1410,7 +1410,6 @@ aphrase.tk
 approachand.tk
 apricot-coloured.tk
 aquarterof.tk
-are-alot.tk
 are-always.tk
 are-inappropriate.tk
 are-true.tk
@@ -1868,7 +1867,6 @@ have-alot.tk
 have-asked.tk
 have-it-basil.tk
 havealot.tk
-havediabetes.tk
 havedone.tk
 havemademe.tk
 havenot.tk
@@ -2221,6 +2219,7 @@ mymind-calling.tk
 mypropertycall.tk
 myself-to.tk
 myselfa.tk
+myselfiknow.tk
 mysteriousor.tk
 mytroubles.tk
 myworks-call.tk
@@ -2564,6 +2563,7 @@ shopreduceri.ro
 short-by.tk
 should-liketo.tk
 should-not.tk
+shrill-voice.tk
 sidesof.tk
 siegeto.tk
 signs-for.tk
@@ -2594,7 +2594,6 @@ some-years.tk
 somedaybe.tk
 somelittle.tk
 someonesessays.tk
-somesay.tk
 somestudents.tk
 something-finer.tk
 something-horrid.tk
