@@ -1,4 +1,4 @@
-# last updated on: 2018-03-23 06:00:02 UTC 
+# last updated on: 2018-03-23 06:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1340,7 +1340,6 @@ and-had.tk
 and-helpsus.tk
 and-horrible.tk
 and-in-front.tk
-and-jogging.tk
 and-learn.tk
 and-learning.tk
 and-less.tk
@@ -1649,7 +1648,6 @@ distance-away.tk
 do-all-thework.tk
 do-you-object.tk
 docome-in.tk
-doctors-say.tk
 doesnt-cost.tk
 doesnt-really.tk
 doesnt-require.tk
