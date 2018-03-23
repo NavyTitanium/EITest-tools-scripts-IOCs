@@ -1,4 +1,4 @@
-# last updated on: 2018-03-23 08:30:02 UTC 
+# last updated on: 2018-03-23 09:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -22,6 +22,8 @@
 00rutsystem.tk
 00wekjcalltoday.tk
 012hupickup.tk
+012jumsupport.tk
+012lodcalltoday.tk
 01enjsystem.tk
 01huevgsupport.tk
 021juqcalltoday.tk
