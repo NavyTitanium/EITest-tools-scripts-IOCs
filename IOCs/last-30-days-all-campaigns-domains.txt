@@ -1,4 +1,4 @@
-# last updated on: 2018-03-23 16:00:01 UTC 
+# last updated on: 2018-03-23 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1354,7 +1354,6 @@ and-northern.tk
 and-painting.tk
 and-perfect.tk
 and-poured.tk
-and-quite.tk
 and-red-faced.tk
 and-ribbons.tk
 and-roseto.tk
@@ -2527,7 +2526,6 @@ shall-nevercall.tk
 shall-not.tk
 shall-stay.tk
 she-is-greatly.tk
-shealways.tk
 shopreduceri.ro
 short-by.tk
 should-liketo.tk
