@@ -1,4 +1,4 @@
-# last updated on: 2018-03-23 02:00:01 UTC 
+# last updated on: 2018-03-23 02:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1510,7 +1510,6 @@ brainand.tk
 bravest-man.tk
 break-themonotony.tk
 breakfast-lunch.tk
-broadens-themind.tk
 broodover.tk
 brushon.tk
 but-canvas.tk
@@ -2303,7 +2302,6 @@ of-joythat.tk
 of-les-cent.tk
 of-manon.tk
 of-men.tk
-of-myfavourite.tk
 of-myself.tk
 of-some.tk
 of-style-new.tk
