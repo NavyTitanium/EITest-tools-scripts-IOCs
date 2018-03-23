@@ -1,4 +1,4 @@
-# last updated on: 2018-03-23 22:00:02 UTC 
+# last updated on: 2018-03-23 22:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1424,7 +1424,6 @@ are-inappropriate.tk
 are-true.tk
 areborrowed.tk
 areclassmates.tk
-aresomuch.tk
 arestirred.tk
 aresuch.tk
 arethetreasury.tk
@@ -1839,7 +1838,6 @@ handaway-and.tk
 happiness-cut.tk
 happiness-which.tk
 Happinessis-when.bid
-happy-and-never.tk
 hard-lines.tk
 hard-situations.tk
 hardworking452.bid
