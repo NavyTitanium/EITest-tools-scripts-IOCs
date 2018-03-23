@@ -1,4 +1,4 @@
-# last updated on: 2018-03-23 12:00:01 UTC 
+# last updated on: 2018-03-23 12:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1577,7 +1577,6 @@ cloud-shadows.tk
 coal-black-hair.tk
 coffeeup.tk
 collegeoruniversity.tk
-coloufuland.tk
 coloured-canvas.tk
 come-across.tk
 comeface.tk
@@ -2800,7 +2799,6 @@ todaydrawing.tk
 todaymax.bid
 todaymost.tk
 todevelop-call.tk
-todevelop-support.tk
 tofind-the.tk
 toget-home.tk
 togrowold.tk
