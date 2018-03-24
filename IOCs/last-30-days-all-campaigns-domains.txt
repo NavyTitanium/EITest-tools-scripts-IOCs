@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 09:00:01 UTC 
+# last updated on: 2018-03-24 09:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -258,7 +258,6 @@
 1st-summedup.tk
 1st-their-peril.tk
 1st-themain-calling.tk
-1st-theworld.tk
 1st-tomymind.tk
 1st-wemeet.tk
 1st-would-have.tk
@@ -2714,7 +2713,6 @@ they-entered.tk
 theyhad.tk
 theyled.tk
 theyneed.tk
-theyneednow.tk
 theyspend.tk
 theywatch.tk
 theywere.tk
