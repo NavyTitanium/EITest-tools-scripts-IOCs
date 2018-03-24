@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 15:00:02 UTC 
+# last updated on: 2018-03-24 15:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1735,7 +1735,6 @@ for-thethings.tk
 for-tho5e.tk
 foralong.tk
 foreign-and-commonwealth.tk
-foreign-languages-new.tk
 foreign452.bid
 foreignand.tk
 forgetall.tk
@@ -2852,7 +2851,6 @@ watched-him.tk
 we-aresent.tk
 we-enjoy.tk
 wecan-stop.tk
-wecan-travel.tk
 wedine.tk
 weeksof.tk
 well-by.tk
