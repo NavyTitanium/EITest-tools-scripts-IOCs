@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 02:00:01 UTC 
+# last updated on: 2018-03-24 02:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1647,7 +1647,6 @@ doing-when.tk
 dominant-party.tk
 done-all-that.tk
 done-of-him.tk
-dont-consider.tk
 dont-know.tk
 dorian-gray-new.tk
 dowith.tk
@@ -2723,7 +2722,6 @@ thewindow.tk
 theworld-new.tk
 they-are-young.tk
 they-entered.tk
-theyfind.tk
 theyhad.tk
 theyled.tk
 theyneed.tk
