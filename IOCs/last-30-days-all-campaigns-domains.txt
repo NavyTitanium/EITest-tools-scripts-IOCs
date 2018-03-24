@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 10:00:01 UTC 
+# last updated on: 2018-03-24 10:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2721,7 +2721,6 @@ thingis-not.tk
 things-differently.tk
 things-that.tk
 thingsas-sins.tk
-think-that-now.tk
 this-cafe.tk
 this-duty.tk
 this-particular.tk
@@ -2749,7 +2748,6 @@ tobe-approved.tk
 tobe-in-travail.tk
 tobehappy.tk
 tocallme.tk
-tochange.tk
 toconfuse.tk
 todaymax.bid
 todaymost.tk
