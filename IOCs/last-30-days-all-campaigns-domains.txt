@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 08:30:02 UTC 
+# last updated on: 2018-03-24 09:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -235,7 +235,6 @@
 1st-bestwork.tk
 1st-bynature.tk
 1st-coffeehouse.tk
-1st-dailyroutine.tk
 1st-detectivestories.tk
 1st-facewould.tk
 1st-for-teens.tk
@@ -1321,6 +1320,7 @@ always-looked.tk
 always-missed.tk
 always-what.tk
 amazement-through.tk
+amazing-waistcoat.tk
 amean-dog.tk
 amethystand.tk
 among-men.tk
@@ -1599,7 +1599,6 @@ crimemonths.tk
 criminal-matters.tk
 crisisin.tk
 cuisinesand.tk
-culturesin.tk
 cupinhand.tk
 curiositywhat.tk
 curious-dream.tk
@@ -1654,6 +1653,7 @@ during-which.tk
 each-semester.tk
 eachofus-supp.tk
 earlieron.tk
+eastwardsoon.tk
 easy-and.tk
 egadiwas.tk
 eigenschaft.bid
