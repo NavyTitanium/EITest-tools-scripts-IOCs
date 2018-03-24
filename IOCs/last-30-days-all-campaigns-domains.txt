@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 18:30:01 UTC 
+# last updated on: 2018-03-24 19:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -263,7 +263,6 @@
 1st-would-have.tk
 1st-young-man.tk
 1stabout-the.tk
-1stahotel.tk
 1stand-when.tk
 1stand-wizen.tk
 1stareproblems.tk
@@ -1287,6 +1286,7 @@ accessibleto-everybody.tk
 acquer-leaves.tk
 across-his.tk
 acrossthem.tk
+act-therewas.tk
 actorof.tk
 actuallycheck.tk
 admirethis.tk
@@ -1778,6 +1778,7 @@ gauzewings.tk
 gaverise.tk
 general-policy.tk
 generalelections.tk
+gentle-admonitions.tk
 georgianurn.tk
 gets-weekly.tk
 getuseful.tk
@@ -2057,7 +2058,6 @@ kolokcallcenter.tk
 lad-was.tk
 ladies-with.tk
 ladybrandon.tk
-landscapesfrom.tk
 language-are.tk
 languages452.bid
 lank-hair.tk
