@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 21:00:02 UTC 
+# last updated on: 2018-03-24 21:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2776,6 +2776,7 @@ her-character.tk
 her-for.tk
 her-future.tk
 her-happiness.tk
+her-own.tk
 her-vmammy.tk
 herabout.tk
 hereditarymember.tk
@@ -3115,6 +3116,7 @@ januaryi.tk
 japaneseplayer.tk
 japanesetable.tk
 jer3calltohelp.tk
+jew-stood.tk
 jhiuty4help.tk
 jieko5callfast.tk
 jier00system.tk

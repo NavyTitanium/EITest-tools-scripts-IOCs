@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 21:00:02 UTC 
+# last updated on: 2018-03-24 21:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -667,7 +667,6 @@
 4uiegiveacall.tk
 4uirnjcallup.tk
 4uyrjvgdhelp.tk
-4yearsold.tk
 4yebhdcallup.tk
 4yrvgdfggiveacall.tk
 4yuevgdcallup.tk
@@ -1876,6 +1875,7 @@ helpful452.bid
 her-character.tk
 her-future.tk
 her-happiness.tk
+her-own.tk
 her-vmammy.tk
 herabout.tk
 hereditarymember.tk
@@ -2035,6 +2035,7 @@ iwas-there.tk
 iwent-out.tk
 iwishi.tk
 japanesetable.tk
+jew-stood.tk
 jieko5callfast.tk
 jikigcalls.tk
 jobs-because.tk
@@ -2377,7 +2378,6 @@ plastic-form.tk
 playbegan.tk
 playthecomputer.tk
 pleasure-and.tk
-plenty-of.tk
 pmopiyasruuasgglr.bid
 political-parties.tk
 popular-task.tk
@@ -2747,7 +2747,6 @@ tome-it.tk
 tomelittle.tk
 tomostof.tk
 too-large.tk
-took-metoturkey.tk
 toovulgar.tk
 toquiver.tk
 toread.tk
