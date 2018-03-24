@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 19:30:02 UTC 
+# last updated on: 2018-03-24 20:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -4048,6 +4048,7 @@ statewith.tk
 statuetteby.tk
 stay-in-shape.tk
 stayedon.tk
+sterner-discipline.tk
 sticks-etc.tk
 still-have.tk
 still-laugh.tk
@@ -4664,6 +4665,7 @@ went-sailing.tk
 wepoor.tk
 weqwptareqwpteachto.bid
 were-even.tk
+wereboth.tk
 werebrought.tk
 weretosuccess.tk
 wesave.tk

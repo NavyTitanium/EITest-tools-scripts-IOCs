@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 19:30:02 UTC 
+# last updated on: 2018-03-24 20:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -250,7 +250,6 @@
 1st-membersof.tk
 1st-modern-life.tk
 1st-myear.tk
-1st-myparents-now.tk
 1st-negotiationsare.tk
 1st-said-thepainter.tk
 1st-shesaid.tk
@@ -1425,7 +1424,6 @@ artof-doing.tk
 as-bulimia.tk
 as-soonas.tk
 as-though.tk
-as-we-like.tk
 ashamedofhim.tk
 ashedacros.tk
 asif-hehad.tk
@@ -2530,7 +2528,6 @@ sought-to.tk
 soul-for-that.tk
 sparrowsin.tk
 specializing162018.bid
-spend-their.tk
 squaresabout.tk
 stained-trumpet.tk
 standother.tk
@@ -2538,6 +2535,7 @@ startedup.tk
 state-is-the.tk
 statewith.tk
 statuetteby.tk
+sterner-discipline.tk
 stillifelt.tk
 stood-there.tk
 stood-therenow.tk
@@ -2849,6 +2847,7 @@ welledinto.tk
 welleighteen.tk
 went-sailing.tk
 wepoor.tk
+wereboth.tk
 werebrought.tk
 weswam.tk
 what-thegods.tk
