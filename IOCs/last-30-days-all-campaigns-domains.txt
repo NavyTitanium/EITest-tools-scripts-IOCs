@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 11:00:01 UTC 
+# last updated on: 2018-03-24 11:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2537,7 +2537,6 @@ sometimesupp.tk
 sortof-lives.tk
 sotedious.tk
 sothelad.tk
-sotheygo.tk
 sought-to.tk
 soul-for-that.tk
 sparrowsin.tk
@@ -2762,7 +2761,6 @@ tolearnin.tk
 tolive-in.tk
 tome-an.tk
 tome-it.tk
-tomeet-supp.tk
 tomelittle.tk
 tomostof.tk
 too-large.tk
