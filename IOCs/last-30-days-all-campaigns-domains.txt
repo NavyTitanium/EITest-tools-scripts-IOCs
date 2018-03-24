@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 01:00:01 UTC 
+# last updated on: 2018-03-24 01:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1978,7 +1978,6 @@ in-helpingyou.bid
 in-his-low.tk
 in-long.tk
 in-myveins.tk
-in-myworks.tk
 in-practice.tk
 in-such.tk
 in-that-case-now.tk
@@ -2894,7 +2893,6 @@ werebrought.tk
 weswam.tk
 what-thegods.tk
 what-was.tk
-whatever-comes.tk
 whatever-they.tk
 whatihave.tk
 whatis-happiness.tk
