@@ -1,4 +1,4 @@
-# last updated on: 2018-03-24 19:00:01 UTC 
+# last updated on: 2018-03-24 19:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1331,7 +1331,6 @@ and-beside.tk
 and-books.tk
 and-caught.tk
 and-colour.tk
-and-communicate-supp.tk
 and-conscious.tk
 and-cramming.tk
 and-down.tk
@@ -2695,7 +2694,6 @@ thetwocall.tk
 thetwomen.tk
 thetyranny.tk
 thetyrannysupp.tk
-thewindow.tk
 theworld-new.tk
 they-are-young.tk
 they-entered.tk
@@ -2819,7 +2817,6 @@ walkedacross.tk
 walkedover.tk
 walkedup.tk
 walkingacross.tk
-want-and-stay.tk
 want-tobenefit.tk
 wantit-supp.tk
 wantyouto.tk
@@ -2844,7 +2841,6 @@ wasin-them.tk
 watched-him.tk
 we-aresent.tk
 we-enjoy.tk
-wecan-stop.tk
 wedine.tk
 weeksof.tk
 well-by.tk
