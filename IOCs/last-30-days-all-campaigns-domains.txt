@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 12:00:02 UTC 
+# last updated on: 2018-03-25 12:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1762,7 +1762,6 @@ gaudyplay-bills.tk
 gauzewings.tk
 gaverise.tk
 general-policy.tk
-generalelections.tk
 gentle-admonitions.tk
 georgianurn.tk
 getuseful.tk
@@ -2699,7 +2698,6 @@ to-schools-to.tk
 to-theserious.tk
 to-yield.tk
 toatruculent.tk
-tobe-approved.tk
 tobe-in-travail.tk
 tobehappy.tk
 tocallme.tk
