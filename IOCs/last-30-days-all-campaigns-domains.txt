@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 22:30:01 UTC 
+# last updated on: 2018-03-25 23:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1539,6 +1539,7 @@ chambersas.tk
 changed162018.bid
 character452.bid
 cheerful452.bid
+childish2-voice.tk
 chinadishes.tk
 citizensof.tk
 claimed-todo.tk
@@ -1600,7 +1601,6 @@ dimlyconscious.tk
 disciplined.tk
 discuss-politics.tk
 dissatisfiedwith.tk
-distance-away.tk
 do-all-thework.tk
 do-you-object.tk
 docome-in.tk
@@ -1743,7 +1743,6 @@ gardenafter.tk
 gas-jetsand.tk
 gaudyplay-bills.tk
 gauzewings.tk
-gaverise.tk
 general-policy.tk
 gentle-admonitions.tk
 georgians-but.tk
@@ -2429,6 +2428,7 @@ shall-nevercall.tk
 shall-not.tk
 shall-stay.tk
 she-is-greatly.tk
+she-went-4back.tk
 shopreduceri.ro
 short-by.tk
 should-liketo.tk
@@ -2460,7 +2460,6 @@ somany.tk
 somanysupp.tk
 somedaybe.tk
 someonesessays.tk
-somestudents.tk
 something-finer.tk
 something-horrid.tk
 something-seemed.tk
@@ -2756,7 +2755,6 @@ was-less-trouble.tk
 was-myhusband.tk
 was-mymotive.tk
 was-painting.tk
-was-sitting.tk
 was-speaking.tk
 was-theleast.tk
 was-tolate.tk
