@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 15:00:02 UTC 
+# last updated on: 2018-03-25 15:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -254,7 +254,6 @@
 1st-shesaid.tk
 1st-sovain.tk
 1st-summedup.tk
-1st-their-peril.tk
 1st-themain-calling.tk
 1st-tomymind.tk
 1st-wemeet.tk
@@ -1812,7 +1811,6 @@ hard-situations.tk
 hardworking452.bid
 has-not-been.tk
 has-nothing.tk
-has-nowritten.tk
 has-seared.tk
 has-shelikes.tk
 has-suggested.tk
@@ -2321,7 +2319,6 @@ part-with.tk
 parted-lips.tk
 partedin.tk
 particular452.bid
-partiesin.tk
 partof-them.tk
 passed-by.tk
 passed-from-now.tk
