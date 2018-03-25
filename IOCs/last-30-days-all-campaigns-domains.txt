@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 18:00:02 UTC 
+# last updated on: 2018-03-25 18:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1610,7 +1610,6 @@ do-you-object.tk
 docome-in.tk
 doesnt-really.tk
 doing-when.tk
-dominant-party.tk
 done-all-that.tk
 done-of-him.tk
 dont-know.tk
@@ -1923,7 +1922,6 @@ ifahand.tk
 ifeel-that.tk
 ifidid.tk
 ifyou-arenot.tk
-ifyourent.tk
 ihjycallcenter.tk
 illimet.tk
 immoral-from.tk
@@ -2276,7 +2274,6 @@ or-metaphysics.tk
 order-to-use.tk
 our-friendship.tk
 our-futurelife.tk
-our-modern-supp.tk
 our-passion.tk
 our-societysuper.tk
 our-three.tk
