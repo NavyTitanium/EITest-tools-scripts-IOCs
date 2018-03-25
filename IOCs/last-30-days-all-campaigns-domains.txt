@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 20:30:01 UTC 
+# last updated on: 2018-03-25 21:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1548,7 +1548,6 @@ clear-logical.tk
 cloud-shadows.tk
 coal-black-hair.tk
 coffeeup.tk
-collegeoruniversity.tk
 coloured-canvas.tk
 come-across.tk
 comeface.tk
@@ -1853,6 +1852,7 @@ her-happiness.tk
 her-own.tk
 her-vmammy.tk
 herabout.tk
+here-in-2north.tk
 hesawit.tk
 heseems.tk
 hesulks.tk
@@ -2236,7 +2236,6 @@ ofaplace.tk
 ofapsychological.tk
 ofatemptation.tk
 ofaterrible.tk
-ofextraordinary.tk
 offensivelanguage.tk
 offered-the-embassy.tk
 oficehad.tk
@@ -2329,6 +2328,7 @@ philanthropynow.tk
 piccadillyi.tk
 pictured-to.tk
 picturedto.tk
+picturefor-being.tk
 picturehas.tk
 pictures-that.tk
 piece-of-work.tk
@@ -2461,7 +2461,6 @@ solitude-and.tk
 solong-with.tk
 somany.tk
 somanysupp.tk
-some-years.tk
 somedaybe.tk
 somelittle.tk
 someonesessays.tk
