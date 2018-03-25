@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 19:30:01 UTC 
+# last updated on: 2018-03-25 20:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1326,7 +1326,6 @@ analyses-bu.tk
 anarrangement.tk
 and-become.tk
 and-beside.tk
-and-books.tk
 and-caught.tk
 and-colour.tk
 and-conscious.tk
@@ -1752,6 +1751,7 @@ gauzewings.tk
 gaverise.tk
 general-policy.tk
 gentle-admonitions.tk
+georgians-but.tk
 georgianurn.tk
 getuseful.tk
 ggryr2asruasgglr.bid
@@ -2005,6 +2005,7 @@ iwas-there.tk
 iwent-out.tk
 iwishi.tk
 japanesetable.tk
+jealousof-the.tk
 jew-stood.tk
 jieko5callfast.tk
 jikigcalls.tk
@@ -2340,7 +2341,6 @@ playthecomputer.tk
 pleasure-and.tk
 pmopiyasruuasgglr.bid
 popular-task.tk
-portraitof.tk
 positionas.tk
 povertygrief.tk
 precisepsychological.tk
@@ -2823,7 +2823,6 @@ wholearn.tk
 wholeworld-su.tk
 wholooks.tk
 whopassed.tk
-whosesudden.tk
 whostood.tk
 whowouldnow.tk
 wild-desire.tk
