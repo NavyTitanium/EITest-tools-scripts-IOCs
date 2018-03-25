@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 08:00:02 UTC 
+# last updated on: 2018-03-25 08:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1582,7 +1582,6 @@ create-a.tk
 creaturewith.tk
 creepinginto.tk
 crimemonths.tk
-criminal-matters.tk
 crisisin.tk
 cupinhand.tk
 curiositywhat.tk
@@ -2753,7 +2752,6 @@ toyieldtoit.tk
 tradesunionmark2018.bid
 tranquilatmosphere.tk
 treacherous-crime.tk
-treasuryis.tk
 treat-people.tk
 treated-bythem.tk
 tries-to.tk
