@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 05:30:01 UTC 
+# last updated on: 2018-03-25 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1303,7 +1303,6 @@ aimof-life.tk
 airas.tk
 all-legislation.tk
 all-physical.tk
-all-taxes.tk
 all-theselby.tk
 all-thesurprise.tk
 allinfluence.tk
@@ -1336,6 +1335,7 @@ and-down.tk
 and-framed.tk
 and-frowning.tk
 and-genuine.tk
+and-grow-sad.tk
 and-had.tk
 and-helpsus.tk
 and-horrible.tk
@@ -2486,6 +2486,7 @@ sincerity-of.tk
 sinsif-there.tk
 sitteriwon.tk
 sketch-from.tk
+slanted-downin.tk
 slightlylower.tk
 smokethat.tk
 socharacteristic.tk
@@ -2626,7 +2627,6 @@ theformal.tk
 thefull-reality.tk
 thefuture-of.tk
 thegoodenglish.tk
-thegovernmen.tk
 thegravel.tk
 thegreen-now.tk
 their-bedrooms.tk

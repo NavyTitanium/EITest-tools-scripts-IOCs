@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 05:30:01 UTC 
+# last updated on: 2018-03-25 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1785,6 +1785,7 @@ and-framed.tk
 and-frowning.tk
 and-genuine.tk
 and-grey.tk
+and-grow-sad.tk
 and-had.tk
 and-he-always.tk
 and-helpsus.tk
@@ -4018,6 +4019,7 @@ sisterand.tk
 sitteriwon.tk
 six-degrees.tk
 sketch-from.tk
+slanted-downin.tk
 slightlylower.tk
 small-mouth.tk
 small-newspaper.tk
