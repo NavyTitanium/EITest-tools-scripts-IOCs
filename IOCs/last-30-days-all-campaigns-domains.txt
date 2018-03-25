@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 07:30:02 UTC 
+# last updated on: 2018-03-25 08:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1562,7 +1562,6 @@ comesonly.tk
 comingintothe.tk
 common-goals.tk
 commonest-thing.tk
-commonwealthoffice.tk
 communicating-with.tk
 companies-new.tk
 competitivenegotiation.tk
@@ -1778,6 +1777,7 @@ give-everything.tk
 givenus.tk
 gives-something.tk
 gladyoudidnt.tk
+gleaming-nbrightness.tk
 globe0of.tk
 go-in-for.tk
 golden-head.tk
@@ -1997,7 +1997,6 @@ is-much.tk
 is-not-merely.tk
 is-notcodified.tk
 is-notidentical.tk
-is-responsiblefor.tk
 is-simple.tk
 isafatality.tk
 isafraidof.tk
@@ -2522,6 +2521,7 @@ startedup.tk
 statuetteby.tk
 sterner-discipline.tk
 stillifelt.tk
+stir-their-dust.tk
 stood-there.tk
 stood-therenow.tk
 stooda.tk
