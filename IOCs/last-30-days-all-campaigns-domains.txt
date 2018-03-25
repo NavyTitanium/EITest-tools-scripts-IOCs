@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 03:00:02 UTC 
+# last updated on: 2018-03-25 03:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1848,7 +1848,6 @@ havetried.tk
 hbrightest.tk
 he-always.tk
 he-is-quite.tk
-he-or-shejust.tk
 he-suddenly.tk
 heart-beating.tk
 heart-thatone.bid
@@ -2435,7 +2434,6 @@ role-of-human.tk
 romance-abeautiful.tk
 roundand.tk
 roundlyabused.tk
-royal-family.tk
 runaway.tk
 s0mething-5eemed.tk
 said-sadly.tk
