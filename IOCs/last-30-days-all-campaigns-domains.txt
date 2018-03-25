@@ -1,4 +1,4 @@
-# last updated on: 2018-03-25 16:00:01 UTC 
+# last updated on: 2018-03-25 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1477,7 +1477,6 @@ beproved.tk
 beschaffenheit.bid
 besidesi.tk
 best-master-now.tk
-best-saying-that.tk
 best-theschool.tk
 best-things.tk
 bestdevice.bid
@@ -1564,7 +1563,6 @@ communicating-with.tk
 companies-new.tk
 competitivenegotiation.tk
 complex-because.tk
-conservativeand.tk
 consists-jus.tk
 constitutional-conventions.tk
 continuedlord.tk
@@ -1983,7 +1981,6 @@ is-herefor.tk
 is-his-name.tk
 is-much.tk
 is-not-merely.tk
-is-notcodified.tk
 is-notidentical.tk
 is-simple.tk
 isafatality.tk
