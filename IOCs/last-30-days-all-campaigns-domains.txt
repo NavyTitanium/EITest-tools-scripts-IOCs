@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 08:30:02 UTC 
+# last updated on: 2018-03-26 09:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1607,7 +1607,6 @@ drink-something.tk
 drovemeaway.tk
 during-which.tk
 dustygreenroom.tk
-each-semester.tk
 eachofus-supp.tk
 earlieron.tk
 eastwardsoon.tk
@@ -1656,6 +1655,7 @@ fact-that-now.tk
 fact-that.tk
 factor-must.tk
 factsand-people.tk
+faded-rose.tk
 fallback-position.tk
 fanciful-whorls.tk
 fantastic-plans.tk
@@ -2432,7 +2432,6 @@ sociology-new.tk
 sohorrid.tk
 solitude-and.tk
 solong-with.tk
-somany.tk
 somedaybe.tk
 something-finer.tk
 something-horrid.tk
@@ -2538,7 +2537,6 @@ the-aimof.tk
 the-experimental.tk
 the-ideabe.tk
 the-occasion.tk
-the-people.tk
 the-studio-and.tk
 the-trade-name.tk
 the-truth.tk
@@ -2692,6 +2690,7 @@ understand-me-now.tk
 understand-me.tk
 understandingof.tk
 unthoughtof.tk
+up-anddown.tk
 up-what.tk
 upfrom.tk
 uponasmall.tk
