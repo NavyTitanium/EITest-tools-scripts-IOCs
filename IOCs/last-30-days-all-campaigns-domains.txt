@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 12:30:02 UTC 
+# last updated on: 2018-03-26 13:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -242,7 +242,6 @@
 1st-help-me-and.tk
 1st-light-hair.tk
 1st-long-time.tk
-1st-lookedat.tk
 1st-mad-passion.tk
 1st-manypeople.tk
 1st-modern-life.tk
@@ -2087,7 +2086,6 @@ mutilationof.tk
 my-lord-henry.tk
 my-relations.tk
 mybest-supp.tk
-mydearsupp.tk
 mygodharry.tk
 myportraitin.tk
 mypropertycall.tk
@@ -2281,7 +2279,6 @@ peoplewhom.tk
 perfectlyhideous.tk
 period-he.tk
 periodf.tk
-perseverantif.tk
 persian-rugs.tk
 persons-better.tk
 persons-with.tk
