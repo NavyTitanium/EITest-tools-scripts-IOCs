@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 06:00:01 UTC 
+# last updated on: 2018-03-26 06:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2120,7 +2120,6 @@ never-tell.tk
 new-1green.tk
 new-both-parties.tk
 new-businessenglish.tk
-new-dreadful.tk
 new-first-time.tk
 new-furthermore.tk
 new-godown.tk
@@ -2222,7 +2221,6 @@ ofyourselfin.tk
 old-gentleman.tk
 on-calling-me.tk
 on-not-being.tk
-on-studying.tk
 on-thedivan.tk
 on-theplatform.tk
 onatiny.tk
@@ -2662,7 +2660,6 @@ tome-an.tk
 tome-it.tk
 tomelittle.tk
 tomostof.tk
-toovulgar.tk
 toquiver.tk
 toread.tk
 toreading.tk
