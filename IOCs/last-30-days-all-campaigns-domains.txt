@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 02:30:02 UTC 
+# last updated on: 2018-03-26 03:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -274,7 +274,6 @@
 1stinorder.tk
 1stof-theportrait.tk
 1stof-view.tk
-1sttheteacher.tk
 1tyvpickup.tk
 1tyyrtcall.tk
 1uiejhcall.tk
@@ -1367,7 +1366,6 @@ andacquiring.tk
 andamong.tk
 andanorexia.tk
 andaterror.tk
-andclosing.tk
 andelderly.tk
 andeyes.tk
 andiknow.tk
@@ -1569,7 +1567,6 @@ crimemonths.tk
 crisisin.tk
 cupinhand.tk
 curiositywhat.tk
-curious-dream.tk
 curious-way.tk
 curledup.tk
 curtained-window.tk
@@ -2077,6 +2074,7 @@ merelyvisible.tk
 mesimply.tk
 mesomeday.tk
 methan.tk
+method-was.tk
 metostop.tk
 metryno.tk
 mewandironing.tk
@@ -2424,6 +2422,7 @@ short-by.tk
 should-liketo.tk
 should-not.tk
 shrill-voice.tk
+sibyl-that.tk
 sidesof.tk
 siegeto.tk
 signs-for.tk
