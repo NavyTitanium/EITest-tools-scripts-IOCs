@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 17:00:02 UTC 
+# last updated on: 2018-03-26 17:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3147,6 +3147,7 @@ joycame.tk
 judiciarypower.tk
 july201969.tk
 june-andi.tk
+just-looks-to.tk
 just-sometimes.tk
 just-toremind.tk
 just-touch.tk
@@ -3960,6 +3961,7 @@ saw-dorian.tk
 sayingat-the.tk
 saynothing.tk
 says-that.tk
+says-things.tk
 saythat-now.tk
 saythat.tk
 scenesof.tk
