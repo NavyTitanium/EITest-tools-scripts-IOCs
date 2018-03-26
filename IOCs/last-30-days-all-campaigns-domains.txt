@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 00:00:02 UTC 
+# last updated on: 2018-03-26 00:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1450,7 +1450,6 @@ be-used.tk
 beautiful-nature.tk
 beautybeing.tk
 because-i.tk
-becausehe.tk
 becauseto.tk
 becausewhile.tk
 been-laid.tk
@@ -2589,7 +2588,6 @@ their-bedrooms.tk
 their-children.tk
 their-names.tk
 theirideas.tk
-thelids.tk
 thelife-of.tk
 them-because.tk
 them-for-being.tk
