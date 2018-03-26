@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 05:30:01 UTC 
+# last updated on: 2018-03-26 06:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -248,6 +248,7 @@
 1st-modern-life.tk
 1st-myear.tk
 1st-negotiationsare.tk
+1st-princecharming.tk
 1st-said-thepainter.tk
 1st-shesaid.tk
 1st-sovain.tk
@@ -1324,7 +1325,6 @@ and-beside.tk
 and-caught.tk
 and-colour.tk
 and-conscious.tk
-and-cramming.tk
 and-down.tk
 and-framed.tk
 and-frowning.tk
@@ -1389,6 +1389,7 @@ anunpardonable.tk
 anybody-even.tk
 anygood.bid
 anyrate.tk
+anyscientific.tk
 anythingyounow.tk
 apackof.tk
 aphrase.tk
@@ -1552,6 +1553,7 @@ consists-jus.tk
 continuedlord.tk
 could-change.tk
 could-hear.tk
+couldarrive.tk
 course-ihave.tk
 coveredall.tk
 cracked-piano.tk
@@ -2660,7 +2662,6 @@ tome-an.tk
 tome-it.tk
 tomelittle.tk
 tomostof.tk
-too-large.tk
 toovulgar.tk
 toquiver.tk
 toread.tk
@@ -2770,7 +2771,6 @@ whenifind.tk
 whenonehas.tk
 whenour.tk
 wherei-am-going.tk
-which-was.tk
 whichisthe.tk
 whichone.tk
 whilewestood.tk
