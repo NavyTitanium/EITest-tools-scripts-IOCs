@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 05:00:02 UTC 
+# last updated on: 2018-03-26 05:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1273,7 +1273,6 @@ abouton.tk
 above-all.tk
 absolutelynothing.tk
 absurd-little.tk
-academy-is.tk
 accessibleto-everybody.tk
 acquer-leaves.tk
 acrossthem.tk
@@ -2440,7 +2439,6 @@ solong-with.tk
 somany.tk
 somanysupp.tk
 somedaybe.tk
-someonesessays.tk
 something-finer.tk
 something-horrid.tk
 something-seemed.tk
@@ -2583,7 +2581,6 @@ thenit-began.tk
 thenits-very.tk
 thenthey-were2-off.tk
 thenyoucan.tk
-thepictures.tk
 thequeenused.tk
 there-arefew.tk
 there-aretwo.tk
