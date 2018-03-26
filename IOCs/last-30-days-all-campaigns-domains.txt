@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 07:30:01 UTC 
+# last updated on: 2018-03-26 08:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1686,7 +1686,6 @@ for-margaretof.tk
 for-myself-now.tk
 for-nearlyten.tk
 for-people-now.tk
-for-students.tk
 for-thefirst.tk
 for-thethings.tk
 for-tho5e.tk
@@ -1796,7 +1795,6 @@ have-it-basil.tk
 havealot.tk
 havedone.tk
 havemademe.tk
-havenot.tk
 havenotsupp.tk
 havestudieds.tk
 havesuch.tk
@@ -1843,6 +1841,7 @@ hewas-fully.tk
 hewas-made.tk
 hewas-sup.tk
 hewas-too.tk
+hewas-walking.tk
 hewatched.tk
 hewrotehis.tk
 hidden-from.tk
@@ -2425,6 +2424,7 @@ sincerity-of.tk
 sinsif-there.tk
 sitteriwon.tk
 sketch-from.tk
+sky-above.tk
 slanted-downin.tk
 slightlylower.tk
 smokethat.tk
@@ -2586,7 +2586,6 @@ there-is-no.tk
 there-is-nothing.tk
 therecipe.tk
 thereforedespite.tk
-therehave.tk
 therewould.tk
 theright-time.tk
 theroom-now.tk
