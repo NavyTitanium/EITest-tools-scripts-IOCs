@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 06:30:02 UTC 
+# last updated on: 2018-03-26 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1319,6 +1319,7 @@ amethystand.tk
 among-men.tk
 amongstus.tk
 analyses-bu.tk
+analysisof-the.tk
 anarrangement.tk
 and-become.tk
 and-beside.tk
@@ -1470,6 +1471,7 @@ best-theschool.tk
 best-things.tk
 bestdevice.bid
 bestsolitude-and.tk
+bestupon-myword.tk
 better-let-me.tk
 betweenyou.tk
 bevarnished.tk
@@ -1571,7 +1573,6 @@ curzon-street.tk
 dare-say.tk
 dashof.tk
 day-of-june.tk
-daysandnights.tk
 dear-fellow.tk
 deepenedinto.tk
 definite162018.bid
@@ -2437,7 +2438,6 @@ sohorrid.tk
 solitude-and.tk
 solong-with.tk
 somany.tk
-somanysupp.tk
 somedaybe.tk
 something-finer.tk
 something-horrid.tk
@@ -2762,7 +2762,6 @@ when-thought.tk
 when-we-are.tk
 when-we-calling.tk
 when-wesupp.tk
-wheneverihave.tk
 whenhis.tk
 whenifind.tk
 whenonehas.tk
