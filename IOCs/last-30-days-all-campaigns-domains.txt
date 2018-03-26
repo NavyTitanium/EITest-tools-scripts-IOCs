@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 09:00:02 UTC 
+# last updated on: 2018-03-26 09:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1422,7 +1422,6 @@ asyoutold.tk
 at-dinner.tk
 at-himas.tk
 at-least.tk
-at-the-end.tk
 at-thesudden.tk
 atanyrate.tk
 atevery-one.tk
@@ -2721,7 +2720,6 @@ was-painting.tk
 was-speaking.tk
 was-theleast.tk
 was-tolate.tk
-was-worse.tk
 wasaheroto.tk
 wasalways.tk
 wasamazed.tk
