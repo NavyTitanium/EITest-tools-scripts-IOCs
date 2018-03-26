@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 01:00:02 UTC 
+# last updated on: 2018-03-26 01:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1499,7 +1499,6 @@ butidontknow.tk
 butifshe.tk
 butin.tk
 butwhy-not.tk
-by-apoor.tk
 by-excluding.tk
 byayoung.tk
 bydeath-supp.tk
@@ -2466,7 +2465,6 @@ sortof-lives.tk
 sortof-way.tk
 sotedious.tk
 sothelad.tk
-sought-to.tk
 soul-for-that.tk
 sparrowsin.tk
 specializing162018.bid
