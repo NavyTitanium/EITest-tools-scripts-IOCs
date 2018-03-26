@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 04:30:01 UTC 
+# last updated on: 2018-03-26 05:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -232,14 +232,12 @@
 1riucall.tk
 1rucallcenter.tk
 1ssascall.tk
-1st-bestwork.tk
 1st-bynature.tk
 1st-coffeehouse.tk
 1st-detectivestories.tk
 1st-facewould.tk
 1st-for-teens.tk
 1st-friends-we.tk
-1st-grosvenor.tk
 1st-hehad-been.tk
 1st-help-me-and.tk
 1st-light-hair.tk
@@ -1556,7 +1554,6 @@ continuedlord.tk
 could-change.tk
 could-hear.tk
 course-ihave.tk
-courseworks.tk
 coveredall.tk
 cracked-piano.tk
 create-a.tk
@@ -2376,6 +2373,7 @@ roundand.tk
 roundlyabused.tk
 runaway.tk
 s0mething-5eemed.tk
+said-quite.tk
 said-sadly.tk
 sat-besideme.tk
 satinwood-table.tk
@@ -2777,6 +2775,7 @@ whenour.tk
 wherei-am-going.tk
 which-was.tk
 whichisthe.tk
+whichone.tk
 whilewestood.tk
 whisper-which.tk
 whitetie.tk
