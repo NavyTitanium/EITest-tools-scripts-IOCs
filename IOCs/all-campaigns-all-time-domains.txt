@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 10:30:02 UTC 
+# last updated on: 2018-03-26 11:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2777,6 +2777,7 @@ hebrew-who.tk
 heconsidered.tk
 hecried-new.tk
 hecried.tk
+hectic-spots.tk
 hedoesnt-neglect.tk
 hedoing-there.tk
 hefeared.tk
@@ -4700,6 +4701,7 @@ vostok1.tk
 vryheid.top
 wait-for-his.tk
 waiteranswer.bid
+waiting-for-her.tk
 waketheir.tk
 walkedacross.tk
 walkedover.tk
