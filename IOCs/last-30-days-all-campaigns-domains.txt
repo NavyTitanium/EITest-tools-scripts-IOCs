@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 11:30:01 UTC 
+# last updated on: 2018-03-26 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1655,7 +1655,6 @@ factor-must.tk
 factsand-people.tk
 faded-rose.tk
 fallback-position.tk
-fanciful-whorls.tk
 fantastic-plans.tk
 fascinating-things.tk
 feature-of.tk
@@ -2465,7 +2464,6 @@ stubborn452.bid
 studentachieve.tk
 studentlifesupp.tk
 studentsare.tk
-studies-he.tk
 studiotowards.tk
 study-of-the.tk
 studying-hard.tk
