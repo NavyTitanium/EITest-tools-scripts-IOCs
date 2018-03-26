@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 07:00:02 UTC 
+# last updated on: 2018-03-26 07:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1744,7 +1744,6 @@ gleaming-nbrightness.tk
 globe0of.tk
 go-in-for.tk
 golden-head.tk
-gonethere.tk
 good-advice.tk
 good-company.tk
 good-looks-support.tk
@@ -2307,7 +2306,6 @@ pictured-to.tk
 picturedto.tk
 picturefor-being.tk
 picturehas.tk
-pictures-that.tk
 piece-of-work.tk
 plastic-form.tk
 playbegan.tk
@@ -2611,7 +2609,6 @@ they-are-young.tk
 they-entered.tk
 theyhad.tk
 theyled.tk
-theyspend.tk
 theywatch.tk
 theywere.tk
 thingis-not.tk
