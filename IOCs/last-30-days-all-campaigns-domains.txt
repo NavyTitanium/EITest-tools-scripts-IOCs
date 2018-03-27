@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 10:30:02 UTC 
+# last updated on: 2018-03-27 11:00:02 UTC 
 0056hurcalltoday.tk
 00axzscalltoday.tk
 00givccalltoday.tk
@@ -372,7 +372,6 @@
 2opkocallcenter.tk
 2oprgtfcallfast.tk
 2pokocallfast.tk
-2ponjcallfast.tk
 2porjjiocalls.tk
 2ruigetonthehorn.tk
 2sdicalls.tk
@@ -737,7 +736,6 @@
 5koferx55calling.tk
 5kor55calling.tk
 5kor5callfast.tk
-5korgiveajingl.tk
 5korgytgiveajingl.tk
 5kotuicalling.tk
 5kotyhelper.tk
@@ -1629,6 +1627,7 @@ forgetall.tk
 forgive-you.tk
 forgotten-them.tk
 fori-used.tk
+foritacertain.tk
 formin-days.tk
 formless-things.tk
 forms-should.tk
