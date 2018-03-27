@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 00:00:02 UTC 
+# last updated on: 2018-03-27 00:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -97,7 +97,6 @@
 0mivcalltoday.tk
 0nixozcalltoday.tk
 0njfbcalltoday.tk
-0opriubuzz.tk
 0potjirsupport.tk
 0pouibuzz.tk
 0pskins.bid
@@ -742,7 +741,6 @@
 5huwcshelper.tk
 5ioebhyhelper.tk
 5ioenjdghelper.tk
-5iotcalling.tk
 5jibyepcalling.tk
 5jiemhelper.tk
 5jievhelper.tk
@@ -1538,6 +1536,7 @@ contained-india.tk
 continuedlord.tk
 could-change.tk
 could-hear.tk
+could-refine.tk
 couldarrive.tk
 county-felt.tk
 course-ihave.tk
@@ -2248,7 +2247,6 @@ peoplewhom.tk
 perfectlyhideous.tk
 perhaps-thecool.tk
 period-he.tk
-periodf.tk
 persian-rugs.tk
 persons-better.tk
 persons-with.tk
