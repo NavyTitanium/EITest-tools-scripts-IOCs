@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 01:00:02 UTC 
+# last updated on: 2018-03-27 01:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -380,7 +380,6 @@
 2opkocallcenter.tk
 2oprgtfcallfast.tk
 2oprnlogetonthehorn.tk
-2plogetonthehorn.tk
 2pohucallfast.tk
 2pokocallfast.tk
 2ponjcallfast.tk
@@ -975,7 +974,6 @@
 7ijutelephone.tk
 7intelephone.tk
 7iorbhfring.tk
-7iotmcallnow.tk
 7iuenjringring.tk
 7iuteleiphone.tk
 7iutelepone.tk
@@ -1533,6 +1531,7 @@ consists-jus.tk
 contained-india.tk
 continuedlord.tk
 could-change.tk
+could-degrade.tk
 could-hear.tk
 could-refine.tk
 couldarrive.tk
@@ -1768,7 +1767,6 @@ havestudieds.tk
 havesuch.tk
 havetotalk.tk
 havetried.tk
-hbrightest.tk
 he-always.tk
 he-is-quite.tk
 hearour-laughter.tk
