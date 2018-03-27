@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 15:00:02 UTC 
+# last updated on: 2018-03-27 15:30:01 UTC 
 0056hurcalltoday.tk
 00axzscalltoday.tk
 00givccalltoday.tk
@@ -447,7 +447,6 @@
 3hufercallus.tk
 3huffcalltohelp.tk
 3hurbhcallus.tk
-3hutjicallus.tk
 3huvcalltohelp.tk
 3huvdcalltohelp.tk
 3huvgfcallus.tk
@@ -1176,7 +1175,6 @@
 9njdlcalltodaz.tk
 9njwzcalltodaz.tk
 9oiekocontact.tk
-9oirjicontact.tk
 9ornjcalltodaz.tk
 9pokicontact.tk
 9ponjcontact.tk
@@ -2627,6 +2625,7 @@ was-gathering.tk
 was-less-trouble.tk
 was-myhusband.tk
 was-mymotive.tk
+was-nomotive.tk
 was-painting.tk
 was-premature-now.tk
 was-speaking.tk
