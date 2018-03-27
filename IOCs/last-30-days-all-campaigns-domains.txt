@@ -1,5 +1,4 @@
-# last updated on: 2018-03-27 04:30:01 UTC 
-000losupport.tk
+# last updated on: 2018-03-27 05:00:01 UTC 
 0056hurcalltoday.tk
 00axzscalltoday.tk
 00givccalltoday.tk
@@ -96,7 +95,6 @@
 0lpkosystem.tk
 0mivcalltoday.tk
 0nixozcalltoday.tk
-0njfbcalltoday.tk
 0potjirsupport.tk
 0pouibuzz.tk
 0pskins.bid
@@ -678,7 +676,6 @@
 56rbhdirhelper.tk
 56rbhfiucalling.tk
 56robcalling.tk
-56ryutfhelper.tk
 56tyevgjhelper.tk
 56ubugcalling.tk
 56wbhaihelper.tk
@@ -2242,6 +2239,7 @@ picturedto.tk
 picturefor-being.tk
 picturehas.tk
 piece-of-work.tk
+plainand-tame.tk
 plastic-form.tk
 playbegan.tk
 playthecomputer.tk
@@ -2652,6 +2650,7 @@ was-tolate.tk
 wasaheroto.tk
 wasalways.tk
 wasamazed.tk
+wasamystery.tk
 wasarustle.tk
 wasatory.tk
 wasin-them.tk
