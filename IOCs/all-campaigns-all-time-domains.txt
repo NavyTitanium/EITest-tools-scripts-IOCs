@@ -1,4 +1,4 @@
-# last updated on: 2018-03-26 23:30:01 UTC 
+# last updated on: 2018-03-27 00:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3924,6 +3924,7 @@ quartersof.tk
 queenelizabeth.tk
 queenof-crime.tk
 quickteamforyou.bid
+quieting-effect.tk
 quite-easy.tk
 quitesympathize.tk
 quitetough.tk
@@ -4740,6 +4741,7 @@ was-destined.tk
 was-dimly.tk
 was-drawnup.tk
 was-five.tk
+was-gathering.tk
 was-less-trouble.tk
 was-myhusband.tk
 was-mymotive.tk
