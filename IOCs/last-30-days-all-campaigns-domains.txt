@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 18:30:01 UTC 
+# last updated on: 2018-03-27 19:00:02 UTC 
 0056hurcalltoday.tk
 00axzscalltoday.tk
 00givccalltoday.tk
@@ -517,7 +517,6 @@
 44uicfshelp.tk
 458giveacall.tk
 458hueytrhelp.tk
-45giveacall.tk
 45gyqvcazzhelp.tk
 45hubgetontheline.tk
 45hucyaqhelp.tk
@@ -607,7 +606,6 @@
 4nityhhelp.tk
 4njfcallup.tk
 4oirnjcallup.tk
-4okruicallup.tk
 4okruithelp.tk
 4opgetbackto.tk
 4ophutcallup.tk
@@ -723,7 +721,6 @@
 5kor55calling.tk
 5kor5callfast.tk
 5korgytgiveajingl.tk
-5kotuicalling.tk
 5kotyhelper.tk
 5lorahelper.tk
 5njdcalling.tk
@@ -1481,6 +1478,7 @@ cupinhand.tk
 curiositywhat.tk
 curious-way.tk
 curtained-window.tk
+curves-to-keep.tk
 curzon-street.tk
 dare-say.tk
 dashof.tk
@@ -2687,6 +2685,7 @@ wholooks.tk
 whopassed.tk
 whostood.tk
 whowouldnow.tk
+wild-barbarians.tk
 wild-desire.tk
 wilkes-would-heaven.tk
 will-destroy.tk
