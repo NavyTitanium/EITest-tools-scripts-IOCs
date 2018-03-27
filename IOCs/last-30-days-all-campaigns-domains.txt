@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 02:00:02 UTC 
+# last updated on: 2018-03-27 02:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -641,7 +641,6 @@
 4okruithelp.tk
 4opgetbackto.tk
 4ophutcallup.tk
-4oprkgiveacall.tk
 4pobokhelp.tk
 4pohurcallup.tk
 4polcallup.tk
@@ -762,7 +761,6 @@
 5kor5callfast.tk
 5korgiveajingl.tk
 5korgytgiveajingl.tk
-5kornjjhelper.tk
 5kotuicalling.tk
 5kotyhelper.tk
 5lorahelper.tk
@@ -1247,7 +1245,6 @@
 9uirsupp.tk
 9ujuicontact.tk
 9vgwcalltodaz.tk
-9yuecalltodaz.tk
 9yuevgcontact.tk
 9zatyecalltodaz.tk
 9zawcalltodaz.tk
@@ -1837,6 +1834,7 @@ hissinginto.tk
 hopesand-dreams.tk
 horriblyfreckled.tk
 horridof-me.tk
+house-of-sin.tk
 housework-was.tk
 how-charming.tk
 how-clear.tk
