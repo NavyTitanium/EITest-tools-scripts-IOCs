@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 11:30:01 UTC 
+# last updated on: 2018-03-27 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1897,6 +1897,7 @@ anoldand.tk
 anothers-could-fill.tk
 answer162018.bid
 answered-the-artist.tk
+answered-yasm.tk
 answereda.tk
 anunpardonable.tk
 anybody-even.tk
@@ -3618,6 +3619,7 @@ of-a-century.tk
 of-all-pleasures.tk
 of-allpleasures.tk
 of-candour.tk
+of-characte.tk
 of-chirruping.tk
 of-coursedorian.tk
 of-different.tk
