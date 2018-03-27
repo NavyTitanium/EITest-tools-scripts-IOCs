@@ -1,4 +1,4 @@
-# last updated on: 2018-03-27 11:00:02 UTC 
+# last updated on: 2018-03-27 11:30:01 UTC 
 0056hurcalltoday.tk
 00axzscalltoday.tk
 00givccalltoday.tk
@@ -179,7 +179,6 @@
 1kogugetbackto.tk
 1kohaxgetbackto.tk
 1kohjcall.tk
-1kojcallcenter.tk
 1kojkcall.tk
 1kolocallcenter.tk
 1kolyacallcenter.tk
@@ -855,7 +854,6 @@
 6oirphone.tk
 6oivgfphone.tk
 6okriphone.tk
-6okrnjgivearing.tk
 6oprnjphone.tk
 6porlphone.tk
 6puihphone.tk
@@ -1563,6 +1561,7 @@ entitledbyreason.tk
 equallyonly.tk
 ethical-sympathies.tk
 ethical-sympathy.tk
+ethicalefficacy.tk
 eve-and-powdered.tk
 even-things.tk
 evening-coat.tk
