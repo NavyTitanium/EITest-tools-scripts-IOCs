@@ -1,4 +1,4 @@
-# last updated on: 2018-03-28 04:30:01 UTC 
+# last updated on: 2018-03-28 05:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -165,7 +165,6 @@
 1kkocall.tk
 1klo12callcenter.tk
 1klo12getbackto.tk
-1kltocall.tk
 1koelcall.tk
 1kogugetbackto.tk
 1kohaxgetbackto.tk
@@ -329,7 +328,6 @@
 2jiejihcallfast.tk
 2jikicallfast.tk
 2jikiygetonthehorn.tk
-2jir56calls.tk
 2jirmk45getonthehorn.tk
 2jkhjglgetonthehorn.tk
 2jkigetbackto.tk
@@ -1624,6 +1622,7 @@ gladyoudidnt.tk
 gleaming-nbrightness.tk
 globe0of.tk
 go-in-for.tk
+going-to-end.tk
 golden-head.tk
 good-advice.tk
 good-company.tk
@@ -2714,6 +2713,7 @@ would-givemy.tk
 would-hardly.tk
 would-not-give.tk
 would-not.tk
+would-ration-5out.tk
 would-sooner.tk
 wouldbe.tk
 wouldinsist.tk
