@@ -1,4 +1,4 @@
-# last updated on: 2018-03-28 21:00:01 UTC 
+# last updated on: 2018-03-28 21:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -600,7 +600,6 @@
 55hucdhelper.tk
 55hurhelper.tk
 55jiebhgiveajingl.tk
-55kotngiveajingl.tk
 55lkocalling.tk
 55rhutcalling.tk
 55rifhelper.tk
@@ -1527,6 +1526,7 @@ for-margaretof.tk
 for-myself-now.tk
 for-nearlyten.tk
 for-people-now.tk
+for-sibyl.tk
 for-thefirst.tk
 for-thethings.tk
 for-tho5e.tk
@@ -2077,7 +2077,6 @@ opskin.bid
 or-between.tk
 or-dinner.tk
 or-metaphysics.tk
-order-to-use.tk
 our-friendship.tk
 our-passion.tk
 our-three.tk
@@ -2557,6 +2556,7 @@ was-mymotive.tk
 was-nomotive.tk
 was-painting.tk
 was-premature-now.tk
+was-sitting-now.tk
 was-speaking.tk
 was-thebody.tk
 was-theleast.tk
