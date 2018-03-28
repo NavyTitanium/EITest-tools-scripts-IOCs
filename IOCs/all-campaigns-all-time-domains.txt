@@ -1,4 +1,4 @@
-# last updated on: 2018-03-28 11:30:01 UTC 
+# last updated on: 2018-03-28 12:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1789,6 +1789,7 @@ and-drawing.tk
 and-feel.tk
 and-fishing.tk
 and-flower.tk
+and-foundit.tk
 and-framed.tk
 and-frowning.tk
 and-genuine.tk
@@ -4199,6 +4200,7 @@ sothelad.tk
 sotheygo.tk
 sought-to.tk
 soul-for-that.tk
+sounds-the-twins.tk
 soupis-solyanka.tk
 spacecraft-became.tk
 spaces-between.tk
