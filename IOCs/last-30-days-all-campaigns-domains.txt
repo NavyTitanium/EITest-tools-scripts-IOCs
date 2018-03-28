@@ -1,4 +1,4 @@
-# last updated on: 2018-03-28 06:00:01 UTC 
+# last updated on: 2018-03-28 06:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -206,7 +206,6 @@
 1pojkcallcenter.tk
 1pollicall.tk
 1riucall.tk
-1rucallcenter.tk
 1ssascall.tk
 1st-bynature.tk
 1st-coffeehouse.tk
@@ -2019,7 +2018,6 @@ newinorder.tk
 newyouknow.tk
 night-before.tk
 no-artist-calling.tk
-noble-ambitions.tk
 nomatternew.tk
 none-of.tk
 not-catching.tk
