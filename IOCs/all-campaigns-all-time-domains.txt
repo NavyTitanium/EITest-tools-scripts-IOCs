@@ -1,4 +1,4 @@
-# last updated on: 2018-03-28 10:30:01 UTC 
+# last updated on: 2018-03-28 11:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2800,6 +2800,7 @@ he-is-quite.tk
 he-isalways.tk
 he-isasurgeon.tk
 he-often.tk
+he-openedit.tk
 he-or-shejust.tk
 he-suddenly.tk
 healthand.tk
@@ -4298,6 +4299,7 @@ surgical-department.tk
 surveyshowed.tk
 sweepand.tk
 symboldo.tk
+table-for-supper.tk
 takes-care.tk
 takingout.tk
 talentsand.tk
