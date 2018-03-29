@@ -1,4 +1,4 @@
-# last updated on: 2018-03-29 00:30:01 UTC 
+# last updated on: 2018-03-29 01:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2471,6 +2471,7 @@ even-more-new.tk
 even-more.tk
 even-things.tk
 evening-coat.tk
+everdivergedand.tk
 evermorbid.tk
 every-time-wegive.tk
 every-time-welove.tk
@@ -4993,6 +4994,7 @@ will-mock.tk
 will-not-letit.tk
 will-plays.tk
 will-receive.tk
+wincedand.tk
 windsor-monarch.tk
 windsor-queen.tk
 with-both.tk
