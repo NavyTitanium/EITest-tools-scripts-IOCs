@@ -1,4 +1,4 @@
-# last updated on: 2018-03-29 23:00:02 UTC 
+# last updated on: 2018-03-29 23:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1182,6 +1182,7 @@ areclassmates.tk
 arestirred.tk
 aresuch.tk
 arm-chair.tk
+armed-with-pistols.tk
 arre1ative1y.tk
 arrived-home.tk
 artists-have.tk
@@ -1313,7 +1314,6 @@ click-of-2china.tk
 cloud-shadows.tk
 coffeeup.tk
 come-across.tk
-comeface.tk
 comelord.tk
 comes-from.tk
 comesonly.tk
