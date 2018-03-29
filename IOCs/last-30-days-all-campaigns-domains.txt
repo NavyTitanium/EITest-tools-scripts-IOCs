@@ -1,4 +1,4 @@
-# last updated on: 2018-03-29 18:00:01 UTC 
+# last updated on: 2018-03-29 18:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1630,7 +1630,6 @@ himself-with.tk
 his-feet.tk
 his-fingers.tk
 his-hand.tk
-his-name.tk
 his-nature.tk
 his-parents.tk
 his-personality.tk
@@ -1675,7 +1674,6 @@ ihjycallcenter.tk
 illimet.tk
 immoral-from.tk
 import-make.tk
-importantthing.tk
 impression-that.tk
 in-0finding.tk
 in-4lifehe.tk
