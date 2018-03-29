@@ -1,4 +1,4 @@
-# last updated on: 2018-03-29 11:30:01 UTC 
+# last updated on: 2018-03-29 12:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -143,7 +143,6 @@
 1jirpcallcenter.tk
 1jivgcallcenter.tk
 1jivvcallcenter.tk
-1jkkolgetbackto.tk
 1jktocallcenter.tk
 1joucall.tk
 1kiocallcenter.tk
@@ -432,7 +431,6 @@
 3kor333calltohelp.tk
 3korbgetontheline.tk
 3korbh33getontheline.tk
-3korhucalltohelp.tk
 3koriu33callus.tk
 3kornj3callus.tk
 3kornjcallus.tk
@@ -1091,7 +1089,6 @@ aimof-life.tk
 airas.tk
 alack-of.tk
 alittle-2crude.tk
-all-physical.tk
 all-theselby.tk
 all-thesurprise.tk
 allended.tk
@@ -1740,7 +1737,6 @@ is-much.tk
 is-not-merely.tk
 is-notidentical.tk
 is-simple.tk
-isafatality.tk
 isafraidof.tk
 isahardworking.tk
 iseighteen.tk
