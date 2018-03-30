@@ -1,4 +1,4 @@
-# last updated on: 2018-03-30 09:30:01 UTC 
+# last updated on: 2018-03-30 10:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -451,7 +451,6 @@
 44eytdbhhelp.tk
 44iorhelp.tk
 44jienjfhelp.tk
-44kjigiveacall.tk
 44mkdngiveacall.tk
 44tycallup.tk
 44uicfshelp.tk
@@ -573,7 +572,6 @@
 55rhutcalling.tk
 55rifhelper.tk
 55tiurhygiveajingl.tk
-55tiuurhuhelper.tk
 56eisbhcalling.tk
 56ftwcfghelper.tk
 56hucdeycalling.tk
@@ -874,6 +872,7 @@
 88oiroiortech.tk
 88rnjcalltous.tk
 894hyvcalltous.tk
+8954iutech.tk
 89durucalltous.tk
 89gycycalltous.tk
 89huebzzcalltous.tk
@@ -1879,7 +1878,6 @@ newexcept-when.tk
 newinorder.tk
 newyouknow.tk
 night-before.tk
-no-artist-calling.tk
 nomatternew.tk
 none-of.tk
 not-catching.tk
@@ -2568,6 +2566,7 @@ youhad-said.tk
 youletany.tk
 youmight.tk
 youmust-let.tk
+young-lord.tk
 younger-than.tk
 youquite.tk
 your-forehead.tk
