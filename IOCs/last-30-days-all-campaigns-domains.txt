@@ -1,4 +1,4 @@
-# last updated on: 2018-03-30 18:30:02 UTC 
+# last updated on: 2018-03-30 19:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1162,7 +1162,6 @@ aresuch.tk
 arm-chair.tk
 armed-with-pistols.tk
 arrived-home.tk
-artists-have.tk
 artof-doing.tk
 as-hespoke.tk
 as-something.tk
@@ -1470,6 +1469,7 @@ gardenafter.tk
 gas-jetsand.tk
 gaudyplay-bills.tk
 gauzewings.tk
+gavethepassword.tk
 general-policy.tk
 gentle-admonitions.tk
 georgians-but.tk
@@ -1515,7 +1515,6 @@ had-praised.tk
 had-such.tk
 had-theiradherents.tk
 had-to-assure.tk
-hadat-least.tk
 hadevenin.tk
 half-pasteight.tk
 hallward-shook.tk
@@ -2162,7 +2161,6 @@ stood-there.tk
 stood-therenow.tk
 stooda.tk
 stopped-painting.tk
-story-is-simply.tk
 strangelybright.tk
 strategy-in.tk
 streamed-the.tk
@@ -2260,6 +2258,7 @@ theniceties-of.tk
 thenit-began.tk
 thenthey-were2-off.tk
 thenyoucan.tk
+theoccasional.tk
 thequeenused.tk
 there-arefew.tk
 there-is-no.tk
@@ -2421,7 +2420,6 @@ well-by.tk
 wellas-computers.tk
 welledinto.tk
 welleighteen.tk
-wepoor.tk
 were-her.tk
 were-lsolid.tk
 wereboth.tk
