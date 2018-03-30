@@ -1,4 +1,4 @@
-# last updated on: 2018-03-30 11:30:01 UTC 
+# last updated on: 2018-03-30 12:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -31,6 +31,7 @@
 02rndlcalltoday.tk
 032gyrosystem.tk
 036huesystem.tk
+045huevczasupport.tk
 0asniezcalltoday.tk
 0brandedyour.tk
 0busfacalltoday.tk
@@ -864,7 +865,6 @@
 88hurbcalltous.tk
 88iurnjndbuzz.tk
 88kogivearing.tk
-88oiroiortech.tk
 88rnjcalltous.tk
 894hyvcalltous.tk
 8954iutech.tk
@@ -1537,6 +1537,7 @@ had-to-assure.tk
 hadat-least.tk
 hadevenin.tk
 half-pasteight.tk
+hallward-shook.tk
 hallwardpainted.tk
 handaway-and.tk
 handson-her.tk
@@ -1550,7 +1551,6 @@ has-nothing.tk
 has-seared.tk
 has-shelikes.tk
 has-suggested.tk
-hasadeep.tk
 hated-kelso.tk
 hatethefinest.tk
 have-alot.tk
