@@ -1,4 +1,4 @@
-# last updated on: 2018-03-30 22:30:01 UTC 
+# last updated on: 2018-03-30 23:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -425,6 +425,7 @@
 3nijcallus.tk
 3ninacalltohelp.tk
 3njecalltohelp.tk
+3oiehu3callus.tk
 3oigetbackto.tk
 3oigetonthehorn.tk
 3oihutcallus.tk
@@ -641,7 +642,6 @@
 5njdcalling.tk
 5nurmpocalling.tk
 5oikfcalling.tk
-5oirjuhelper.tk
 5per-cent.tk
 5sapcalling.tk
 5sfrwxcalling.tk
@@ -1807,7 +1807,6 @@ mypropertycall.tk
 myselfa.tk
 myselfiknow.tk
 mystery-also.tk
-mytroubles.tk
 nataliedoes.tk
 natureperfectly.tk
 naturequiver.tk
@@ -2316,7 +2315,6 @@ torealize.tk
 tories-were.tk
 toscramble.tk
 tosecond.tk
-toshow.tk
 totell-me.tk
 tothe-others.tk
 tothepicture.tk
@@ -2516,6 +2514,7 @@ youquite.tk
 your-forehead.tk
 your-friend.tk
 your-head.tk
+your-hour.tk
 your-soul.tk
 youthin.tk
 youthought.tk
