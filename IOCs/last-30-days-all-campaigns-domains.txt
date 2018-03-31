@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 23:00:01 UTC 
+# last updated on: 2018-03-31 23:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1098,7 +1098,6 @@ andelderly.tk
 andeyes.tk
 andiknow.tk
 andillness.tk
-andimpersonal.tk
 andireallydo.tk
 andisaw.tk
 andit-means.tk
@@ -1123,7 +1122,6 @@ anyscientific.tk
 anythingyounow.tk
 apackof.tk
 aphrase.tk
-approachand.tk
 apricot-coloured.tk
 aquarterof.tk
 are-inappropriate.tk
@@ -2404,7 +2402,6 @@ yellow-rivers.tk
 yesit-was.tk
 yesthere.tk
 yet-come-in.tk
-you-and-to.tk
 you-aredry.tk
 youchaps.tk
 youhad-much.tk
