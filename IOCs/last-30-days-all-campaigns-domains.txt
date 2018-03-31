@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 02:30:01 UTC 
+# last updated on: 2018-03-31 03:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -429,7 +429,6 @@
 3oihutcallus.tk
 3oinjtech.tk
 3oircalltohelp.tk
-3oirjutcallus.tk
 3pojicalltohelp.tk
 3ponjcallus.tk
 3ponjrcalltohelp.tk
@@ -806,6 +805,7 @@
 7iuenjringring.tk
 7iutelepone.tk
 7jiebccallnow.tk
+7jiebdcallnow.tk
 7jiebscallnow.tk
 7jiektelephone.tk
 7jientelepone.tk
@@ -1429,7 +1429,7 @@ formless-things.tk
 forms-should.tk
 foundinone.tk
 fourteen-he.tk
-freetimenow.tk
+francisco.tk
 freshimpulse.tk
 fridayevening.tk
 friend-called.tk
@@ -1821,7 +1821,6 @@ night-before.tk
 nomatternew.tk
 none-of.tk
 not-catching.tk
-not-far-from.tk
 not-havemuch.tk
 not-knownit.tk
 not-quite.tk
