@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 06:00:02 UTC 
+# last updated on: 2018-03-31 06:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -138,7 +138,6 @@
 1jirpcallcenter.tk
 1jivgcallcenter.tk
 1jivvcallcenter.tk
-1jktocallcenter.tk
 1joucall.tk
 1kiocallcenter.tk
 1kkocall.tk
@@ -1142,7 +1141,6 @@ aquarterof.tk
 are-inappropriate.tk
 are-true.tk
 areborrowed.tk
-areclassmates.tk
 arestirred.tk
 aresuch.tk
 arm-chair.tk
@@ -1451,7 +1449,6 @@ georgians-but.tk
 georgianurn.tk
 getng-tilickeredup.tk
 gigantic-tiaras.tk
-girl-too.tk
 give-everything.tk
 gives-something.tk
 gladyoudidnt.tk
