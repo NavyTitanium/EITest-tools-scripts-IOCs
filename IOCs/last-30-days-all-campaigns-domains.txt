@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 06:30:01 UTC 
+# last updated on: 2018-03-31 07:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -83,7 +83,6 @@
 0pskins.bid
 0sdrwocalltoday.tk
 0tetsystem.tk
-0tuircalltoday.tk
 0uybysystem.tk
 0verasystem.tk
 0wvascalltoday.tk
@@ -1221,6 +1220,7 @@ bloodand-thunderers.tk
 bornin-pain.tk
 bowieknives.tk
 boy-left.tk
+boys-thought.tk
 brainand.tk
 bravest-man.tk
 breakfast-lunch.tk
@@ -1646,7 +1646,6 @@ is-not-merely.tk
 is-notidentical.tk
 is-simple.tk
 isafraidof.tk
-isahardworking.tk
 iseighteen.tk
 ishall-never.tk
 isimmoral.tk
@@ -1758,7 +1757,6 @@ moreover-while.tk
 morepurely.tk
 most-carefully.tk
 mostastounding.tk
-mostof-them.tk
 mother-snatched.tk
 motionless-with.tk
 motionlessand.tk
@@ -1986,6 +1984,7 @@ quitesympathize.tk
 radicalshe.tk
 rains-brick.tk
 rang-thebell.tk
+rather-coldly.tk
 rather-nervous.tk
 rather-nice.tk
 rattle-of-cups.tk
