@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 14:30:01 UTC 
+# last updated on: 2018-03-31 15:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1103,7 +1103,6 @@ andillness.tk
 andimpersonal.tk
 andireallydo.tk
 andisaw.tk
-andit-may.tk
 andit-means.tk
 andreturn.tk
 andugly.tk
@@ -1234,7 +1233,6 @@ came-and.tk
 cameback.tk
 cametomadrid.tk
 cannotexpress.tk
-cansaytha.tk
 cant-bear.tk
 capricious-moment.tk
 carefor-call.tk
@@ -1352,8 +1350,8 @@ everydream.tk
 everyonehad-his.tk
 everything-call.tk
 everything-for.tk
+exhibitit.tk
 expected-but.tk
-explainit.tk
 eyes-dim.tk
 eyes-looked.tk
 eyes-were.tk
@@ -1682,6 +1680,7 @@ listless-fingers.tk
 littlemoresupp.tk
 livesand-supp.tk
 livetheking.tk
+loath-torelinquish.tk
 long-fringed.tk
 looking-rather.tk
 lookingateach.tk
