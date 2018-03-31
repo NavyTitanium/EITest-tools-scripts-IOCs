@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 20:00:01 UTC 
+# last updated on: 2018-03-31 20:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1485,7 +1485,6 @@ have-it-basil.tk
 havedone.tk
 havemademe.tk
 havenotsupp.tk
-havestudieds.tk
 havesuch.tk
 havetotalk.tk
 havetried.tk
@@ -2174,7 +2173,6 @@ theroom-now.tk
 theroomand.tk
 thesamesupp.tk
 these-are-supp.tk
-thesefacts.tk
 thestillness.tk
 thethief.tk
 thetwocall.tk
