@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 13:00:02 UTC 
+# last updated on: 2018-03-31 13:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1858,7 +1858,6 @@ one-is-dealing.tk
 onecompany.tk
 onecould.tk
 onehave-it.tk
-oneofmy.tk
 oneper.tk
 ones-friends.tk
 onetorest.tk
@@ -2031,7 +2030,6 @@ should-liketo.tk
 should-not.tk
 shrill-voice.tk
 sibyl-that.tk
-sidesof.tk
 siegeto.tk
 signs-for.tk
 silentamusement.tk
@@ -2443,7 +2441,6 @@ yet-come-in.tk
 you-and-to.tk
 you-aredry.tk
 youchaps.tk
-youdo-either.tk
 youhad-much.tk
 youhad-said.tk
 youletany.tk
