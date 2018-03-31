@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 10:30:01 UTC 
+# last updated on: 2018-03-31 11:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -150,7 +150,6 @@
 1koncallcenter.tk
 1koolcall.tk
 1kooomcall.tk
-1kotcall.tk
 1kotnjcall.tk
 1lko11getbackto.tk
 1lkocallcenter.tk
@@ -185,7 +184,6 @@
 1st-coffeehouse.tk
 1st-facewould.tk
 1st-for-teens.tk
-1st-friends-we.tk
 1st-hehad-been.tk
 1st-long-time.tk
 1st-mad-passion.tk
@@ -1015,6 +1013,7 @@ abouton.tk
 above-all.tk
 absolutelynothing.tk
 absurd-little.tk
+absurd-that.tk
 acceptone-ofyou.tk
 accessibleto-everybody.tk
 acquer-leaves.tk
@@ -1956,7 +1955,6 @@ programmes-containing.tk
 propertycame.tk
 proportion-who.tk
 proposeto.tk
-prove-anything-now.tk
 psychological.tk
 purelysensuous.tk
 put-her-thin.tk
@@ -2121,6 +2119,7 @@ suppose-it.tk
 surveyshowed.tk
 sweepand.tk
 table-for-supper.tk
+talk-impudent.tk
 talk-likethat.tk
 taught-me.tk
 teaforus.tk
