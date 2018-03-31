@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 12:00:01 UTC 
+# last updated on: 2018-03-31 12:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1065,7 +1065,6 @@ and-framed.tk
 and-frowning.tk
 and-grow-sad.tk
 and-had.tk
-and-helpsus.tk
 and-horrible.tk
 and-older-2sections.tk
 and-perfect.tk
@@ -1830,7 +1829,6 @@ of-tears.tk
 of-the-ivy.tk
 of-thecompany.tk
 of-thedescription.tk
-of-thefirm.tk
 of-thehand.tk
 of-thehousework.tk
 of-thekind.tk
@@ -2342,7 +2340,6 @@ wasatory.tk
 wasengaged.tk
 wasin-them.tk
 watched-him.tk
-we-enjoy.tk
 weeksof.tk
 well-by.tk
 wellas-computers.tk
