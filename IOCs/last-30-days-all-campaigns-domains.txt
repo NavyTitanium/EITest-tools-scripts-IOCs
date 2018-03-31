@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 05:00:01 UTC 
+# last updated on: 2018-03-31 05:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -426,7 +426,6 @@
 3oigetonthehorn.tk
 3oihutcallus.tk
 3oinjtech.tk
-3oircalltohelp.tk
 3pojicalltohelp.tk
 3ponjcallus.tk
 3ponjrcalltohelp.tk
@@ -1384,7 +1383,6 @@ factsand-people.tk
 faded-rose.tk
 fallback-position.tk
 fascinating-things.tk
-feature-of.tk
 fell-from.tk
 felt-carpet.tk
 feltintensely.tk
@@ -1427,7 +1425,6 @@ foundinone.tk
 francisco.tk
 freshimpulse.tk
 fridayevening.tk
-friend-called.tk
 friendasyou.tk
 friendshipis.tk
 friendsis-natalie.tk
