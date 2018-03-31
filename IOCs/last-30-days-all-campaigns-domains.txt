@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 22:00:01 UTC 
+# last updated on: 2018-03-31 22:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1167,7 +1167,6 @@ be-acaprice.tk
 be-alwaysyoung.tk
 be-appropriate.tk
 be-older.tk
-be-taken.tk
 be-used.tk
 beautiful-nature.tk
 beautiful-soul.tk
@@ -1725,7 +1724,6 @@ moodsand.tk
 more-insincere.tk
 more-sedate.tk
 more-to.tk
-moreover-while.tk
 morepurely.tk
 most-carefully.tk
 mostastounding.tk
