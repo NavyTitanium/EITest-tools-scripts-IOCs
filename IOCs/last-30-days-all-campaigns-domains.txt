@@ -1,4 +1,4 @@
-# last updated on: 2018-03-31 17:30:02 UTC 
+# last updated on: 2018-03-31 18:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1278,7 +1278,6 @@ create-a.tk
 creaturewith.tk
 creepinginto.tk
 crimemonths.tk
-crisisin.tk
 cupinhand.tk
 curiositywhat.tk
 curious-way.tk
@@ -1426,7 +1425,6 @@ gardenafter.tk
 gas-jetsand.tk
 gaudyplay-bills.tk
 gavethepassword.tk
-general-policy.tk
 gentle-admonitions.tk
 georgians-but.tk
 georgianurn.tk
@@ -1440,6 +1438,7 @@ glides-through.tk
 globe0of.tk
 go-in-for.tk
 going-to-end.tk
+going-tocollect.tk
 golden-head.tk
 good-looks-support.tk
 good-women.tk
@@ -1708,6 +1707,7 @@ me-on-that.tk
 meaningof.tk
 mebefore.tk
 mediaevalism.tk
+memonth.tk
 merelyvisible.tk
 mesimply.tk
 mesomeday.tk
