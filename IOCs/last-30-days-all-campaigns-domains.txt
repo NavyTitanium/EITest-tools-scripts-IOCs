@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 02:30:01 UTC 
+# last updated on: 2018-04-01 03:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1066,7 +1066,6 @@ and-horrible.tk
 and-older-2sections.tk
 and-perfect.tk
 and-poured.tk
-and-red-faced.tk
 and-ribbons.tk
 and-roseto.tk
 and-saucers.tk
@@ -1150,7 +1149,6 @@ atevery-one.tk
 athis-club.tk
 attentions-to-agirl.tk
 auctionstarting.bid
-audibleto.tk
 awaybydeath.tk
 awaywith.tk
 back-turned.tk
@@ -1270,6 +1268,7 @@ cracked-piano.tk
 create-a.tk
 creaturewith.tk
 creepinginto.tk
+cried-thelad.tk
 crimemonths.tk
 cupinhand.tk
 curiositywhat.tk
@@ -1400,7 +1399,6 @@ friendshipis.tk
 from-him.tk
 from-me-and.tk
 from-strength.tk
-from-thedeal.tk
 from-thediplomatic.tk
 from-thepillow.tk
 from-washing-down.tk
@@ -2183,7 +2181,6 @@ to-avoid.tk
 to-itself.tk
 to-theserious.tk
 to-yield.tk
-toatruculent.tk
 tobe-in-travail.tk
 tobemarried.tk
 tocallme.tk
@@ -2389,6 +2386,7 @@ yesit-was.tk
 yesthere.tk
 yet-come-in.tk
 you-aredry.tk
+youbecame.tk
 youchaps.tk
 youhad-much.tk
 youhad-said.tk
