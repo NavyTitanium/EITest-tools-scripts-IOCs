@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 22:30:01 UTC 
+# last updated on: 2018-04-01 23:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -983,7 +983,6 @@ acquer-leaves.tk
 acrossthem.tk
 act-therewas.tk
 actorof.tk
-actuallycheck.tk
 adoresimple.tk
 adreamof.tk
 afterabout.tk
@@ -1713,7 +1712,6 @@ now-face-and.tk
 now-first-time.tk
 now-hemurmured.tk
 now-hiseyes.tk
-now-mass-media.tk
 now-recreate.tk
 now-tellyou.tk
 now-that.tk
@@ -1812,6 +1810,7 @@ particular452.bid
 passed-by.tk
 passed-from-now.tk
 passed-from.tk
+pathofknowledge.tk
 peaceful-plowed.tk
 peoplehavesupp.tk
 peoplehaving.tk
@@ -1902,6 +1901,7 @@ sciencethat.tk
 scientific-point.tk
 search-for-now.tk
 secretof-religion.tk
+see-anything.tk
 seemed-to-supp.tk
 seen-there.tk
 seenusin-quite.tk
