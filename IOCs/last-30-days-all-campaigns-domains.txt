@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 02:00:01 UTC 
+# last updated on: 2018-04-01 02:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1169,7 +1169,6 @@ beautybeing.tk
 becauseto.tk
 becausewhile.tk
 been-laid.tk
-been-perfectly.tk
 been-said.tk
 before-either.tk
 beforephone.tk
@@ -1614,7 +1613,6 @@ it-has-forbidden.tk
 it-seemed.tk
 itforamoment.tk
 ithinkof.tk
-itis-clear.tk
 itmaybe.tk
 its-monstrous.tk
 its-suggestion.tk
@@ -2261,7 +2259,6 @@ waketheir.tk
 walkedacross.tk
 walkedover.tk
 walkedup.tk
-want-tobenefit.tk
 wantabreath.tk
 wantit-supp.tk
 wantof-suggestions.tk
