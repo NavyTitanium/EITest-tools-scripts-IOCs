@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 00:30:01 UTC 
+# last updated on: 2018-04-01 01:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1594,7 +1594,6 @@ inalabyrinth.tk
 inatragic.tk
 indeed-the.tk
 influenced-by.tk
-influenced-bycool.tk
 inoffice.tk
 instantrecharge.bid
 intellectual-will.tk
@@ -1748,7 +1747,6 @@ neverexhibit.tk
 new-1green.tk
 new-both-parties.tk
 new-fiery-coloured.tk
-new-furthermore.tk
 new-heturned.tk
 new-hiseyes.tk
 new-marriedwomen.tk
@@ -1824,12 +1822,12 @@ ofyoung.tk
 old-gentleman.tk
 on-calling-me.tk
 on-not-being.tk
+on-thebrink.tk
 on-thedivan.tk
 on-theplatform.tk
 onatiny.tk
 oncewhen.tk
 one-arm-chair.tk
-one-is-dealing.tk
 onecompany.tk
 onecould.tk
 onehave-it.tk
@@ -1934,6 +1932,7 @@ radicalshe.tk
 rains-brick.tk
 rang-thebell.tk
 rather-coldly.tk
+rather-meaningless.tk
 rather-nervous.tk
 rather-nice.tk
 rattle-of-cups.tk
