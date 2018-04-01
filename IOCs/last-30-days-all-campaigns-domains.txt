@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 19:00:01 UTC 
+# last updated on: 2018-04-01 19:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1768,7 +1768,6 @@ oncewhen.tk
 one-arm-chair.tk
 onecould.tk
 onehave-it.tk
-oneper.tk
 ones-friends.tk
 ones-worship.tk
 onetorest.tk
@@ -2084,7 +2083,6 @@ there-is-nothing.tk
 there-is-peril.tk
 there-were-sounds.tk
 therecipe.tk
-thereforedespite.tk
 therewould.tk
 theroomand.tk
 thesamesupp.tk
