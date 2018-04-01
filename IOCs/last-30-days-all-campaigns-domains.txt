@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 01:30:02 UTC 
+# last updated on: 2018-04-01 02:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1050,7 +1050,6 @@ amean-dog.tk
 amethystand.tk
 among-men.tk
 amongstus.tk
-analyses-bu.tk
 analysisof-the.tk
 anarrangement.tk
 and-beside.tk
@@ -1356,7 +1355,6 @@ facethat.tk
 facewould.tk
 fact-that-now.tk
 fact-that.tk
-factsand-people.tk
 faded-rose.tk
 fascinating-things.tk
 fell-from.tk
@@ -1744,7 +1742,6 @@ naturequiver.tk
 near-torichness.tk
 neverexhibit.tk
 new-1green.tk
-new-both-parties.tk
 new-fiery-coloured.tk
 new-heturned.tk
 new-hiseyes.tk
@@ -2271,6 +2268,7 @@ wantof-suggestions.tk
 wantyouto.tk
 was-destined.tk
 was-dimly.tk
+was-dominated.tk
 was-drawnup.tk
 was-gathering.tk
 was-less-trouble.tk
@@ -2409,6 +2407,7 @@ your-head.tk
 your-hour.tk
 your-moods.tk
 your-soul.tk
+yousuddenly.tk
 youthin.tk
 youthought.tk
 youtomeethim.tk

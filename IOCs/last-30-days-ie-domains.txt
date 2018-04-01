@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 01:30:02 UTC 
+# last updated on: 2018-04-01 02:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -4923,6 +4923,7 @@ wardsasking.tk
 warmsyou.tk
 was-destined.tk
 was-dimly.tk
+was-dominated.tk
 was-drawnup.tk
 was-five.tk
 was-gathering.tk
@@ -5210,6 +5211,7 @@ your-pastuntil.tk
 your-soul.tk
 your-thoughts.tk
 yoursoul-apart.tk
+yousuddenly.tk
 youthetruth.tk
 youthin.tk
 youthought.tk
