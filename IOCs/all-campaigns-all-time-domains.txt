@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 07:30:02 UTC 
+# last updated on: 2018-04-01 08:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2565,6 +2565,7 @@ explainit.tk
 exploredavery.tk
 exploring-new.tk
 expresseverything.tk
+exquisitedream.tk
 eyebrowsand.tk
 eyes-dim.tk
 eyes-looked.tk
@@ -2739,6 +2740,7 @@ gauzewings.tk
 gave-up.tk
 gaverise.tk
 gavethepassword.tk
+gazingat-him.tk
 general-policy.tk
 generalelections.tk
 gentle-admonitions.tk
