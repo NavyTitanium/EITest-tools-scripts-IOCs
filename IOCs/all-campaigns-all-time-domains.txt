@@ -1,4 +1,4 @@
-# last updated on: 2018-04-01 09:30:01 UTC 
+# last updated on: 2018-04-01 10:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2810,6 +2810,7 @@ greatevents.tk
 greek-sculpture.tk
 green-eyed-baggage.tk
 greenhousesand.tk
+grew-jealous.tk
 grey-eyes.tk
 grimystreets.tk
 grinningat-the.tk
@@ -4622,6 +4623,7 @@ theman-now.tk
 thememory.tk
 themessagenow.tk
 themodern-supp.tk
+themoment-now.tk
 themost-popular.tk
 themostimportant.tk
 themunique.tk
