@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 04:30:01 UTC 
+# last updated on: 2018-04-02 05:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3209,6 +3209,7 @@ is-childish.tk
 is-dangerous.tk
 is-destroying.tk
 is-developing.tk
+is-foolish.tk
 is-happening-to.tk
 is-herefor.tk
 is-his-name.tk
@@ -4385,6 +4386,7 @@ speechesaboutus.tk
 spend-their.tk
 spendanaverage.tk
 spirit-from.tk
+spoilthechild.tk
 squaresabout.tk
 stained-trumpet.tk
 standardsof-augusta.tk
