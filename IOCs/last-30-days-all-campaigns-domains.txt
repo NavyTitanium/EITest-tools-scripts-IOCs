@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 13:00:02 UTC 
+# last updated on: 2018-04-02 13:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1810,7 +1810,6 @@ passed-from-now.tk
 passed-from.tk
 pathofknowledge.tk
 peaceful-plowed.tk
-peoplehaving.tk
 perhaps-thecool.tk
 perhapsone.tk
 perilof.tk
