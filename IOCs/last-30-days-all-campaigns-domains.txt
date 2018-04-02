@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 07:30:01 UTC 
+# last updated on: 2018-04-02 08:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1005,6 +1005,7 @@ almanhukuku.ozyegin.edu.tr
 almost-modern.tk
 always-looked.tk
 always-missed.tk
+always-remain-so.tk
 always-what.tk
 am-going-to.tk
 amalittle.tk
@@ -1626,7 +1627,6 @@ madestaccato.tk
 makepsychology.tk
 makingelaborate.tk
 maladiesof.tk
-manisnow.tk
 mannerinart.tk
 manytimes.tk
 mar-them.tk
@@ -1660,7 +1660,6 @@ months-beforethe.tk
 monthsof.tk
 moodsand.tk
 more-absorbed.tk
-more-insincere.tk
 more-sedate.tk
 more-to.tk
 most-carefully.tk
@@ -1705,6 +1704,7 @@ not-quite.tk
 not-saythings.tk
 not-squabble.tk
 notatall-remarkable.tk
+notcruel.tk
 notebeen-satisfied.tk
 notescape.tk
 notinfluenced.tk
@@ -2011,7 +2011,6 @@ tear-stained.tk
 tedious-luncheon.tk
 tell-mewhy.tk
 tellyouthat.tk
-than-principles.tk
 that-had.tk
 that-hallward.tk
 that-happiness.tk

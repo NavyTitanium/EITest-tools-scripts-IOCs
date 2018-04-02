@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 07:30:01 UTC 
+# last updated on: 2018-04-02 08:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1785,6 +1785,7 @@ always-been.tk
 always-full.tk
 always-looked.tk
 always-missed.tk
+always-remain-so.tk
 always-tries.tk
 always-what.tk
 am-going-to.tk
@@ -3694,6 +3695,7 @@ not-squabble.tk
 not-sure-about.tk
 notatall-remarkable.tk
 notavery.tk
+notcruel.tk
 notebeen-satisfied.tk
 notescape.tk
 notinfluenced.tk
