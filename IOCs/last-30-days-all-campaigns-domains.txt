@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 12:00:02 UTC 
+# last updated on: 2018-04-02 12:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1102,7 +1102,6 @@ asif-hehad.tk
 asilounged.tk
 askprices.bid
 asothers.tk
-asourselves.tk
 at-dinner.tk
 at-himas.tk
 at-least.tk
@@ -1416,7 +1415,6 @@ happiness-cut.tk
 happiness-which.tk
 hard-lines.tk
 has-not-been.tk
-has-nothing.tk
 has-seared.tk
 has-suggested.tk
 hated-kelso.tk
@@ -1746,7 +1744,6 @@ of-thought.tk
 of-time.tk
 of-work-todo.tk
 ofanactive.tk
-ofanidea.tk
 ofannoyance.tk
 ofanoldand.tk
 ofaplace.tk
