@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 03:30:01 UTC 
+# last updated on: 2018-04-02 04:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1279,7 +1279,6 @@ ending-forone.tk
 english-democracy.tk
 englishnoble.tk
 enough-to.tk
-enough452.bid
 enoughof-him-to-elec.tk
 entirelynew.tk
 entitledbyreason.tk
@@ -1966,6 +1965,7 @@ sotedious.tk
 sothelad.tk
 soul-for-that.tk
 sounds-the-twins.tk
+sparetherod.tk
 sparrowsin.tk
 speciallydesigned.tk
 speechesaboutus.tk
@@ -2293,6 +2293,7 @@ words-had.tk
 world-it-was.tk
 world-would.tk
 worldn.tk
+worshipit.tk
 worshippedyou.tk
 worth-having.tk
 would-berather.tk
