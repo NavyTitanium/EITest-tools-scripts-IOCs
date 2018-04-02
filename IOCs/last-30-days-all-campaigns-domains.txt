@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 09:30:01 UTC 
+# last updated on: 2018-04-02 10:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -176,6 +176,7 @@
 1riucall.tk
 1ssascall.tk
 1st-coffeehouse.tk
+1st-cried-thelad.tk
 1st-facewould.tk
 1st-hehad-been.tk
 1st-long-time.tk
@@ -1244,11 +1245,11 @@ determined-to.tk
 development-supp.tk
 difference-is.tk
 dimlyconscious.tk
-discuss-politics.tk
 dissatisfiedwith.tk
 do-you-object.tk
 docome-in.tk
 doesnt-really.tk
+doinghis.tk
 done-all-that.tk
 done-of-him.tk
 dont-know.tk
@@ -2056,7 +2057,6 @@ theirideas.tk
 thelife-of.tk
 them-for-being.tk
 them-tocome.tk
-theman-now.tk
 themoment-now.tk
 then-stepped.tk
 then-swayed.tk
