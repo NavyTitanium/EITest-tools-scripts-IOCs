@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 05:30:01 UTC 
+# last updated on: 2018-04-02 06:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1967,6 +1967,7 @@ areclassmates.tk
 aredangerous.tk
 aredead.tk
 aredeadto.bid
+arefriends.tk
 aregrown.tk
 areharmful.tk
 arenotonly.tk
@@ -4228,6 +4229,7 @@ saythat-now.tk
 saythat.tk
 scenesof.tk
 scert191012345.tk
+scholarscertainly.tk
 school-literary.tk
 school-with.tk
 schoolevents.tk
