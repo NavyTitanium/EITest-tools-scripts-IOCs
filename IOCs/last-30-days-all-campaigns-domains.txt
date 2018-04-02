@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 03:00:01 UTC 
+# last updated on: 2018-04-02 03:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1528,7 +1528,6 @@ in-long.tk
 in-myveins.tk
 in-sucha.tk
 in-that-case-now.tk
-in-that-case.tk
 in-the-autumn.tk
 in-themost.tk
 in-thepicture.tk
@@ -1809,7 +1808,6 @@ part-that.tk
 part-with.tk
 parted-lips.tk
 partedin.tk
-particular452.bid
 passed-by.tk
 passed-from-now.tk
 passed-from.tk
