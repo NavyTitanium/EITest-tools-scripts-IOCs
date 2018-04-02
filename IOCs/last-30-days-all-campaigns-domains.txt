@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 18:30:01 UTC 
+# last updated on: 2018-04-02 19:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -98,7 +98,6 @@
 1bugcallcenter.tk
 1dapacall.tk
 1foiacallcenter.tk
-1fopigetbackto.tk
 1ftwbcall.tk
 1furtcallcenter.tk
 1gercallcenter.tk
@@ -278,7 +277,6 @@
 2korevcallfast.tk
 2kormkcalls.tk
 2kornjcalls.tk
-2kukrcalls.tk
 2lobicallfast.tk
 2lomocalls.tk
 2lopcalls.tk
@@ -1054,6 +1052,7 @@ andillness.tk
 andireallydo.tk
 andisaw.tk
 andit-means.tk
+andplaymate.tk
 andreturn.tk
 andugly.tk
 andunlawful.tk
@@ -1122,6 +1121,7 @@ beautybeing.tk
 becauseto.tk
 becausewhile.tk
 been-laid.tk
+been-placed.tk
 been-said.tk
 before-either.tk
 beforephone.tk
