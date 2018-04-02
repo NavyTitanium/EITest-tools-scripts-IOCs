@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 11:00:02 UTC 
+# last updated on: 2018-04-02 11:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1256,7 +1256,6 @@ dont-know.tk
 doorway-of-the.tk
 dorian-gray-new.tk
 doubtall-that-bothers.tk
-dowith.tk
 down-he.tk
 down-their-noses.tk
 draw-from.tk
@@ -2267,7 +2266,6 @@ with-pallid.tk
 with-relief.tk
 with-silk.tk
 with-strawberries.tk
-with-therage.tk
 withamad.tk
 witharipple.tk
 withits-lines.tk
