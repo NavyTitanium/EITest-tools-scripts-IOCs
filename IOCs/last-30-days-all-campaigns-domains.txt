@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 23:00:02 UTC 
+# last updated on: 2018-04-02 23:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -107,7 +107,6 @@
 1huelocall.tk
 1huenjgetbackto.tk
 1huepickup.tk
-1hugysupp.tk
 1hurcallcenter.tk
 1hurmcall.tk
 1huwpogetbackto.tk
