@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 22:30:01 UTC 
+# last updated on: 2018-04-02 23:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3025,6 +3025,7 @@ horridof-me.tk
 hospital-patients.tk
 hospitaland.tk
 houron-medium.tk
+house-and-had.tk
 house-of-lords.tk
 house-of-sin.tk
 houseordynasty.tk
@@ -4306,6 +4307,7 @@ small-mouth.tk
 small-newspaper.tk
 smallalthough.tk
 smallarea.tk
+smallerones.tk
 smith-has.tk
 smokedsausage.tk
 smokethat.tk
