@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 02:30:02 UTC 
+# last updated on: 2018-04-02 03:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2762,6 +2762,7 @@ going-tothe.tk
 golden-globe.tk
 golden-head.tk
 golden-medal.tk
+goldenruleyou.tk
 gonethere.tk
 good-advice.tk
 good-books.tk
@@ -5114,6 +5115,7 @@ whosememory.tk
 whosesudden.tk
 whostood.tk
 whowouldnow.tk
+why-do-you-ask.tk
 widelyplayed.tk
 wild-barbarians.tk
 wild-desire.tk

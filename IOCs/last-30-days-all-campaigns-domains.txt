@@ -1,4 +1,4 @@
-# last updated on: 2018-04-02 02:30:02 UTC 
+# last updated on: 2018-04-02 03:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -1377,6 +1377,7 @@ go-in-for.tk
 going-to-end.tk
 going-tocollect.tk
 golden-head.tk
+goldenruleyou.tk
 good-looks-support.tk
 good-women.tk
 good-work.tk
@@ -2261,6 +2262,7 @@ whopassed.tk
 whosememory.tk
 whostood.tk
 whowouldnow.tk
+why-do-you-ask.tk
 wild-barbarians.tk
 wild-desire.tk
 wild-startled.tk
