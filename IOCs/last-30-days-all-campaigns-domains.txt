@@ -1,4 +1,4 @@
-# last updated on: 2018-04-03 20:30:01 UTC 
+# last updated on: 2018-04-03 21:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -750,7 +750,6 @@
 8huebgbuzz.tk
 8huebgfcalltous.tk
 8huepkosystem.tk
-8huetech.tk
 8ioesystem.tk
 8iorkbuzz.tk
 8jibvcalltous.tk
@@ -1142,6 +1141,7 @@ dainty-armour.tk
 dashof.tk
 daughterhead.tk
 day-of-june.tk
+daysbefore.tk
 daythat-georgia.tk
 deepenedinto.tk
 delicacythat.tk
@@ -1854,6 +1854,7 @@ signs-for.tk
 silentamusement.tk
 simplepleasures.tk
 simplycould-not-fal.tk
+simplylay.tk
 since-imet.tk
 sincethen-therecruits.tk
 sinsif-there.tk
@@ -1967,7 +1968,6 @@ the-studio-and.tk
 the-twins.tk
 theatrewith.tk
 thebell.tk
-thebestproduct.bid
 thebook-cases.tk
 theboyleft.tk
 thedescription.tk
@@ -2124,7 +2124,6 @@ was-premature-now.tk
 was-sitting-now.tk
 was-speaking.tk
 was-thebody.tk
-was-tolate.tk
 wasaheroto.tk
 wasalways.tk
 wasamazed.tk
