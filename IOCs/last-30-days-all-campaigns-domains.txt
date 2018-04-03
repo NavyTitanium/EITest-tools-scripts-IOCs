@@ -1,4 +1,4 @@
-# last updated on: 2018-04-03 21:30:01 UTC 
+# last updated on: 2018-04-03 22:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1158,7 +1158,6 @@ done-all-that.tk
 done-of-him.tk
 dont-know.tk
 doorway-of-the.tk
-dorian-gray-new.tk
 doubtall-that-bothers.tk
 down-he.tk
 down-their-noses.tk
@@ -1404,6 +1403,7 @@ hiseyes-new.tk
 hiseyes-supp.tk
 hisforehead.tk
 hisindolence.tk
+hislegsbeat.tk
 homecoming-hands.tk
 honestmanmy.tk
 horribledanger.tk
@@ -1550,6 +1550,7 @@ mar-them.tk
 marvellous-bold.tk
 masses-of-rwhite.tk
 matter-was.tk
+mayicomein.tk
 me-and-wonder.tk
 me-introducenow.tk
 me-on-that.tk
@@ -1572,7 +1573,6 @@ minutes-he.tk
 miss-thepicture.tk
 mock-mehorribly.tk
 mode-of-warning.tk
-modelor.tk
 modernartsupp.tk
 moment-when.tk
 momordad.tk
