@@ -1,4 +1,4 @@
-# last updated on: 2018-04-03 23:00:02 UTC 
+# last updated on: 2018-04-03 23:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1150,7 +1150,6 @@ development-supp.tk
 difference-is.tk
 dimlyconscious.tk
 dimpink.tk
-dissatisfiedwith.tk
 do-you-object.tk
 docome-in.tk
 doesnt-really.tk
@@ -1464,7 +1463,6 @@ intrusivelight.tk
 is-foolish.tk
 is-herefor.tk
 is-much.tk
-is-not-merely.tk
 is-notidentical.tk
 is-simple.tk
 isafraidof.tk
