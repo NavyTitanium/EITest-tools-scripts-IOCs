@@ -1,4 +1,4 @@
-# last updated on: 2018-04-03 05:30:01 UTC 
+# last updated on: 2018-04-03 06:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00guesystem.tk
@@ -396,7 +396,6 @@
 44iorhelp.tk
 44jienjfhelp.tk
 44mkdngiveacall.tk
-44tycallup.tk
 44uicfshelp.tk
 458hueytrhelp.tk
 45gyqvcazzhelp.tk
@@ -1085,6 +1084,7 @@ been-doing.tk
 been-laid.tk
 been-placed.tk
 been-said.tk
+been-set-back.tk
 before-either.tk
 beforephone.tk
 beginning-from.tk
@@ -1110,6 +1110,7 @@ black-girl-who.tk
 black-grassless.tk
 blood-colored-after.tk
 bloodand-thunderers.tk
+book-bound.tk
 bornin-pain.tk
 bowieknives.tk
 boy-left.tk
