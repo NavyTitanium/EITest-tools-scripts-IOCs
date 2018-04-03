@@ -1,7 +1,6 @@
-# last updated on: 2018-04-03 11:30:02 UTC 
+# last updated on: 2018-04-03 12:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
-00guesystem.tk
 00huensystem.tk
 00huepocontact.tk
 00ijeposystem.tk
@@ -593,7 +592,6 @@
 65sxascallingnow.tk
 65tnflcallingnow.tk
 66bhfycallingnow.tk
-66dhurgivearing.tk
 66jkphone.tk
 68yurbhdcallingnow.tk
 69uitbcallingnow.tk
@@ -1276,6 +1274,7 @@ for-sibyl.tk
 for-thefirst.tk
 for-thethings.tk
 foralong.tk
+forcethedoor.tk
 forgetall.tk
 forgive-you.tk
 forgotten-them.tk
@@ -1947,6 +1946,7 @@ supaninteresting.tk
 suppatonce.tk
 sweepand.tk
 table-for-supper.tk
+tableunder.tk
 talk-impudent.tk
 talk-likethat.tk
 taught-me.tk
