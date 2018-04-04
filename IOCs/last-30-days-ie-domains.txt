@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 13:30:01 UTC 
+# last updated on: 2018-04-04 14:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -5056,6 +5056,7 @@ walkedacross.tk
 walkedover.tk
 walkedup.tk
 walkingacross.tk
+wan-mirrors.tk
 want-and-stay.tk
 want-tobecome.tk
 want-tobenefit.tk
@@ -5224,6 +5225,7 @@ wholooks.tk
 whopassed.tk
 whose-origin-now.tk
 whosememory.tk
+whoseresult.tk
 whosesudden.tk
 whostood.tk
 whowouldnow.tk

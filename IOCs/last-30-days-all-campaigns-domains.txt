@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 13:30:01 UTC 
+# last updated on: 2018-04-04 14:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -233,7 +233,6 @@
 2huepcallfast.tk
 2huhhcallfast.tk
 2hunbcalls.tk
-2hurlcalls.tk
 2ioekj2calls.tk
 2iohuycalls.tk
 2iohytcalls.tk
@@ -2097,6 +2096,7 @@ waketheir.tk
 walkedacross.tk
 walkedover.tk
 walkedup.tk
+wan-mirrors.tk
 wantabreath.tk
 wantit-supp.tk
 wantof-suggestions.tk
@@ -2171,6 +2171,7 @@ wholeworld-su.tk
 whopassed.tk
 whose-origin-now.tk
 whosememory.tk
+whoseresult.tk
 whostood.tk
 whowouldnow.tk
 why-do-you-ask.tk
