@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 01:30:01 UTC 
+# last updated on: 2018-04-04 02:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1122,7 +1122,6 @@ couldarrive.tk
 couldever.tk
 country-of9-north.tk
 county-felt.tk
-course-ihave.tk
 cracked-piano.tk
 create-a.tk
 creaturewith.tk
@@ -1153,6 +1152,7 @@ dimlyconscious.tk
 dimpink.tk
 do-you-object.tk
 docome-in.tk
+doctorlifted.tk
 doesnt-really.tk
 doinghis.tk
 dominant-characteristic.tk
@@ -1530,6 +1530,7 @@ livetheking.tk
 loath-torelinquish.tk
 long-fringed.tk
 longestday.tk
+looked-back.tk
 looking-rather.tk
 lookingateach.tk
 losing-myway.tk
@@ -1986,7 +1987,6 @@ thenyoucan.tk
 theoccasional.tk
 thequeenused.tk
 there-is-no.tk
-there-is-nothing.tk
 there-is-peril.tk
 there-were-sounds.tk
 therecipe.tk
