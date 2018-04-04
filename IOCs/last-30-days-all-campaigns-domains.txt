@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 08:00:01 UTC 
+# last updated on: 2018-04-04 08:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1325,7 +1325,6 @@ hard-lines.tk
 harryspends.tk
 has-not-been.tk
 has-seared.tk
-has-suggested.tk
 hated-kelso.tk
 hatethefinest.tk
 hauntsus.tk
