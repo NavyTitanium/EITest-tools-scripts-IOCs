@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 00:30:02 UTC 
+# last updated on: 2018-04-04 01:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1155,6 +1155,7 @@ do-you-object.tk
 docome-in.tk
 doesnt-really.tk
 doinghis.tk
+dominant-characteristic.tk
 done-all-that.tk
 dont-know.tk
 doorway-of-the.tk
@@ -1162,7 +1163,6 @@ doubtall-that-bothers.tk
 down-he.tk
 down-their-noses.tk
 downstairshe.tk
-draw-from.tk
 dreadful-but.tk
 dress-clothes.tk
 drink-something.tk
@@ -1593,6 +1593,7 @@ musicalwords.tk
 musicof-their.tk
 mustintroduce.tk
 mutilationof.tk
+myblankets.tk
 mygiordanobruno.tk
 mygodharry.tk
 myportraitin.tk
@@ -1934,7 +1935,6 @@ that-hallward.tk
 that-happiness.tk
 that-hehad.tk
 that-hewas.tk
-that-his-beauty.tk
 that-matter.tk
 that-nearly.tk
 that-strange.tk
