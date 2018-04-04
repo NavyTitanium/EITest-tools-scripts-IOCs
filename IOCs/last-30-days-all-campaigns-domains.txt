@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 09:30:01 UTC 
+# last updated on: 2018-04-04 10:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -978,6 +978,7 @@ apricot-coloured.tk
 aquarterof.tk
 areborrowed.tk
 arefriends.tk
+arerestored-to.tk
 arestirred.tk
 aresuch.tk
 arm-chair.tk
@@ -1538,7 +1539,6 @@ madestaccato.tk
 makepsychology.tk
 makingelaborate.tk
 maladiesof.tk
-mannerinart.tk
 manytimes.tk
 mar-them.tk
 marvellous-bold.tk
@@ -1817,6 +1817,7 @@ seemed-to-supp.tk
 seen-there.tk
 seenusin-quite.tk
 self-development-mine.tk
+self-torture.tk
 sense-of-his.tk
 senseof-delight.tk
 sent-home.tk

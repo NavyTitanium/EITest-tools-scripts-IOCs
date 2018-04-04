@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 09:30:01 UTC 
+# last updated on: 2018-04-04 10:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1984,6 +1984,7 @@ arentthere.tk
 arepeople.tk
 arepublishing.tk
 arerecovered.tk
+arerestored-to.tk
 areshorter.tk
 aresmall.tk
 aresomuch.tk
@@ -4289,6 +4290,7 @@ seenusin-quite.tk
 seethat.tk
 seethings.tk
 self-development-mine.tk
+self-torture.tk
 sensationof.tk
 sense-of-his.tk
 senseof-delight.tk
