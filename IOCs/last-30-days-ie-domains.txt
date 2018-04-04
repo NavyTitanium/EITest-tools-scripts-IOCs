@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 11:30:01 UTC 
+# last updated on: 2018-04-04 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2403,6 +2403,7 @@ dainty-armour.tk
 dare-say.tk
 dashof.tk
 daughterhead.tk
+dawn-remaking.tk
 daxa1callcenter.tk
 day-ilearn.tk
 day-of-june.tk
@@ -5219,6 +5220,7 @@ wholeworld-now.tk
 wholeworld-su.tk
 wholooks.tk
 whopassed.tk
+whose-origin-now.tk
 whosememory.tk
 whosesudden.tk
 whostood.tk
