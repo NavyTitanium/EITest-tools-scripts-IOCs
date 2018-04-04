@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 21:00:01 UTC 
+# last updated on: 2018-04-04 21:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -864,6 +864,7 @@ act-therewas.tk
 actorof.tk
 adoresimple.tk
 adreamof.tk
+afraid-toread.tk
 afterabout.tk
 afteratime.tk
 afterimetyou.tk
@@ -1042,6 +1043,7 @@ bewrinkled.tk
 big-planterand.tk
 bismuth-whitened.tk
 biting-the.tk
+black-fantastic.tk
 black-girl-who.tk
 black-grassless.tk
 blank-space.tk
@@ -1182,7 +1184,6 @@ eve-and-powdered.tk
 eventhecompanion.tk
 everbore.tk
 everdivergedand.tk
-everybodyhas.tk
 everydream.tk
 everyonehad-his.tk
 everyonehadideas.tk
@@ -1468,7 +1469,6 @@ ithinkof.tk
 itmaybe.tk
 its-monstrous.tk
 its-suggestion.tk
-itsown-view.tk
 iwas-there.tk
 iwent-out.tk
 iwishi.tk
@@ -1998,7 +1998,6 @@ thetwocall.tk
 thetwomen.tk
 thetyranny.tk
 thetyrannysupp.tk
-theworld-new.tk
 they-appear.tk
 they-entered.tk
 theyhad.tk
