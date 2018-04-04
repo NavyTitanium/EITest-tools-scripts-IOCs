@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 21:30:02 UTC 
+# last updated on: 2018-04-04 22:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2514,6 +2514,7 @@ dress-ofthought.tk
 drink-something.tk
 drivingacar.tk
 drovemeaway.tk
+dumb-shadows.tk
 during-which.tk
 dust-in3-droughts.tk
 dustygreenroom.tk
@@ -4970,6 +4971,7 @@ tomyteachers.tk
 tongue-but.tk
 too-large.tk
 took-metoturkey.tk
+toooften.tk
 toovulgar.tk
 toowonderful.tk
 topayfora.tk
