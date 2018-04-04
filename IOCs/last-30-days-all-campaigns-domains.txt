@@ -1,4 +1,4 @@
-# last updated on: 2018-04-04 00:00:01 UTC 
+# last updated on: 2018-04-04 00:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1156,7 +1156,6 @@ docome-in.tk
 doesnt-really.tk
 doinghis.tk
 done-all-that.tk
-done-of-him.tk
 dont-know.tk
 doorway-of-the.tk
 doubtall-that-bothers.tk
@@ -1255,7 +1254,6 @@ francisco.tk
 freshimpulse.tk
 friendasyou.tk
 friendshipis.tk
-from-him.tk
 from-me-and.tk
 from-strength.tk
 from-thediplomatic.tk
