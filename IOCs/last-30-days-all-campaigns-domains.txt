@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 03:30:01 UTC 
+# last updated on: 2018-04-05 04:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1371,6 +1371,7 @@ his-feet.tk
 his-fingers.tk
 his-hand.tk
 his-head.tk
+his-horsewas.tk
 his-nature.tk
 his-personality.tk
 his-servant.tk
@@ -1733,7 +1734,6 @@ plainand-tame.tk
 plastic-form.tk
 playbegan.tk
 pleasant9-land.tk
-pleasure-and.tk
 plowed-ina-million.tk
 political-speaking.tk
 preceding-winter.tk
@@ -1947,6 +1947,7 @@ theatrewith.tk
 thebell.tk
 thebook-cases.tk
 theboyleft.tk
+thecornersof.tk
 thedescription.tk
 thedoorway.tk
 thedrop-scene.tk
