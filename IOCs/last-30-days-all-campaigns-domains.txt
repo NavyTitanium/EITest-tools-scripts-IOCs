@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 19:30:01 UTC 
+# last updated on: 2018-04-05 20:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -828,6 +828,7 @@ abletogive.tk
 about-half-past.tk
 abouton.tk
 aboutpetrified.tk
+absolutely-absorbed.tk
 absolutelynothing.tk
 absurd-little.tk
 absurd-that.tk
@@ -1031,6 +1032,7 @@ bravest-man.tk
 breakfast-lunch.tk
 broodover.tk
 brushon.tk
+burden-that.tk
 burying-her-face.tk
 but-canvas.tk
 but-had-retired.tk
@@ -1678,7 +1680,6 @@ painting-table.tk
 panegyricon.tk
 parisapost.tk
 part-that.tk
-part-with.tk
 parted-lips.tk
 partedin.tk
 passed-by.tk
