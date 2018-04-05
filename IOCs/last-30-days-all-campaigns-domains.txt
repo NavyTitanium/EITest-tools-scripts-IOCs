@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 11:30:01 UTC 
+# last updated on: 2018-04-05 12:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1403,6 +1403,7 @@ impression-that.tk
 in-4lifehe.tk
 in-by-apage.tk
 in-consequence.tk
+in-fronto-f.tk
 in-his-low.tk
 in-long.tk
 in-myveins.tk
@@ -1412,7 +1413,6 @@ in-the-autumn.tk
 in-themost.tk
 in-thepicture.tk
 in-thepicturemine.tk
-in-theplain.tk
 in-thesoul.tk
 in-thestudio.tk
 in-wonder.tk
@@ -1479,7 +1479,6 @@ less-than-new.tk
 letter-that.tk
 lieutenant-then.tk
 life-inaway.tk
-life-isaw.tk
 lifted-his.tk
 lightofa.tk
 likethat-before.tk
@@ -1676,7 +1675,6 @@ oval-stellated.tk
 over-thepages.tk
 over-tothe.tk
 over-towards.tk
-over-twenty.tk
 own-boldness.tk
 own-portrait.tk
 own-soul.tk
@@ -2165,6 +2163,7 @@ will-mock.tk
 will-not-letit.tk
 willobject-to.tk
 wincedand.tk
+wind-coming.tk
 wired-flower.tk
 with-longing.tk
 with-pallid.tk
