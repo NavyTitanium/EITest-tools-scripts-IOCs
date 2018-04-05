@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 14:30:02 UTC 
+# last updated on: 2018-04-05 15:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2642,6 +2642,7 @@ family-of-four.tk
 fanciful-whorls.tk
 fantastic-plans.tk
 fascinating-things.tk
+fascinationof-sin.tk
 fashionableto.tk
 fashionor.tk
 fatherand.tk
@@ -2956,6 +2957,7 @@ hbrightest.tk
 he-always.tk
 he-i-easy.tk
 he-invaded.tk
+he-investigated.tk
 he-is-quite.tk
 he-isalways.tk
 he-isasurgeon.tk
