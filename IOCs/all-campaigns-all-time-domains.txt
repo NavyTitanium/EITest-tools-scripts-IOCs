@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 21:30:01 UTC 
+# last updated on: 2018-04-05 22:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2980,6 +2980,7 @@ heart-thatone.bid
 hebecomes.tk
 hebrew-who.tk
 heconsidered.tk
+hecould-not.tk
 hecried-new.tk
 hecried.tk
 hectic-spots.tk
@@ -3193,6 +3194,7 @@ in-general.tk
 in-good.tk
 in-helpingyou.bid
 in-his-low.tk
+in-his-memoires.tk
 in-hollywood.tk
 in-long.tk
 in-my-opinion.tk
