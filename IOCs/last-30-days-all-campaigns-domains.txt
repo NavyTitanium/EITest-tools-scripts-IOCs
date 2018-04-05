@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 13:30:01 UTC 
+# last updated on: 2018-04-05 14:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -867,8 +867,6 @@ allow-people.tk
 allthishe.tk
 almanhukuku.ozyegin.edu.tr
 almost-modern.tk
-always-looked.tk
-always-missed.tk
 always-remain-so.tk
 always-what.tk
 alwaysaglass.tk
@@ -1416,6 +1414,7 @@ in-thesoul.tk
 in-thestudio.tk
 in-wonder.tk
 inalabyrinth.tk
+individualism-that.tk
 infinitelymore.tk
 inoffice.tk
 interested-he.tk
@@ -1522,7 +1521,6 @@ meaningof.tk
 mebefore.tk
 mediaevalism.tk
 memonth.tk
-merelyvisible.tk
 mesimply.tk
 mesomeday.tk
 method-was.tk
@@ -1568,6 +1566,7 @@ mypropertycall.tk
 myselfa.tk
 myselfiknow.tk
 mystery-also.tk
+nationsof.tk
 natureperfectly.tk
 naturequiver.tk
 neverexhibit.tk
