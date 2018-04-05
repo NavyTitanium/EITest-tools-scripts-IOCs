@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 18:30:01 UTC 
+# last updated on: 2018-04-05 19:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -407,7 +407,6 @@
 4huebvhelp.tk
 4huen4callup.tk
 4huendcallup.tk
-4hurgicallup.tk
 4hurnjf4callup.tk
 4ibhrhelp.tk
 4ikfijk45help.tk
@@ -508,7 +507,6 @@
 5jiemhelper.tk
 5jievhelper.tk
 5jigetonthehorn.tk
-5jinncalling.tk
 5jirncalling.tk
 5jivas5helper.tk
 5jonomhelper.tk
@@ -1277,6 +1275,7 @@ had-spent.tk
 had-such.tk
 had-theiradherents.tk
 had-to-assure.tk
+had-tobear.tk
 haddrawn.tk
 hadevenin.tk
 hadodo.tk
@@ -1432,7 +1431,6 @@ isone-of.tk
 it-has-forbidden.tk
 it-seemed.tk
 itforamoment.tk
-ithinkof.tk
 itmaybe.tk
 its-monstrous.tk
 its-suggestion.tk
@@ -1599,6 +1597,7 @@ now-wasalways.tk
 nowand-passion.tk
 nowengagement.tk
 nowfoodis.tk
+of-becoming.tk
 of-candour.tk
 of-characte.tk
 of-chirruping.tk

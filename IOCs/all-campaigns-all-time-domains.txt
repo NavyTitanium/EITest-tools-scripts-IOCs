@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 18:30:01 UTC 
+# last updated on: 2018-04-05 19:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2894,6 +2894,7 @@ had-spent.tk
 had-such.tk
 had-theiradherents.tk
 had-to-assure.tk
+had-tobear.tk
 hadascholarly.tk
 hadat-least.tk
 haddrawn.tk
@@ -3877,6 +3878,7 @@ occupation-following.tk
 of-a-century.tk
 of-all-pleasures.tk
 of-allpleasures.tk
+of-becoming.tk
 of-candour.tk
 of-characte.tk
 of-chirruping.tk
