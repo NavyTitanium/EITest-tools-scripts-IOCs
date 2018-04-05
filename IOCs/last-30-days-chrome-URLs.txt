@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 15:00:01 UTC 
+# last updated on: 2018-04-05 15:30:02 UTC 
 http://almanhukuku.ozyegin.edu.tr/indexaa.php
 http://byod.mcclellandcollege.vic.edu.au/indexi.php
 http://elearning.lamission.edu/indexi.php
@@ -10,7 +10,6 @@ http://iaems.edu.eg/page2.php
 http://www.galachipacollege.edu.bd/indexaa.php
 http://www.lamission.edu/indexi.php
 http://www.lamission.edu/page2.php
-http://www.sitet.edu.bd/indexa.php
 http://www.sitet.edu.bd/indexaa.php
 http://www.umes.edu.gt/indexaa.php
 http://www.umes.edu.gt/indexi.php
