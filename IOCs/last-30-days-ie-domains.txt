@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 16:30:02 UTC 
+# last updated on: 2018-04-05 17:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -369,6 +369,7 @@
 1stafailure.tk
 1stahotel.tk
 1stalfred-thegreat.tk
+1stand-he-always.tk
 1stand-when.tk
 1stand-wizen.tk
 1stanytime.tk
@@ -2037,6 +2038,7 @@ at-present.tk
 at-the-end.tk
 at-theball.tk
 at-thehospital.tk
+at-themisshapen.tk
 at-thesame.tk
 at-thesudden.tk
 at-thetime.tk
