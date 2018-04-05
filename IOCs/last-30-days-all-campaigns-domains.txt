@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 10:30:01 UTC 
+# last updated on: 2018-04-05 11:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -645,7 +645,6 @@
 7feotelephone.tk
 7fetacallnow.tk
 7ftwpcallnow.tk
-7gaqtelephone.tk
 7gyevcallnow.tk
 7gygiveacall.tk
 7gywbvcallnow.tk
@@ -1343,6 +1342,7 @@ hewas-sup.tk
 hewas-too.tk
 hewas-walking.tk
 hewatched.tk
+hewould-sit.tk
 hewrotehis.tk
 hidden-from.tk
 hideous-fires.tk
@@ -1817,6 +1817,7 @@ should-not.tk
 shrill-voice.tk
 sibyl-that.tk
 siegeto.tk
+sighand-sob.tk
 signs-for.tk
 silentamusement.tk
 simplepleasures.tk
