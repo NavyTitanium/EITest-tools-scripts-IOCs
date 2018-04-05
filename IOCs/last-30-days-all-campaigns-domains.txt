@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 08:30:02 UTC 
+# last updated on: 2018-04-05 09:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -181,7 +181,6 @@
 1upitcall.tk
 1wtvbcallcenter.tk
 1yuenjcall.tk
-1yutgetbackto.tk
 1yuvgcallcenter.tk
 1yuwhcall.tk
 1yuwjcallcenter.tk
@@ -1257,6 +1256,7 @@ gleaming-nbrightness.tk
 glides-through.tk
 globe0of.tk
 go-in-for.tk
+going-forth.tk
 going-to-end.tk
 going-tocollect.tk
 golden-head.tk
@@ -1341,6 +1341,7 @@ heseems.tk
 hesulks.tk
 hetorehis.tk
 hewalked.tk
+hewas-driven.tk
 hewas-fully.tk
 hewas-sup.tk
 hewas-too.tk
@@ -2013,7 +2014,6 @@ tohis-hand.tk
 toknow-sup.tk
 tolerantlymy.tk
 tolive-in.tk
-tome-an.tk
 tomelittle.tk
 tomostof.tk
 toooften.tk
