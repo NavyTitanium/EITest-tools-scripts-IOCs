@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 00:30:02 UTC 
+# last updated on: 2018-04-05 01:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -5069,6 +5069,7 @@ understands-me.tk
 unionofspirit.tk
 universe-andhuman.tk
 unnamed-though.tk
+unreal-shadows.tk
 unreliable-and.tk
 unthoughtof.tk
 until-golden.tk
@@ -5254,6 +5255,7 @@ whativeforgotten.tk
 whatsoever-to.tk
 whatyoucan.tk
 whatyouhave.tk
+when-theduke.tk
 when-they.tk
 when-things.tk
 when-thought.tk

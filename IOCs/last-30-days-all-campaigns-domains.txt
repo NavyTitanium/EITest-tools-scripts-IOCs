@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 00:30:02 UTC 
+# last updated on: 2018-04-05 01:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1771,7 +1771,6 @@ rattle-of-cups.tk
 rattle-of-silver.tk
 realityto.tk
 reallymind.tk
-recipe-of.tk
 recognized-himself.tk
 remembered-sup.tk
 rememberingabook.tk
@@ -1966,7 +1965,6 @@ thegreen-now.tk
 thehall-table.tk
 theirideas.tk
 theirparents.tk
-thelife-of.tk
 them-for-being.tk
 them-tocome.tk
 themoment-now.tk
@@ -2074,6 +2072,7 @@ understand-me-now.tk
 understand-what.tk
 unionofspirit.tk
 unnamed-though.tk
+unreal-shadows.tk
 unthoughtof.tk
 up-anddown.tk
 upfrom.tk
@@ -2142,6 +2141,7 @@ wereleaving.tk
 what-tofollow.tk
 whatenmity.tk
 whatever-they.tk
+when-theduke.tk
 when-things.tk
 when-thought.tk
 when-we-calling.tk
