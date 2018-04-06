@@ -1,4 +1,4 @@
-# last updated on: 2018-04-06 22:30:01 UTC 
+# last updated on: 2018-04-06 23:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -550,7 +550,6 @@
 6huevbcallingnow.tk
 6huevcallingnow.tk
 6hupone.tk
-6huuubcallingnow.tk
 6iorkiphone.tk
 6jiccalling.tk
 6jiciphone.tk
@@ -1314,6 +1313,7 @@ his-hand.tk
 his-head.tk
 his-horsewas.tk
 his-nature.tk
+his-rounds.tk
 his-strange.tk
 his-subtle.tk
 his-sudden.tk
@@ -2049,6 +2049,7 @@ werebeads.tk
 wereboth.tk
 werebrought.tk
 wereleaving.tk
+what-had-this.tk
 what-tofollow.tk
 whatenmity.tk
 whatever-hetook.tk
