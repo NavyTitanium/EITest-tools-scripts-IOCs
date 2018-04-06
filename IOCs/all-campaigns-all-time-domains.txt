@@ -1,4 +1,4 @@
-# last updated on: 2018-04-06 11:30:01 UTC 
+# last updated on: 2018-04-06 12:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -1968,6 +1968,7 @@ anyscientific.tk
 anythingyounow.tk
 apackof.tk
 apartmentits.tk
+apartof-his.tk
 aphrase.tk
 approachand.tk
 apricot-coloured.tk
@@ -3027,6 +3028,7 @@ her-for.tk
 her-future.tk
 her-happiness.tk
 her-own.tk
+her-right.tk
 her-vmammy.tk
 herabout.tk
 here-in-2north.tk
