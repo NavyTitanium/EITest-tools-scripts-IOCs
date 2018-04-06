@@ -1,4 +1,4 @@
-# last updated on: 2018-04-05 23:30:01 UTC 
+# last updated on: 2018-04-06 00:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -881,6 +881,7 @@ and-frowning.tk
 and-grow-sad.tk
 and-had.tk
 and-horrible.tk
+and-king-james.tk
 and-older-2sections.tk
 and-perfect.tk
 and-poured.tk
@@ -1486,6 +1487,7 @@ loaded-with-gold.tk
 loath-torelinquish.tk
 long-fringed.tk
 longestday.tk
+longoutof.tk
 looked-back.tk
 looking-rather.tk
 lookingateach.tk
@@ -1596,7 +1598,6 @@ now-there-is-nothing.tk
 now-wasalways.tk
 nowand-passion.tk
 nowengagement.tk
-nowfoodis.tk
 of-becoming.tk
 of-candour.tk
 of-characte.tk
@@ -1825,7 +1826,6 @@ somenaughty.tk
 something-finer.tk
 something-seems.tk
 somethingiced.tk
-sometimesupp.tk
 sonofalexander.tk
 sortof-life.tk
 sortof-lives.tk
