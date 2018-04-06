@@ -1,4 +1,4 @@
-# last updated on: 2018-04-06 14:30:02 UTC 
+# last updated on: 2018-04-06 15:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -942,7 +942,6 @@ askprices.bid
 asothers.tk
 at-dinner.tk
 at-himas.tk
-at-least.tk
 at-theball.tk
 at-themisshapen.tk
 at-thesudden.tk
@@ -1338,6 +1337,7 @@ his-sulky.tk
 his-valet.tk
 his-words.tk
 his-work.tk
+hisabsence.tk
 hisevenings.tk
 hiseyes-new.tk
 hiseyes-supp.tk
@@ -1360,7 +1360,6 @@ howexquisite.tk
 howiworship.tk
 howsick.tk
 hugebrushes.tk
-hugefeet.tk
 hurrytakeoff.tk
 i-am-growing.tk
 iaems.edu.eg
@@ -2126,6 +2125,7 @@ with-relief.tk
 with-silk.tk
 with-strawberries.tk
 withamad.tk
+withapuzzled.tk
 witharipple.tk
 withits-lines.tk
 withoutfighting.tk
