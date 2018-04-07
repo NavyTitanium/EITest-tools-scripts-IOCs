@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 12:00:01 UTC 
+# last updated on: 2018-04-07 12:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -271,7 +271,6 @@
 33hurcalltohelp.tk
 33jibvcalltohelp.tk
 33saqwcalltohelp.tk
-356hurbcalltohelp.tk
 358uiebcallus.tk
 35deyugetontheline.tk
 35hudacalltohelp.tk
@@ -1877,7 +1876,6 @@ there-is-peril.tk
 there-were-sounds.tk
 therewould.tk
 theroomand.tk
-these-are-supp.tk
 thestillness.tk
 thesubject-supp.tk
 thethief.tk
