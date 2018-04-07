@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 09:00:02 UTC 
+# last updated on: 2018-04-07 09:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -938,7 +938,6 @@ beathotand.tk
 beautiful-soul.tk
 beautybeing.tk
 beautywas.tk
-becauseto.tk
 bedforthree.tk
 been-doing.tk
 been-laid.tk
@@ -1070,7 +1069,6 @@ doctorlifted.tk
 doesnt-really.tk
 doinghis.tk
 dominant-characteristic.tk
-dont-know.tk
 doorway-of-the.tk
 doubtall-that-bothers.tk
 down-he.tk
@@ -2007,6 +2005,7 @@ was-nothingnow.tk
 was-premature-now.tk
 was-sitting-now.tk
 was-speaking.tk
+was-standing-supp.tk
 was-thebody.tk
 wasaheroto.tk
 wasalways.tk
