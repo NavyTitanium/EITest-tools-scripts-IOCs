@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 00:30:01 UTC 
+# last updated on: 2018-04-07 01:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -8,7 +8,6 @@
 00kornsystem.tk
 00oinjbuzz.tk
 00qoicalltoday.tk
-00qweencalltoday.tk
 00rutsystem.tk
 00wekjcalltoday.tk
 0123uyebuzz.tk
@@ -941,6 +940,7 @@ basil-let.tk
 be-acaprice.tk
 be-alwaysyoung.tk
 be-older.tk
+beamof-his.tk
 beathotand.tk
 beautiful-soul.tk
 beautybeing.tk
@@ -1260,7 +1260,6 @@ have-asked.tk
 have-it-basil.tk
 havemademe.tk
 havesuch.tk
-havetotalk.tk
 he-investigated.tk
 he-openedit.tk
 hearour-laughter.tk
@@ -1879,6 +1878,7 @@ thegravel.tk
 thehall-table.tk
 theher-times.tk
 theirparents.tk
+theloverof.tk
 them-for-being.tk
 them-tocome.tk
 themoment-now.tk
