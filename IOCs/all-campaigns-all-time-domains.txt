@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 05:30:02 UTC 
+# last updated on: 2018-04-07 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -4871,6 +4871,7 @@ then-boil.tk
 then-stepped.tk
 then-swayed.tk
 then-they.tk
+then-vanished.tk
 thenachild.tk
 thenearest.tk
 theniceties-of.tk
@@ -5257,6 +5258,7 @@ was-five.tk
 was-gathering.tk
 was-haunted-by.tk
 was-less-trouble.tk
+was-lighting.tk
 was-myhusband.tk
 was-mymotive.tk
 was-nomotive.tk

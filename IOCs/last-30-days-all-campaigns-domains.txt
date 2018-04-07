@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 05:30:02 UTC 
+# last updated on: 2018-04-07 06:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1280,7 +1280,6 @@ her-right.tk
 her-vmammy.tk
 here-in-2north.tk
 hesawit.tk
-hesulks.tk
 hetorehis.tk
 hewalked.tk
 hewas-driven.tk
@@ -1536,7 +1535,6 @@ now-first-time.tk
 now-hemurmured.tk
 now-hiseyes.tk
 now-tellyou.tk
-now-that.tk
 now-there-is-nothing.tk
 now-wasalways.tk
 nowand-passion.tk
@@ -1876,6 +1874,7 @@ them-tocome.tk
 themoment-now.tk
 then-stepped.tk
 then-swayed.tk
+then-vanished.tk
 thenachild.tk
 theniceties-of.tk
 thenit-began.tk
@@ -2007,6 +2006,7 @@ was-fearand.tk
 was-gathering.tk
 was-haunted-by.tk
 was-less-trouble.tk
+was-lighting.tk
 was-myhusband.tk
 was-nomotive.tk
 was-nothingnow.tk
