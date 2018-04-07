@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 22:30:01 UTC 
+# last updated on: 2018-04-07 23:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3068,6 +3068,7 @@ herabout.tk
 here-in-2north.tk
 hereditarymember.tk
 hereditarypeers.tk
+heremembered-now.tk
 hesaw-that.tk
 hesawit.tk
 heseems.tk
@@ -5231,6 +5232,7 @@ useful-thing.tk
 usefulas.tk
 users-looked.tk
 usoccupied.tk
+usual-care.tk
 usuallyhave.tk
 valet-butler.tk
 valois-byclovis.tk
