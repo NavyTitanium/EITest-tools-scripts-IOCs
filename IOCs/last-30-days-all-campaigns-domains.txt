@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 06:30:01 UTC 
+# last updated on: 2018-04-07 07:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1232,6 +1232,7 @@ haddrawn.tk
 hadevenin.tk
 hadnot-been.tk
 hadodo.tk
+half-burned.tk
 half-pasteight.tk
 hallward-shook.tk
 hallwardpainted.tk
@@ -1724,6 +1725,7 @@ shall-come.tk
 shall-grow.tk
 shall-nevercall.tk
 shall-stay.tk
+shawl-was.tk
 she-always.tk
 she-even-told.tk
 she-went-4back.tk
@@ -1995,7 +1997,6 @@ wan-mirrors.tk
 wantabreath.tk
 wantit-supp.tk
 wantof-suggestions.tk
-wantyouto.tk
 was-destined.tk
 was-dimly.tk
 was-dominated.tk

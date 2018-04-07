@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 06:30:01 UTC 
+# last updated on: 2018-04-07 07:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2928,6 +2928,7 @@ haddrawn.tk
 hadevenin.tk
 hadnot-been.tk
 hadodo.tk
+half-burned.tk
 half-pasteight.tk
 hallward-shook.tk
 hallwardpainted.tk
@@ -4450,6 +4451,7 @@ shall-not.tk
 shall-stay.tk
 shared-by.tk
 sharp-teeth.tk
+shawl-was.tk
 she-always.tk
 she-even-told.tk
 she-is-greatly.tk
