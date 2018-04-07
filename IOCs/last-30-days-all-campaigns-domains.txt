@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 14:00:01 UTC 
+# last updated on: 2018-04-07 14:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -160,6 +160,7 @@
 1stinart.tk
 1stof-theportrait.tk
 1ston-themantelshelf.tk
+1stwent-back.tk
 1tyvpickup.tk
 1tyyrtcall.tk
 1uiejhcall.tk
@@ -543,7 +544,6 @@
 6jienbcallingnow.tk
 6jinocallingnow.tk
 6jirkjphone.tk
-6jirkoephone.tk
 6jirnj65phone.tk
 6jirtelephone.tk
 6joboncallingnow.tk
@@ -1386,7 +1386,6 @@ joycame.tk
 joys-seem.tk
 just-looks-to.tk
 just-touch.tk
-just-turn.tk
 justainot-rich.tk
 justasmany.tk
 justmurmur.tk
