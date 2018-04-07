@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 17:30:01 UTC 
+# last updated on: 2018-04-07 18:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -4015,6 +4015,7 @@ one-area.tk
 one-arm-chair.tk
 one-in-four.tk
 one-is-dealing.tk
+one-itself.tk
 one-lifelong-love.tk
 one-of-the-now.tk
 one-of-them.tk
@@ -4652,6 +4653,7 @@ surrendered.tk
 surveyshowed.tk
 sweatingthough.tk
 sweepand.tk
+sweptacross.tk
 symboldo.tk
 table-for-supper.tk
 tableunder.tk
