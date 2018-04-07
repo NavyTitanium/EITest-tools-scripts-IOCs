@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 10:30:02 UTC 
+# last updated on: 2018-04-07 11:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -130,7 +130,6 @@
 1okijbncall.tk
 1okkocallcenter.tk
 1okloucallcenter.tk
-1okocall.tk
 1okoipickup.tk
 1okolocallcenter.tk
 1olkocall.tk
@@ -1277,6 +1276,7 @@ her-own.tk
 her-right.tk
 her-vmammy.tk
 here-in-2north.tk
+hesaw-that.tk
 hesawit.tk
 hetorehis.tk
 hewalked.tk
@@ -1722,6 +1722,7 @@ shawl-was.tk
 she-always.tk
 she-even-told.tk
 she-went-4back.tk
+shestopped.tk
 shewent.tk
 shewentmy.tk
 shooteachother.tk
@@ -1765,7 +1766,6 @@ sonofalexander.tk
 sortof-life.tk
 sortof-lives.tk
 sortof-way.tk
-sotedious.tk
 sothelad.tk
 soul-for-that.tk
 soundof-men.tk
