@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 14:30:01 UTC 
+# last updated on: 2018-04-07 15:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2337,6 +2337,7 @@ clear-logical.tk
 clear-tohim.tk
 click-of-2china.tk
 closerelatives.tk
+closingthe.tk
 cloud-shadows.tk
 cluband-wrote.tk
 clutching-the.tk
@@ -4355,6 +4356,7 @@ s0mething-5eemed.tk
 said-good-bye.tk
 said-quite.tk
 said-sadly.tk
+said-something.tk
 said-with.tk
 same-about.tk
 sat-besideme.tk
