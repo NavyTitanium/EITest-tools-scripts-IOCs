@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 20:30:01 UTC 
+# last updated on: 2018-04-07 21:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -263,7 +263,6 @@
 32kovcallus.tk
 32okhggetontheline.tk
 32yuwvccallus.tk
-33hurcalltohelp.tk
 33jibvcalltohelp.tk
 33saqwcalltohelp.tk
 358uiebcallus.tk
@@ -711,7 +710,6 @@
 98huwpqqcalltodaz.tk
 98uiebhcontact.tk
 996jicontact.tk
-99bhepcalltodaz.tk
 9bndkjacontact.tk
 9ertcontact.tk
 9evecalltodaz.tk
@@ -805,6 +803,7 @@ and-beside.tk
 and-caught.tk
 and-colour.tk
 and-conscious.tk
+and-dressed.tk
 and-foundit.tk
 and-framed.tk
 and-frowning.tk
@@ -1115,6 +1114,7 @@ flashedacross.tk
 flashing-thelong.tk
 flemish-tapestry.tk
 flewaway.tk
+flickeredand-became.tk
 flinging-himself.tk
 flower-seemed.tk
 flowermight.tk
