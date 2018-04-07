@@ -1,4 +1,4 @@
-# last updated on: 2018-04-07 18:00:01 UTC 
+# last updated on: 2018-04-07 18:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -26,7 +26,6 @@
 0asniezcalltoday.tk
 0brandedyour.tk
 0busfacalltoday.tk
-0daqcalltoday.tk
 0daucalltoday.tk
 0degertsystem.tk
 0dexycalltoday.tk
@@ -102,7 +101,6 @@
 1jielkcallcenter.tk
 1jienjcall.tk
 1jipokocall.tk
-1jirkgetbackto.tk
 1jirpcallcenter.tk
 1jivgcallcenter.tk
 1jivvcallcenter.tk
@@ -374,7 +372,6 @@
 4ferccallup.tk
 4gyfrhelp.tk
 4gywpcallup.tk
-4huasscallup.tk
 4huebvcallup.tk
 4huebvhelp.tk
 4huen4callup.tk
@@ -1219,6 +1216,7 @@ half-burned.tk
 half-pasteight.tk
 hallward-shook.tk
 hallwardpainted.tk
+handacross-now.tk
 handaway-and.tk
 handsomeface.tk
 handson-her.tk
