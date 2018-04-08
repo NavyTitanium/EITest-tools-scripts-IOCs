@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 04:30:01 UTC 
+# last updated on: 2018-04-08 05:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -4473,6 +4473,7 @@ silent-houses.tk
 silentamusement.tk
 sillyhabit.tk
 silver-and-black.tk
+silverinlaid.tk
 simplepleasures.tk
 simply-enables.tk
 simplycould-not-fal.tk
@@ -4576,6 +4577,7 @@ speciallydesigned.tk
 speechesaboutus.tk
 spend-their.tk
 spendanaverage.tk
+spentalong.tk
 spirit-from.tk
 spoilthechild.tk
 squaresabout.tk
