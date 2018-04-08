@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 17:30:01 UTC 
+# last updated on: 2018-04-08 18:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -786,6 +786,7 @@ and-foundit.tk
 and-framed.tk
 and-frowning.tk
 and-grow-sad.tk
+and-had-taken.tk
 and-horrible.tk
 and-king-james.tk
 and-older-2sections.tk
@@ -1415,7 +1416,6 @@ miss-thepicture.tk
 mock-mehorribly.tk
 mode-of-warning.tk
 modernartsupp.tk
-moment-when.tk
 momordad.tk
 monstrous-forms.tk
 months-beforethe.tk
@@ -1489,6 +1489,7 @@ of-thebeauty.tk
 of-thedescription.tk
 of-thehand.tk
 of-thekind.tk
+of-theletters.tk
 of-time.tk
 of-work-todo.tk
 ofanactive.tk
