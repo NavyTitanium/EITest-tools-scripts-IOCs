@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 20:30:01 UTC 
+# last updated on: 2018-04-08 21:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1006,6 +1006,7 @@ degradation.tk
 delicacythat.tk
 determined-to.tk
 development-supp.tk
+devoted-to.tk
 difference-is.tk
 dimlyconscious.tk
 dimpink.tk
@@ -1280,7 +1281,6 @@ ifahand.tk
 ifeel-that.tk
 ihjycallcenter.tk
 import-make.tk
-impression-that.tk
 in-by-apage.tk
 in-consequence.tk
 in-fronto-f.tk
@@ -1533,6 +1533,7 @@ over-breakfast.tk
 over-thepages.tk
 over-tothe.tk
 over-towards.tk
+overand-then.tk
 own-boldness.tk
 own-portrait.tk
 own-work.tk
@@ -1633,7 +1634,6 @@ search-for-now.tk
 secret-pleasure.tk
 see-anything.tk
 seemed-tocontain.tk
-seen-there.tk
 seenusin-quite.tk
 self-denial-supp.tk
 self-torture.tk
@@ -1685,7 +1685,6 @@ small-farmer.tk
 smallerones.tk
 so-absolute.tk
 sochanged.tk
-socharacteristic.tk
 soft-voice-of.tk
 sohorrid.tk
 solitude-and.tk
