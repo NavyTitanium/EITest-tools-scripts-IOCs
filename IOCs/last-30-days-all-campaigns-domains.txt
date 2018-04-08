@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 11:30:01 UTC 
+# last updated on: 2018-04-08 12:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -747,7 +747,6 @@ acceptone-ofyou.tk
 accompanysome.tk
 acrossthem.tk
 act-therewas.tk
-actorof.tk
 adoresimple.tk
 afraid-toread.tk
 afterabout.tk
@@ -1020,6 +1019,7 @@ doctorlifted.tk
 doesnt-really.tk
 doinghis.tk
 dominant-characteristic.tk
+dominantintellectual.tk
 doorway-of-the.tk
 doubtall-that-bothers.tk
 down-he.tk
@@ -1376,6 +1376,7 @@ liking-forescarlett.tk
 lips-withits.tk
 listless-fingers.tk
 littlepurpose.tk
+liveries-that.tk
 livesand-supp.tk
 livetheking.tk
 loaded-with-gold.tk
@@ -1649,7 +1650,6 @@ screen-had.tk
 search-for-now.tk
 secret-pleasure.tk
 see-anything.tk
-seemed-to-supp.tk
 seemed-tocontain.tk
 seen-there.tk
 seenusin-quite.tk
