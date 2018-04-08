@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 21:00:01 UTC 
+# last updated on: 2018-04-08 21:30:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -800,7 +800,6 @@ and-showed.tk
 and-smiled.tk
 and-sowill.tk
 and-stooping.tk
-and-that-he.tk
 and-thehissing.tk
 and-then-for.tk
 and-thepicture.tk
@@ -888,7 +887,6 @@ been-placed.tk
 been-set-back.tk
 been-studying.tk
 before-either.tk
-beforephone.tk
 began-tosing.tk
 being-consistent.tk
 being-that.tk
@@ -1472,6 +1470,7 @@ nowengagement.tk
 of-becoming.tk
 of-candour.tk
 of-characte.tk
+of-chemistry.tk
 of-coursedorian.tk
 of-high.tk
 of-his-birth.tk
@@ -1862,6 +1861,7 @@ toooften.tk
 toowonderful.tk
 topromise.tk
 toquiver.tk
+tore-up-with.tk
 tories-were.tk
 toscramble.tk
 totheir-work.tk
@@ -2030,7 +2030,6 @@ woman-who-supp.tk
 wondered-how.tk
 wonderful-frame.tk
 wonderfulevening.tk
-words-had.tk
 world-it-was.tk
 world-would.tk
 wormedout.tk
