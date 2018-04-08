@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 19:30:01 UTC 
+# last updated on: 2018-04-08 20:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1208,7 +1208,6 @@ hefelt-that.tk
 hefeltas.tk
 heglanced.tk
 hehad-gained.tk
-hehad-never.tk
 hehad-two.tk
 hehated.tk
 hellenicideal.tk
@@ -1478,6 +1477,7 @@ of-coursedorian.tk
 of-high.tk
 of-his-birth.tk
 of-his-meals.tk
+of-hisyear.tk
 of-joythat.tk
 of-laughter.tk
 of-les-cent.tk
@@ -1646,6 +1646,7 @@ servantsat-selby.tk
 serve-yourth-righ.tk
 service-in.tk
 setitdown.tk
+several-times-now.tk
 shadow-that.tk
 shall-come.tk
 shall-grow.tk
@@ -1943,7 +1944,6 @@ was-thebody.tk
 was-thinking-now.tk
 wasaheroto.tk
 wasalways.tk
-wasamazed.tk
 wasamystery.tk
 wasarather.tk
 wasas-little.tk
