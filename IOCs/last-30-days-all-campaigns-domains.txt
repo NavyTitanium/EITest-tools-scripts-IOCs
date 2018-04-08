@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 15:30:02 UTC 
+# last updated on: 2018-04-08 16:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -1250,7 +1250,6 @@ his-nature.tk
 his-necktie.tk
 his-rounds.tk
 his-strange.tk
-his-subtle.tk
 his-sudden.tk
 his-valet.tk
 his-words.tk
@@ -1470,6 +1469,7 @@ notinfluenced.tk
 nouvelles-bound.tk
 now-face-and.tk
 now-first-time.tk
+now-going-through.tk
 now-hemurmured.tk
 now-hiseyes.tk
 now-there-is-nothing.tk
@@ -1841,6 +1841,7 @@ thosewhose.tk
 throwing-jinto.tk
 tillit-had.tk
 time-also.tk
+timeworking.tk
 tinyblossoms.tk
 tired-looking.tk
 to-ask-me.tk
