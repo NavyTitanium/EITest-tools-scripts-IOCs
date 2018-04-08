@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 05:00:01 UTC 
+# last updated on: 2018-04-08 05:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -850,7 +850,6 @@ areborrowed.tk
 arefriends.tk
 arerestored-to.tk
 arestirred.tk
-aresuch.tk
 arm-chair.tk
 armed-with-pistols.tk
 armour-piled.tk
@@ -1201,7 +1200,6 @@ happeningwhen.tk
 happiness-cut.tk
 hard-lines.tk
 harryspends.tk
-has-not-been.tk
 has-seared.tk
 hated-kelso.tk
 hatethefinest.tk
@@ -1339,7 +1337,6 @@ isimprobable.tk
 isincredible.tk
 itforamoment.tk
 itmaybe.tk
-its-monstrous.tk
 its-suggestion.tk
 iwas-there.tk
 iwent-out.tk
