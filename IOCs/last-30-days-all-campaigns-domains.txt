@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 08:30:02 UTC 
+# last updated on: 2018-04-08 09:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -807,7 +807,6 @@ and-thehissing.tk
 and-then-for.tk
 and-thepicture.tk
 and-took-mosy.tk
-and-vivid.tk
 and-wandered.tk
 and-wasalso.tk
 and-wemust.tk
@@ -1206,7 +1205,6 @@ having-reached.tk
 he-investigated.tk
 he-openedit.tk
 hearour-laughter.tk
-hebecomes.tk
 hebrew-who.tk
 heconsidered.tk
 hecould-not.tk
@@ -1503,6 +1501,7 @@ of-manon.tk
 of-myself.tk
 of-some.tk
 of-tears.tk
+of-thebeauty.tk
 of-thedescription.tk
 of-thehand.tk
 of-thekind.tk
@@ -1768,6 +1767,7 @@ table-for-supper.tk
 tableunder.tk
 talk-impudent.tk
 talk-likethat.tk
+talking-tohis.tk
 taught-me.tk
 tea-things.tk
 tea-tray.tk
