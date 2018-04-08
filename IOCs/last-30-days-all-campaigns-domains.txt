@@ -1,4 +1,4 @@
-# last updated on: 2018-04-08 07:30:01 UTC 
+# last updated on: 2018-04-08 08:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -844,7 +844,6 @@ apackof.tk
 apartof-his.tk
 apricot-coloured.tk
 aquarterof.tk
-areborrowed.tk
 arefriends.tk
 arerestored-to.tk
 arestirred.tk
@@ -1854,7 +1853,6 @@ they-appear.tk
 they-entered.tk
 theyhad.tk
 theyled.tk
-theywere.tk
 thirdedition.tk
 this-particular.tk
 this-sillyboy.tk
@@ -1935,6 +1933,7 @@ used-tolook.tk
 usual-care.tk
 valet-butler.tk
 valois-byclovis.tk
+various-dishes.tk
 verydisappointing.tk
 visible-incarnation.tk
 visited-louis.tk
@@ -1994,6 +1993,7 @@ what-had-this.tk
 what-tofollow.tk
 whatenmity.tk
 whatever-hetook.tk
+whatever-little.tk
 whatever-they.tk
 when-theduke.tk
 when-things.tk
