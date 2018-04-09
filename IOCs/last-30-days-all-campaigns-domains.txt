@@ -1,4 +1,4 @@
-# last updated on: 2018-04-09 06:30:01 UTC 
+# last updated on: 2018-04-09 07:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -56,7 +56,6 @@
 0jirpsystem.tk
 0korjdcalltoday.tk
 0kozcalltoday.tk
-0mivcalltoday.tk
 0nixozcalltoday.tk
 0pskins.bid
 0sdrwocalltoday.tk
@@ -1067,6 +1066,7 @@ footsteps-going.tk
 for-days.tk
 for-margaretof.tk
 for-nearlyten.tk
+for-parliament.tk
 for-science.tk
 for-sibyl.tk
 for-themoment.tk
@@ -1308,7 +1308,6 @@ keys-thehigh-pitched.tk
 kill-myself.tk
 know-whati.tk
 kolokcallcenter.tk
-lad-was.tk
 lampbest.tk
 lanternon.tk
 lapof-thefaded.tk
@@ -1820,6 +1819,7 @@ to-avoid.tk
 to-theserious.tk
 to-us-changed.tk
 to-yield.tk
+to-yourself.tk
 tobe-in-travail.tk
 tobemarried.tk
 tobemixed.tk
