@@ -1,4 +1,4 @@
-# last updated on: 2018-04-09 15:30:01 UTC 
+# last updated on: 2018-04-09 16:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2445,6 +2445,7 @@ curious-dream.tk
 curious-way.tk
 curiousone.tk
 curledup.tk
+cursehaunting.tk
 curtained-picture.tk
 curtained-window.tk
 curves-to-keep.tk
@@ -3753,6 +3754,7 @@ most-carefully.tk
 most-developed.tk
 most-members.tk
 most-perfect.tk
+mostamateurs.tk
 mostastounding.tk
 mostexpensive.tk
 mostimportant.tk
