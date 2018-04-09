@@ -1,4 +1,4 @@
-# last updated on: 2018-04-09 05:30:01 UTC 
+# last updated on: 2018-04-09 06:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3125,6 +3125,7 @@ his-personality.tk
 his-rounds.tk
 his-servant.tk
 his-spare.tk
+his-standing.tk
 his-strange.tk
 his-subtle.tk
 his-sudden.tk
@@ -5619,6 +5620,7 @@ your-favourite.tk
 your-forehead.tk
 your-friend.tk
 your-head.tk
+your-horrible.tk
 your-hour.tk
 your-moods.tk
 your-pastuntil.tk

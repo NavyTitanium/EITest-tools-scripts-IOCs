@@ -1,4 +1,4 @@
-# last updated on: 2018-04-09 05:30:01 UTC 
+# last updated on: 2018-04-09 06:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -399,7 +399,6 @@
 56rbhdirhelper.tk
 56rbhfiucalling.tk
 56robcalling.tk
-56tyevgjhelper.tk
 56ubugcalling.tk
 56wbhaihelper.tk
 56zyzuhelper.tk
@@ -1219,6 +1218,7 @@ his-horsewas.tk
 his-nature.tk
 his-necktie.tk
 his-rounds.tk
+his-standing.tk
 his-strange.tk
 his-sudden.tk
 his-valet.tk
@@ -2053,6 +2053,7 @@ young-lord.tk
 younger-than.tk
 youquite.tk
 your-forehead.tk
+your-horrible.tk
 your-hour.tk
 your-moods.tk
 your-personality.tk
