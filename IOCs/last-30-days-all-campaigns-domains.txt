@@ -1,4 +1,4 @@
-# last updated on: 2018-04-09 12:30:01 UTC 
+# last updated on: 2018-04-09 13:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -957,6 +957,7 @@ daysbefore.tk
 daythat-georgia.tk
 deepenedinto.tk
 degradation.tk
+destroy-it-sothat.tk
 determined-to.tk
 development-supp.tk
 devoted-to.tk
@@ -1068,7 +1069,6 @@ freshimpulse.tk
 friendasyou.tk
 friendshipis.tk
 from-me-and.tk
-from-strength.tk
 from-thediplomatic.tk
 from-thepicture.tk
 from-thepillow.tk
@@ -1529,6 +1529,7 @@ piece-of-work.tk
 places-near.tk
 plainand-tame.tk
 playbegan.tk
+played-both.tk
 pleasant9-land.tk
 plowed-ina-million.tk
 poisonous-germ.tk
