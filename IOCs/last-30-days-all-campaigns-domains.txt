@@ -1,4 +1,4 @@
-# last updated on: 2018-04-09 22:00:01 UTC 
+# last updated on: 2018-04-09 22:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -119,6 +119,7 @@
 1st-correspondence.tk
 1st-cried-thelad.tk
 1st-facewould.tk
+1st-feel-that.tk
 1st-hehad-been.tk
 1st-his-forehead.tk
 1st-long-time.tk
@@ -342,7 +343,6 @@
 4joebhhelp.tk
 4jokopobuzz.tk
 4kohyrthelp.tk
-4lokoicallup.tk
 4opgetbackto.tk
 4ophutcallup.tk
 4pobokhelp.tk
@@ -1146,6 +1146,7 @@ her-right.tk
 her-vmammy.tk
 here-in-2north.tk
 heremembered-now.tk
+hero-of-the.tk
 hesaw-that.tk
 hesawit.tk
 heshivered.tk
@@ -1241,7 +1242,6 @@ ishall-never.tk
 isimprobable.tk
 isincredible.tk
 itforamoment.tk
-itmaybe.tk
 its-suggestion.tk
 iwas-there.tk
 iwent-out.tk
@@ -1978,6 +1978,7 @@ woman-risking.tk
 woman-who-supp.tk
 wondered-how.tk
 wonderful-frame.tk
+wonderful-novel.tk
 wonderfulevening.tk
 world-it-was.tk
 wormedout.tk
