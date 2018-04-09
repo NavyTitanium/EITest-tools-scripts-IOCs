@@ -1,4 +1,4 @@
-# last updated on: 2018-04-09 04:30:01 UTC 
+# last updated on: 2018-04-09 05:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -245,7 +245,6 @@
 32huvcallus.tk
 32jidacalltohelp.tk
 32jievccalltohelp.tk
-32jircalltohelp.tk
 32jongetonthehorn.tk
 32kovcalltohelp.tk
 32kovcallus.tk
@@ -1828,6 +1827,7 @@ to-us-changed.tk
 to-yield.tk
 tobe-in-travail.tk
 tobemarried.tk
+tobemixed.tk
 tobeseparated.tk
 tocallme.tk
 todaymax.bid
@@ -1976,6 +1976,7 @@ whitewalled-in.tk
 who-is-pouring.tk
 whobullied.tk
 whocould-supp.tk
+whohad-set.tk
 wholemonth.tk
 wholeworld-now.tk
 wholeworld-su.tk
