@@ -1,4 +1,4 @@
-# last updated on: 2018-04-10 13:00:01 UTC 
+# last updated on: 2018-04-10 13:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -304,7 +304,6 @@
 48yuevgdhelp.tk
 4erbcallus.tk
 4eudnhelp.tk
-4euirbhelp.tk
 4evawekhelp.tk
 4ferccallup.tk
 4gyfrhelp.tk
@@ -327,7 +326,6 @@
 4ophutcallup.tk
 4pobokhelp.tk
 4ryvpcallup.tk
-4shuencallup.tk
 4tebvax4help.tk
 4uiegiveacall.tk
 4yebhdcallup.tk
@@ -595,7 +593,6 @@
 9evecalltodaz.tk
 9gyasgivearing.tk
 9gybecontact.tk
-9gyebvcalltodaz.tk
 9gyv9calltodaz.tk
 9hjeo98supp.tk
 9hjeposystem.tk
@@ -859,6 +856,7 @@ clutching-the.tk
 come-across.tk
 comelord.tk
 commandingofficer.tk
+completelypassed.tk
 concern-me.tk
 concernyou.tk
 confession-mine.tk
@@ -1066,7 +1064,9 @@ grimystreets.tk
 grinningat-the.tk
 grove-ofoak.tk
 had-claimed.tk
+had-kept-supp.tk
 had-nodoubt.tk
+had-notyet.tk
 had-praised.tk
 had-spent.tk
 had-such.tk
