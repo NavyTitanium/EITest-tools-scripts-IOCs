@@ -1,4 +1,4 @@
-# last updated on: 2018-04-10 16:30:01 UTC 
+# last updated on: 2018-04-10 17:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -64,7 +64,6 @@
 1biucall.tk
 1bugcallcenter.tk
 1dapacall.tk
-1foiacallcenter.tk
 1ghucallcenter.tk
 1gyekcall.tk
 1hjencall.tk
@@ -167,7 +166,6 @@
 2gerascallfast.tk
 2gyepcallfast.tk
 2gyevccallfast.tk
-2hjencalls.tk
 2huebv2callfast.tk
 2huelcallfast.tk
 2huencallfast.tk
@@ -839,6 +837,7 @@ chill-rooms.tk
 chinadishes.tk
 choice-of.tk
 chosenemy-own.tk
+clammysweat.tk
 clayton-wild-cats.tk
 cleansheetsmy.tk
 clear-tohim.tk
@@ -1248,6 +1247,7 @@ laughedat-them.tk
 lay-acopy.tk
 lays-sudden.tk
 leafless-trees.tk
+leaningagainst.tk
 leave-him.tk
 left-clasped.tk
 legacybeen.tk
@@ -1462,6 +1462,7 @@ panegyricon.tk
 parisapost.tk
 partedin.tk
 passed-by.tk
+passed-his.tk
 passion-was.tk
 pathofknowledge.tk
 peaceful-plowed.tk
