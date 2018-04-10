@@ -1,4 +1,4 @@
-# last updated on: 2018-04-10 06:00:01 UTC 
+# last updated on: 2018-04-10 06:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -392,7 +392,6 @@
 5huen5calling.tk
 5huenbcalling.tk
 5huevgshelper.tk
-5hurnvcalling.tk
 5huwbcalling.tk
 5huwcshelper.tk
 5ioebhyhelper.tk
@@ -920,6 +919,7 @@ deepenedinto.tk
 degradation.tk
 desolatetreacherous.tk
 destroy-it-sothat.tk
+destroyabody.tk
 determined-to.tk
 development-supp.tk
 devoted-to.tk
@@ -1493,6 +1493,7 @@ playbegan.tk
 played-both.tk
 pleasant9-land.tk
 plowed-ina-million.tk
+poison-that.tk
 poisonous-germ.tk
 policeman-strolled.tk
 political-speaking.tk
@@ -1642,7 +1643,6 @@ statuetteby.tk
 sterner-discipline.tk
 stillifelt.tk
 stir-their-dust.tk
-stood-there.tk
 stood-therenow.tk
 stooda.tk
 stopped-painting.tk
@@ -1899,6 +1899,7 @@ werebenefiting.tk
 wereboth.tk
 werebrought.tk
 wereleaving.tk
+werepictured.tk
 what-had-this.tk
 what-tofollow.tk
 whatenmity.tk
