@@ -1,4 +1,4 @@
-# last updated on: 2018-04-10 15:30:01 UTC 
+# last updated on: 2018-04-10 16:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huensystem.tk
@@ -105,7 +105,6 @@
 1okoipickup.tk
 1olkocall.tk
 1opjcallcenter.tk
-1opkocall.tk
 1oploicallcenter.tk
 1ove1ess-man.tk
 1pipiycall.tk
@@ -606,7 +605,6 @@
 9jikocontact.tk
 9jiwvgscalltodaz.tk
 9jorcalltous.tk
-9koebhdtcalltodaz.tk
 9pokicontact.tk
 9ponjcontact.tk
 9rbyzcalltodaz.tk
@@ -1125,6 +1123,7 @@ hesaw-that.tk
 hesawit.tk
 heshivered.tk
 hetorehis.tk
+heturnedand.tk
 hewalked.tk
 hewas-driven.tk
 hewas-fully.tk
@@ -1178,6 +1177,7 @@ i-am-growing.tk
 iaems.edu.eg
 iamafraid-call.tk
 ibegyour.tk
+if-his-blood.tk
 if-thepicture.tk
 ifahand.tk
 ifeel-that.tk
@@ -1449,6 +1449,7 @@ over-tothe.tk
 over-towards.tk
 overand-then.tk
 own-boldness.tk
+own-picture.tk
 own-portrait.tk
 own-work.tk
 ownidea-onethat.tk
