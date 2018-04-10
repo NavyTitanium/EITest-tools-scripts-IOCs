@@ -1,7 +1,6 @@
-# last updated on: 2018-04-10 19:00:01 UTC 
+# last updated on: 2018-04-10 19:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
-00huensystem.tk
 00huepocontact.tk
 00ijeposystem.tk
 00jirsystem.tk
@@ -66,7 +65,6 @@
 1dapacall.tk
 1ghucallcenter.tk
 1gyekcall.tk
-1hjencall.tk
 1hjocallcenter.tk
 1hjrosupp.tk
 1huelocall.tk
@@ -364,7 +362,6 @@
 5huebgdyhelper.tk
 5huebvhelper.tk
 5huen5calling.tk
-5huenbcalling.tk
 5huevgshelper.tk
 5huwbcalling.tk
 5huwcshelper.tk
@@ -1300,6 +1297,7 @@ memonth.tk
 merelywhat.tk
 mesomeday.tk
 method-was.tk
+metoafriend.tk
 mewitha.tk
 midseptember.tk
 might-be.tk
@@ -1367,6 +1365,7 @@ now-first-time.tk
 now-going-through.tk
 now-hemurmured.tk
 now-hiseyes.tk
+now-portraitof.tk
 now-there-is-nothing.tk
 now-wasalways.tk
 nowand-passion.tk
@@ -2004,9 +2003,11 @@ you-aredry.tk
 you-arescientific.tk
 you-as-paris.tk
 you-expect.tk
+you-introduced.tk
 youaremad.tk
 youbecame.tk
 youchaps.tk
+youfinished.tk
 youhad-much.tk
 youhad-said.tk
 youletany.tk
