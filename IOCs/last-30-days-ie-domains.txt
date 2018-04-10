@@ -1,4 +1,4 @@
-# last updated on: 2018-04-10 07:00:02 UTC 
+# last updated on: 2018-04-10 07:30:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2344,6 +2344,7 @@ chinadishes.tk
 chinese-isspoken.tk
 choice-of.tk
 choresare.tk
+chosenemy-own.tk
 christie-is-known.tk
 cinema-is.tk
 citizensof.tk
@@ -4393,6 +4394,7 @@ really-enjoy.tk
 really-knows-what.tk
 reallylike.tk
 reallymind.tk
+reallytalk.tk
 reallytough.tk
 receive-information.tk
 recent-survey.tk
