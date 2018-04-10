@@ -1,4 +1,4 @@
-# last updated on: 2018-04-10 21:30:01 UTC 
+# last updated on: 2018-04-10 22:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3293,6 +3293,7 @@ in-general.tk
 in-good.tk
 in-helpingyou.bid
 in-his-face.tk
+in-his-hands.tk
 in-his-low.tk
 in-his-memoires.tk
 in-hollywood.tk
@@ -4471,6 +4472,7 @@ rich-dividends.tk
 rich-earth.tk
 richand.tk
 richer-than.tk
+ricketychair.tk
 river-bottoms.tk
 roi777.com
 role-of-human.tk
