@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 16:30:01 UTC 
+# last updated on: 2018-04-11 17:00:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huepocontact.tk
@@ -414,7 +414,6 @@
 7jiebccallnow.tk
 7jiebdcallnow.tk
 7jirbcallnow.tk
-7jiwecallingnow.tk
 7moponcallnow.tk
 7njepcallnow.tk
 7okjocallnow.tk
@@ -465,7 +464,6 @@
 8jienbbuzz.tk
 8kooebccalltous.tk
 8oprmkbuzz.tk
-8uiebh8buzz.tk
 8uiejhsbuzz.tk
 8uiepjibuzz.tk
 8uiftrtech.tk
@@ -1861,6 +1859,7 @@ was-neither.tk
 was-nomotive.tk
 was-nothingnow.tk
 was-premature-now.tk
+was-romance.tk
 was-sitting-now.tk
 was-speaking.tk
 was-standing-supp.tk
