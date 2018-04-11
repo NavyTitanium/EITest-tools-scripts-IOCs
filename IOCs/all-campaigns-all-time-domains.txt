@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 20:30:02 UTC 
+# last updated on: 2018-04-11 21:00:02 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -4487,6 +4487,7 @@ put-his-hand.tk
 puttingon.tk
 quailor.tk
 quality-of.tk
+quarrel-had.tk
 quarter-of-a-century.tk
 quartersof.tk
 queenelizabeth.tk
@@ -4631,6 +4632,7 @@ seen-there.tk
 seenusin-quite.tk
 seethat.tk
 seethings.tk
+selbyroyal.tk
 self-denial-supp.tk
 self-development-mine.tk
 self-torture.tk
@@ -4911,6 +4913,7 @@ sweptacross.tk
 symboldo.tk
 table-for-supper.tk
 tableunder.tk
+taken-place.tk
 takes-care.tk
 takingout.tk
 talentsand.tk
