@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 07:00:02 UTC 
+# last updated on: 2018-04-11 07:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2917,6 +2917,7 @@ God-directed-more.bid
 going-forth.tk
 going-to-end.tk
 going-tocollect.tk
+going-torise.tk
 going-tothe.tk
 gold-embroidered.tk
 golden-globe.tk
@@ -4511,6 +4512,7 @@ running-because.tk
 runningand.tk
 runningiseasy.tk
 runsmooth.tk
+rushedat-him.tk
 russian-literature.tk
 s0mething-5eemed.tk
 said-good-bye.tk
