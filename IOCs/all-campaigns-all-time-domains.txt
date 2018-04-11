@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 01:00:01 UTC 
+# last updated on: 2018-04-11 01:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -2921,6 +2921,7 @@ give-everything.tk
 givenus.tk
 gives-something.tk
 gladyoudidnt.tk
+glancedat.tk
 gleamedat.tk
 gleaming-nbrightness.tk
 glides-through.tk
@@ -4000,6 +4001,7 @@ notcruel.tk
 notebeen-satisfied.tk
 notescape.tk
 nothing-seems.tk
+nothing-tome.tk
 notinfluenced.tk
 notoffendedcall.tk
 notyet-succeeded.tk
