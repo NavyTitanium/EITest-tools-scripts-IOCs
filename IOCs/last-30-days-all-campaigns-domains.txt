@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 09:00:02 UTC 
+# last updated on: 2018-04-11 09:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huepocontact.tk
@@ -266,7 +266,6 @@
 48rubdcallup.tk
 48tywfgahelp.tk
 48uiebhdhelp.tk
-48yuevgdhelp.tk
 4erbcallus.tk
 4eudnhelp.tk
 4ferccallup.tk
@@ -329,7 +328,6 @@
 5ferpmkhelper.tk
 5gyvcallup.tk
 5huderwhelp.tk
-5huebgdyhelper.tk
 5huebvhelper.tk
 5huen5calling.tk
 5huevgshelper.tk
@@ -845,6 +843,7 @@ destroyabody.tk
 determined-to.tk
 development-supp.tk
 devoted-to.tk
+did-not-move.tk
 difference-is.tk
 dimlyconscious.tk
 dimpink.tk
@@ -1701,6 +1700,7 @@ thegas-lamps.tk
 thegoodenglish.tk
 thegravel.tk
 thehall-table.tk
+thehead-down.tk
 theher-times.tk
 thehideous-face.tk
 theirparents.tk
@@ -1811,6 +1811,7 @@ turned-round.tk
 turned-to.tk
 turningon.tk
 twelve-oclock.tk
+twicemore.tk
 two-faced-littler.tk
 twochapters.tk
 twoglobe-shaped.tk
