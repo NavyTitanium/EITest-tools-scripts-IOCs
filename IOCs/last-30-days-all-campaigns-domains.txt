@@ -1,4 +1,4 @@
-# last updated on: 2018-04-10 23:30:02 UTC 
+# last updated on: 2018-04-11 00:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huepocontact.tk
@@ -32,7 +32,6 @@
 0hu012system.tk
 0huepasscalltoday.tk
 0huepocontact.tk
-0hufdzsa0calltoday.tk
 0huvefcalltoday.tk
 0huvutring.tk
 0huwvcadfasupport.tk
@@ -121,6 +120,7 @@
 1stand-he-always.tk
 1stand-when.tk
 1stand-wizen.tk
+1staroundand.tk
 1stcut-short.tk
 1stever-done.tk
 1steverythingabout.tk
@@ -2022,3 +2022,4 @@ your-moods.tk
 your-personality.tk
 yousuddenly.tk
 youthought.tk
+youworshipped.tk
