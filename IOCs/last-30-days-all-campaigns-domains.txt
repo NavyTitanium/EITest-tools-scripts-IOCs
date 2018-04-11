@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 12:30:02 UTC 
+# last updated on: 2018-04-11 13:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huepocontact.tk
@@ -433,7 +433,6 @@
 7revtelephone.tk
 7typhone.tk
 7wevaocallnow.tk
-7yevgdkcallnow.tk
 7yutbcallnow.tk
 81tyvabuzz.tk
 82gyxcalltous.tk
@@ -1229,6 +1228,7 @@ longestday.tk
 longoutof.tk
 looked-back.tk
 looking-rather.tk
+lookingat-now.tk
 lookingateach.tk
 losing-myway.tk
 losing-them.tk
@@ -1585,6 +1585,7 @@ somenew.tk
 someonemight.tk
 something-seems.tk
 sometimes-led.tk
+somework-todo.tk
 sonofalexander.tk
 sortof-life.tk
 sortof-lives.tk
