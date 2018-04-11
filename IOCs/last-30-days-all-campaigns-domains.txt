@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 08:30:01 UTC 
+# last updated on: 2018-04-11 09:00:02 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huepocontact.tk
@@ -190,7 +190,6 @@
 31kobycalltohelp.tk
 31lphuvcalltohelp.tk
 32hudazcallus.tk
-32huecalltohelp.tk
 32huhycallus.tk
 32huvcallus.tk
 32jidacalltohelp.tk
@@ -1607,6 +1606,7 @@ spirit-from.tk
 spoiled-that.tk
 spoilthechild.tk
 squaresabout.tk
+stabbed-him.tk
 stabbingagain.tk
 stained-trumpet.tk
 stand-where.tk
