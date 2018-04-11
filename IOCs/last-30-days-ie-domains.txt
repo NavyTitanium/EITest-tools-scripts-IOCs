@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 16:00:02 UTC 
+# last updated on: 2018-04-11 16:30:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3005,6 +3005,7 @@ hadevenin.tk
 hadnot-been.tk
 hadodo.tk
 half-burned.tk
+half-closedeyes.tk
 half-pasteight.tk
 hallward-shook.tk
 hallward-stirred.tk
@@ -4945,6 +4946,7 @@ the-6dogwood.tk
 the-aimof.tk
 the-annoyance.tk
 the-aristocracy.tk
+the-autum-that.tk
 the-economy.tk
 the-electronic.tk
 the-endof.tk
@@ -5181,6 +5183,7 @@ this-waythey.tk
 thisability.tk
 thomas-fuller.tk
 those-whocannot.tk
+thosetwolines.tk
 thosewere.tk
 thosewhose.tk
 thosewhosenew.tk
