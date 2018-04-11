@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 11:30:01 UTC 
+# last updated on: 2018-04-11 12:00:01 UTC 
 000losupport.tk
 0056hurcalltoday.tk
 00axzscalltoday.tk
@@ -3175,6 +3175,7 @@ his-characters.tk
 his-country.tk
 his-feet.tk
 his-fingers.tk
+his-fur-coat.tk
 his-goals.tk
 his-hand.tk
 his-head.tk
@@ -4649,6 +4650,7 @@ slanted-downin.tk
 slashed-sleeves.tk
 slight-look.tk
 slightlylower.tk
+slow-heavy.tk
 small-brook.tk
 small-farmer.tk
 small-mouth.tk
@@ -5317,6 +5319,7 @@ transmittedimmediately.tk
 travelling-is-great.tk
 travellingin.tk
 treacherous-crime.tk
+treadof-the.tk
 treasuryis.tk
 treat-people.tk
 treated-bythem.tk
