@@ -1,4 +1,4 @@
-# last updated on: 2018-04-11 05:00:02 UTC 
+# last updated on: 2018-04-11 05:30:01 UTC 
 00axzscalltoday.tk
 00givccalltoday.tk
 00huepocontact.tk
@@ -65,7 +65,6 @@
 1huelocall.tk
 1huenjgetbackto.tk
 1huepickup.tk
-1hurmcall.tk
 1huwpogetbackto.tk
 1ijkigetbackto.tk
 1iobcall.tk
@@ -88,7 +87,6 @@
 1lohucallcenter.tk
 1lomoncallcenter.tk
 1lopjcallcenter.tk
-1oijicallcenter.tk
 1oincallcenter.tk
 1oiwkjcall.tk
 1okkocallcenter.tk
@@ -383,7 +381,6 @@
 65sxascallingnow.tk
 65tnflcallingnow.tk
 68yurbhdcallingnow.tk
-69uitbcallingnow.tk
 6bhfikcallingnow.tk
 6dawtrphone.tk
 6drwxhelper.tk
@@ -1087,6 +1084,7 @@ heremembered-now.tk
 hero-of-the.tk
 hesaw-that.tk
 hesawit.tk
+heseizedit.tk
 heshivered.tk
 hetorehis.tk
 heturnedand.tk
