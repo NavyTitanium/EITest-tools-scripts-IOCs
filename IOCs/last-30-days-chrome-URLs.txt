@@ -1,8 +1,7 @@
-# last updated on: 2018-04-11 15:00:01 UTC 
+# last updated on: 2018-04-11 15:30:01 UTC 
 http://fyp.citytech.cuny.edu/page2.php
 http://iaems.edu.eg/indexi.php
 http://iaems.edu.eg/page2.php
-http://www.lamission.edu/indexi.php
 http://www.lamission.edu/page2.php
 http://www.umes.edu.gt/indexi.php
 http://www.umes.edu.gt/page2.php
