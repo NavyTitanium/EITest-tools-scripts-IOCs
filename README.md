@@ -16,7 +16,7 @@ Decodes data transmitted from the EITest C2 to the infected website (the content
 
 # parsing-EITest_GET-requests.py
 
-Script created to process the GET requests from the EITest sinkhole server and store them in a MySQL database. It takes as input the log file of all requests, then decodes and processes them using multiple threads.
+Process the GET requests from the EITest sinkhole server and store them in a MySQL database. Takes as input a large log file containing millions of requests, decode and process them using multiple threads.
 
 # Malicious files
 
