@@ -14,6 +14,14 @@ Decodes data transmitted by the victims to help.php and download.php.
 
 Decodes data transmitted from the EITest C2 to the infected website (the content to be injected in the webpage).
 
+# parsing-EITest_GET-requests.py
+
+Was created as an quick-and-dirty solution to parse GET requests from the EITest sinkhole server and store them in a MySQL database.
+
+The script use the python Queue library to allow the paralization of processing in multiple threads.
+
+We ended up using a ELK stack instead.
+
 # Malicious files
 
 Contains differents artefact belonging to EITest.
