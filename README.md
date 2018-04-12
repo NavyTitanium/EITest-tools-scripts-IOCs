@@ -1,6 +1,6 @@
 # IOCs
 
-<strike>Indicators of Compromise (IOCs) updated every 30 minutes related to EITest campaigns.</strike> EITest is dead since 2018-03-15. The domain name used in the DGA algorithm (stat-dns.com) has been sinkholed.
+<strike>Indicators of Compromise (IOCs) updated every 30 minutes related to EITest campaigns.</strike> The domain stat-dns.com used in EITest's DGA algorithm has been sinkholed. As a result, the EITest campaign now appears to have been shutdown since 2018-03-15.
 
 # backend-decipher.py
 
